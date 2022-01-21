@@ -15,8 +15,8 @@ The font is consequently given a different name (including PostScript name) from
 INSTALLATION
 Install the font in the usual way. The JSON file must be added to the following location:
 
-Windows: C:\Program Files\Common Files\SMuFL\Fonts\GoldenAge\GoldenAge.json
-Mac: /Library/Application Support/SMuFL/Fonts/GoldenAge/GoldenAge.json
+Windows: `C:\Program Files\Common Files\SMuFL\Fonts\GoldenAge\GoldenAge.json`
+Mac: `/Library/Application Support/SMuFL/Fonts/GoldenAge/GoldenAge.json`
 
 LICENCE
 
