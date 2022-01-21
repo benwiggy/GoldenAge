@@ -12,4 +12,12 @@ Because the SMuFL character range does not conflict with the standard text font 
 
 The font is consequently given a different name (including PostScript name) from the legacy package. This allows the old fonts to be used alongside, if needed, and ensures that old documents will have to be altered (if only by selecting the new font) -- and checked!
 
+INSTALLATION
+Install the font in the usual way. The JSON file must be added to the following location:
+
+Windows: C:\Program Files\Common Files\SMuFL\Fonts\GoldenAge\GoldenAge.json
+Mac: /Library/Application Support/SMuFL/Fonts/GoldenAge/GoldenAge.json
+
+LICENCE
+
 This font is release under the SIL Open Font Licence. See the accompanying OFL.txt file.
