@@ -18,18 +18,18 @@
   "repeatEndingLineThickness": 0.16, 
   "slurEndpointThickness": 0.1, 
   "slurMidpointThickness": 0.22, 
-  "staffLineThickness": 0.13, 
-  "stemThickness": 0.12, 
+  "staffLineThickness": 0.17, 
+  "stemThickness": 0.14, 
   "subBracketThickness": 0.16, 
   "textEnclosureThickness": 0.16, 
   "thickBarlineThickness": 0.5, 
-  "thinBarlineThickness": 0.16, 
+  "thinBarlineThickness": 0.18, 
   "tieEndpointThickness": 0.1, 
   "tieMidpointThickness": 0.22, 
   "tupletBracketThickness": 0.16
  }, 
  "fontName": "Golden Age", 
- "fontVersion": 0.8, 
+ "fontVersion": 0.9, 
  "glyphBBoxes": {
   "null": {
    "bBoxNE": [
