@@ -12,28 +12,28 @@ Because the SMuFL character range does not conflict with the standard text font 
 
 The font is consequently given a different name (including PostScript name) from the legacy package. This allows the old fonts can continue to be used in old documents. Documents updated to the new font will need to be checked to ensure that nothing has moved!
 
-BOXES  
+### BOXES  
 The font uses glyphs to create boxes around text. There are left and right ends, and zero-width horizontal lines that can be interspersed between each character inside the box.
 
-Complete Box:  
+**Complete Box:**  
 Integral, Delta: Left right ends.  
 Infinity: top and bottom (used between each character)  
 
-Bottomless box:   
+**Bottomless box:**   
 Guillemot Left, Right: Ends  
 Section: Top  
 
-Topless Box:
+**Topless Box:**  
 Guillemot Single Left right  
 Double dagger: Bottom line  
 
 
-INSTALLATION
+### INSTALLATION 
 Install the font in the usual way. The JSON file must be added to the following location:
 
 Windows: `C:\Program Files\Common Files\SMuFL\Fonts\Golden Age\Golden Age.json`  
 Mac: `/Library/Application Support/SMuFL/Fonts/Golden Age/Golden Age.json`
 
-LICENCE
+### LICENCE
 
-This font is © Don Rice, and release under the SIL Open Font Licence. See the accompanying OFL.txt file.
+This font is © Don Rice, and released under the SIL Open Font Licence. See the accompanying OFL.txt file.
