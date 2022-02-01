@@ -22,4 +22,4 @@ Mac: `/Library/Application Support/SMuFL/Fonts/Golden Age/Golden Age.json`
 
 LICENCE
 
-This font is release under the SIL Open Font Licence. See the accompanying OFL.txt file.
+This font is © Don Rice, and release under the SIL Open Font Licence. See the accompanying OFL.txt file.
