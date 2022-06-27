@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE4D1" format="2">
+  <advance width="652"/>
+  <unicode hex="E4D1"/>
+  <outline>
+    <contour>
+      <point x="651" y="437" type="curve"/>
+      <point x="545" y="373" type="line"/>
+      <point x="492" y="281"/>
+      <point x="236" y="-8"/>
+      <point x="136" y="-130" type="curve"/>
+      <point x="244" y="-66" type="line"/>
+      <point x="366" y="86"/>
+      <point x="567" y="291"/>
+    </contour>
+    <contour>
+      <point x="514" y="470" type="curve"/>
+      <point x="408" y="406" type="line"/>
+      <point x="356" y="315"/>
+      <point x="100" y="26"/>
+      <point x="-1" y="-97" type="curve"/>
+      <point x="105" y="-32" type="line"/>
+      <point x="233" y="128"/>
+      <point x="420" y="306"/>
+    </contour>
+  </outline>
+</glyph>

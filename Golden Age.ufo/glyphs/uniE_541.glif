@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE541" format="2">
+  <advance width="110"/>
+  <unicode hex="E541"/>
+  <note>dynamicNienteForHairpin</note>
+  <outline>
+    <contour>
+      <point x="51" y="-64" type="curve" smooth="yes"/>
+      <point x="83" y="-64"/>
+      <point x="110" y="-37"/>
+      <point x="110" y="-1" type="curve" smooth="yes"/>
+      <point x="110" y="31"/>
+      <point x="85" y="64"/>
+      <point x="60" y="64" type="curve" smooth="yes"/>
+      <point x="26" y="64"/>
+      <point x="0" y="36"/>
+      <point x="0" y="-1" type="curve" smooth="yes"/>
+      <point x="0" y="-38"/>
+      <point x="21" y="-64"/>
+    </contour>
+    <contour>
+      <point x="49" y="-36" type="curve" smooth="yes"/>
+      <point x="33" y="-36"/>
+      <point x="10" y="-17"/>
+      <point x="10" y="-4" type="curve" smooth="yes"/>
+      <point x="10" y="15"/>
+      <point x="36" y="33"/>
+      <point x="63" y="33" type="curve" smooth="yes"/>
+      <point x="75" y="33"/>
+      <point x="101" y="8"/>
+      <point x="100" y="-2" type="curve"/>
+      <point x="99" y="-16"/>
+      <point x="69" y="-36"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>note</key>
+  <string>dynamicNienteForHairpin</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>66abf4cd29edebcc3d1482a65fb433a403a4db2b5de713517625a55e2e87270b0632b45e72b70b43bb83dad3ebc5915199bfd4231e50e2f8461dcf4b0ef34b67</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -64 28</string>
+          <string>hstem 33 31</string>
+          <string>vstem 0 110</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

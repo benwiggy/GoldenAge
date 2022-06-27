@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED80" format="2">
+  <advance width="220"/>
+  <unicode hex="ED80"/>
+  <note>fingering0Italic</note>
+  <outline>
+    <contour>
+      <point x="85" y="10" type="curve" smooth="yes"/>
+      <point x="97" y="3"/>
+      <point x="110" y="-1"/>
+      <point x="122" y="-1" type="curve" smooth="yes"/>
+      <point x="142" y="-1"/>
+      <point x="161" y="9"/>
+      <point x="176" y="28" type="curve" smooth="yes"/>
+      <point x="195" y="51"/>
+      <point x="201" y="77"/>
+      <point x="200" y="106" type="curve"/>
+      <point x="203" y="159"/>
+      <point x="176" y="199"/>
+      <point x="143" y="235" type="curve" smooth="yes"/>
+      <point x="133" y="246"/>
+      <point x="120" y="251"/>
+      <point x="107" y="251" type="curve" smooth="yes"/>
+      <point x="92" y="251"/>
+      <point x="78" y="245"/>
+      <point x="66" y="232" type="curve" smooth="yes"/>
+      <point x="37" y="200"/>
+      <point x="20" y="162"/>
+      <point x="20" y="116" type="curve" smooth="yes"/>
+      <point x="20" y="69"/>
+      <point x="40" y="36"/>
+    </contour>
+    <contour>
+      <point x="74" y="46" type="curve"/>
+      <point x="56" y="56"/>
+      <point x="55" y="72"/>
+      <point x="55" y="90" type="curve" smooth="yes"/>
+      <point x="55" y="120"/>
+      <point x="64" y="147"/>
+      <point x="78" y="174" type="curve"/>
+      <point x="89" y="193"/>
+      <point x="104" y="208"/>
+      <point x="125" y="208" type="curve" smooth="yes"/>
+      <point x="155" y="208"/>
+      <point x="157" y="181"/>
+      <point x="165" y="161" type="curve"/>
+      <point x="167" y="152"/>
+      <point x="166" y="142"/>
+      <point x="167" y="132" type="curve"/>
+      <point x="167" y="99"/>
+      <point x="159" y="70"/>
+      <point x="130" y="50" type="curve" smooth="yes"/>
+      <point x="120" y="43"/>
+      <point x="110" y="40"/>
+      <point x="99" y="40" type="curve" smooth="yes"/>
+      <point x="91" y="40"/>
+      <point x="82" y="42"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>note</key>
+  <string>fingering0Italic</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>850ee789d27d733eb917ec0d68af9ee3d73b570770e2b4aa81f2ace16ea116e9f7f39c2466b9c27a634b162e44e7b7d9a5732e34d4f4f6f0cfab872a28198f75</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 20 -21</string>
+          <string>vstem 20 180</string>
+          <string>hstem 208 43</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 20 35</string>
+          <string>hstem 208 43</string>
+          <string>hstem 20 -21</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.105553224047568</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,82 @@
+#> languagesystem
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem grek dflt;
+#< languagesystem
+feature salt {
+# Stylistic Alternates
+  sub uniE000 from [uniF400 uniF401 uniF402 uniF403];
+  sub uniE650 from [uniF434];
+  sub uniE100 from [uniF4E3];
+  sub uniE101 from [uniF4E4];
+  sub uniE102 from [uniF4E5];
+  sub uniE103 from [uniF4E6];
+  sub uniE104 from [uniF4E7];
+  sub uniE105 from [uniF4E8];
+  sub uniE106 from [uniF4E9];
+  sub uniE107 from [uniF4EA];
+  sub uniE108 from [uniF4EB];
+  sub uniE109 from [uniF4EC];
+  sub uniE10A from [uniF4ED];
+sub uniE870 from [uniF4D8];
+sub uniE871 from [uniF4D7];
+sub uniE872 from [uniF4D9];
+sub uniE873 from [uniF4DA];
+sub uniE874 from [uniF4DB];
+sub uniED60 from [uniF4DC];
+  sub uniED61 from [uniF4DD];
+  sub uniED62 from [uniF4DE];
+#> feature
+#< feature
+} salt;
+
+feature ss01 {
+# Stylistic Set 01–20
+sub uniE080 from [uniF45D];
+  sub uniE081 from [uniF45E];
+  sub uniE082 from [uniF45F];
+  sub uniE083 from [uniF460];
+  sub uniE084 from [uniF461];
+  sub uniE085 from [uniF462];
+  sub uniE086 from [uniF463];
+  sub uniE087 from [uniF464];
+  sub uniE088 from [uniF465];
+  sub uniE089 from [uniF466];
+#> feature
+#< feature
+} ss01;
+
+feature ss02 {
+# Stylistic Set 01–20
+sub uniE080 from [uniF440];
+  sub uniE081 from [uniF441];
+  sub uniE082 from [uniF442];
+  sub uniE083 from [uniF443];
+  sub uniE084 from [uniF444];
+  sub uniE085 from [uniF445];
+  sub uniE086 from [uniF446];
+  sub uniE087 from [uniF447];
+  sub uniE088 from [uniF448];
+  sub uniE089 from [uniF449];
+  sub uniE08A from [uniF44A];
+  sub uniE08B from [uniF44B];
+#> feature
+#< feature
+} ss02;
+
+feature ss03 {
+# Stylistic Set 01–20
+sub uniE080 from [uniF506];
+  sub uniE081 from [uniF507];
+  sub uniE082 from [uniF508];
+  sub uniE083 from [uniF509];
+  sub uniE084 from [uniF50A];
+  sub uniE085 from [uniF50B];
+  sub uniE086 from [uniF50C];
+  sub uniE087 from [uniF50D];
+  sub uniE088 from [uniF50E];
+  sub uniE089 from [uniF50F];
+#> feature
+#< feature
+} ss03;
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE0D8" format="2">
+  <advance width="348"/>
+  <unicode hex="E0D8"/>
+  <anchor x="2" y="-1" name="stemDownNW"/>
+  <anchor x="342" y="1" name="stemUpSE"/>
+  <outline>
+    <contour>
+      <point x="351" y="1" type="line"/>
+      <point x="245" y="106" type="line"/>
+      <point x="171" y="165" type="line"/>
+      <point x="74" y="72" type="line"/>
+      <point x="-5" y="-1" type="line"/>
+      <point x="107" y="-116" type="line"/>
+      <point x="171" y="-167" type="line"/>
+      <point x="229" y="-105" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="-6" type="line"/>
+      <point x="261" y="-47" type="line"/>
+      <point x="175" y="-117" type="line"/>
+      <point x="98" y="-42" type="line"/>
+      <point x="50" y="1" type="line"/>
+      <point x="128" y="90" type="line"/>
+      <point x="165" y="109" type="line"/>
+      <point x="263" y="33" type="line"/>
+    </contour>
+  </outline>
+</glyph>

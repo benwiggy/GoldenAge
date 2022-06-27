@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE542" format="2">
+  <advance width="116"/>
+  <unicode hex="E542"/>
+  <note>dynamicHairpinParenthesisLeft</note>
+  <outline>
+    <contour>
+      <point x="103" y="-246" type="curve"/>
+      <point x="103" y="-240"/>
+      <point x="103" y="-238"/>
+      <point x="102" y="-236" type="curve" smooth="yes"/>
+      <point x="101" y="-233"/>
+      <point x="99" y="-230"/>
+      <point x="98" y="-227" type="curve"/>
+      <point x="54" y="-158"/>
+      <point x="34" y="-90"/>
+      <point x="34" y="-23" type="curve" smooth="yes"/>
+      <point x="34" y="57"/>
+      <point x="62" y="134"/>
+      <point x="112" y="211" type="curve"/>
+      <point x="115" y="214"/>
+      <point x="116" y="217"/>
+      <point x="116" y="221" type="curve" smooth="yes"/>
+      <point x="116" y="228"/>
+      <point x="111" y="233"/>
+      <point x="108" y="236" type="curve" smooth="yes"/>
+      <point x="100" y="245"/>
+      <point x="93" y="234"/>
+      <point x="90" y="229" type="curve" smooth="yes"/>
+      <point x="55" y="183"/>
+      <point x="30" y="132"/>
+      <point x="12" y="78" type="curve" smooth="yes"/>
+      <point x="4" y="53"/>
+      <point x="0" y="24"/>
+      <point x="0" y="-6" type="curve" smooth="yes"/>
+      <point x="0" y="-103"/>
+      <point x="41" y="-208"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>note</key>
+  <string>dynamicHairpinParenthesisLeft</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>9650ef4856389254fd12b611b528ed43b33cd62b3b3349a25e8ab2600f2e4eaeb69a6bf17e5eaa25d4cb49edd0d784ecdaf4ba8db72ba7dc6189db9a00d09327</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 0 34</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

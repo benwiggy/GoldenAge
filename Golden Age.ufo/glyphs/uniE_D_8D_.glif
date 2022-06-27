@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED8D" format="2">
+  <advance width="79"/>
+  <unicode hex="ED8D"/>
+  <note>fingeringRightBracketItalic</note>
+  <outline>
+    <contour>
+      <point x="58" y="-28" type="curve"/>
+      <point x="70" y="-27"/>
+      <point x="74" y="-24"/>
+      <point x="74" y="-11" type="curve" smooth="yes"/>
+      <point x="74" y="35" type="line" smooth="yes"/>
+      <point x="74" y="74"/>
+      <point x="73" y="112"/>
+      <point x="78" y="151" type="curve" smooth="yes" name="hr01"/>
+      <point x="79" y="159"/>
+      <point x="79" y="168"/>
+      <point x="79" y="176" type="curve" smooth="yes"/>
+      <point x="79" y="188"/>
+      <point x="79" y="199"/>
+      <point x="78" y="211" type="curve"/>
+      <point x="78" y="239"/>
+      <point x="67" y="249"/>
+      <point x="39" y="251" type="curve"/>
+      <point x="-2" y="251" type="line" smooth="yes"/>
+      <point x="-6" y="251"/>
+      <point x="-12" y="252"/>
+      <point x="-14" y="246" type="curve"/>
+      <point x="-16" y="239"/>
+      <point x="-10" y="236"/>
+      <point x="-5" y="234" type="curve"/>
+      <point x="0" y="233"/>
+      <point x="5" y="232"/>
+      <point x="9" y="232" type="curve"/>
+      <point x="30" y="230"/>
+      <point x="31" y="230"/>
+      <point x="31" y="210" type="curve" smooth="yes"/>
+      <point x="31" y="143"/>
+      <point x="24" y="76"/>
+      <point x="26" y="9" type="curve"/>
+      <point x="27" y="-1"/>
+      <point x="22" y="-4"/>
+      <point x="12" y="-4" type="curve" smooth="yes"/>
+      <point x="8" y="-4"/>
+      <point x="3" y="-3"/>
+      <point x="-1" y="-3" type="curve" smooth="yes"/>
+      <point x="-8" y="-3"/>
+      <point x="-14" y="-5"/>
+      <point x="-20" y="-11" type="curve"/>
+      <point x="-16" y="-18"/>
+      <point x="-12" y="-21"/>
+      <point x="-6" y="-22" type="curve"/>
+      <point x="15" y="-24"/>
+      <point x="36" y="-29"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>note</key>
+  <string>fingeringRightBracketItalic</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>5ff203cc002aecede9a0cdfb0b85a954478c9efdc3517a214201fd21bdfb612e7850b1ffec619b74303452478fe7f76f6d84da0bdac8bbf55bad02e7c7a133e6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 26 48</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 31 47</string>
+        </array>
+        <key>pointTag</key>
+        <string>hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 26 48</string>
+        </array>
+        <key>pointTag</key>
+        <string>._.105553224116464</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

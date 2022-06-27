@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniED2E" format="2">
+  <advance width="182"/>
+  <unicode hex="ED2E"/>
+  <note>fingeringSeparatorSlash</note>
+  <outline>
+    <contour>
+      <point x="28" y="-62" type="curve"/>
+      <point x="43" y="-68"/>
+      <point x="47" y="-54"/>
+      <point x="51" y="-43" type="curve" smooth="yes"/>
+      <point x="180" y="275" type="line" smooth="yes"/>
+      <point x="181" y="278"/>
+      <point x="182" y="282"/>
+      <point x="182" y="285" type="curve" smooth="yes"/>
+      <point x="182" y="292"/>
+      <point x="178" y="298"/>
+      <point x="170" y="302" type="curve" smooth="yes"/>
+      <point x="163" y="305"/>
+      <point x="157" y="308"/>
+      <point x="152" y="308" type="curve" smooth="yes"/>
+      <point x="144" y="308"/>
+      <point x="139" y="301"/>
+      <point x="133" y="286" type="curve" smooth="yes"/>
+      <point x="90" y="180"/>
+      <point x="48" y="74"/>
+      <point x="6" y="-32" type="curve" smooth="yes"/>
+      <point x="2" y="-41"/>
+      <point x="0" y="-47"/>
+      <point x="0" y="-52" type="curve" smooth="yes"/>
+      <point x="0" y="-60"/>
+      <point x="8" y="-61"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>note</key>
+  <string>fingeringSeparatorSlash</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>4f2211c79fd9064e4b90a2f1956bf8a20fb438305bb777e8abb9f50c2ccb40d6f9d7423401c059912a643ced954187d11620826bcdcf29ae75702030c185228b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 308 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
