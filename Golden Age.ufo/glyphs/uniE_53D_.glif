@@ -60,7 +60,7 @@
       <point x="403" y="-41"/>
       <point x="449" y="101"/>
       <point x="469" y="203" type="curve"/>
-      <point x="548" y="203" type="line" name="hr01"/>
+      <point x="548" y="203" type="line" name=".hr01"/>
       <point x="581" y="239" type="line"/>
       <point x="474" y="239" type="line"/>
       <point x="485" y="292"/>
@@ -136,7 +136,7 @@
           <string>hstem 8 26</string>
         </array>
         <key>pointTag</key>
-        <string>hr01</string>
+        <string>.hr01</string>
       </dict>
     </array>
   </dict>

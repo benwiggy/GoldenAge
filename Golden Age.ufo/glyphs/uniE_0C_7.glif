@@ -2,8 +2,8 @@
 <glyph name="uniE0C7" format="2">
   <advance width="347"/>
   <unicode hex="E0C7"/>
-  <anchor x="6" y="126" name="stemDownNW"/>
   <anchor x="340" y="130" name="stemUpSE"/>
+  <anchor x="6" y="126" name="stemDownNW"/>
   <outline>
     <contour>
       <point x="322" y="142" type="curve" smooth="yes"/>

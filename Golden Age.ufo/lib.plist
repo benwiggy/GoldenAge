@@ -714,6 +714,21 @@
     <string>logicalnot</string>
     <string>mu</string>
     <string>daggerdbl</string>
+    <string>uniE250</string>
+    <string>uniE251</string>
+    <string>uniE56E</string>
+    <string>uniF5B2</string>
+    <string>uniF5B3</string>
+    <string>uniF5B4</string>
+    <string>uniE4B6</string>
+    <string>uniE4B7</string>
+    <string>uniE4B8</string>
+    <string>uniE4B9</string>
+    <string>uniE4BA</string>
+    <string>uniE4BB</string>
+    <string>uniE4BC</string>
+    <string>uniE4BD</string>
+    <string>uniF700</string>
   </array>
 </dict>
 </plist>

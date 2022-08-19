@@ -19,7 +19,7 @@
       <point x="135" y="96"/>
       <point x="139" y="190" type="curve" smooth="yes"/>
       <point x="140" y="214"/>
-      <point x="129" y="230" name="hr02"/>
+      <point x="129" y="230" name=".hr02"/>
       <point x="110" y="238" type="curve" smooth="yes"/>
       <point x="95" y="244"/>
       <point x="77" y="245"/>
@@ -31,11 +31,11 @@
       <point x="6" y="225"/>
       <point x="6" y="221" type="curve" smooth="yes"/>
       <point x="6" y="216"/>
-      <point x="9" y="209" name="hr03"/>
+      <point x="9" y="209" name=".hr03"/>
       <point x="9" y="203" type="curve"/>
       <point x="9" y="201" type="line"/>
-      <point x="4" y="123" name="hr04"/>
-      <point x="0" y="45" name="hr05"/>
+      <point x="4" y="123" name=".hr04"/>
+      <point x="0" y="45" name=".hr05"/>
       <point x="0" y="-32" type="curve" smooth="yes"/>
       <point x="0" y="-71"/>
       <point x="1" y="-111"/>
@@ -69,7 +69,7 @@
           <string>vstem 9 130</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553223865904</string>
+        <string>._.105553128262544</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -77,7 +77,7 @@
           <string>vstem 4 125</string>
         </array>
         <key>pointTag</key>
-        <string>hr02</string>
+        <string>.hr02</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -85,7 +85,7 @@
           <string>vstem 9 130</string>
         </array>
         <key>pointTag</key>
-        <string>hr03</string>
+        <string>.hr03</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -93,7 +93,7 @@
           <string>vstem 4 125</string>
         </array>
         <key>pointTag</key>
-        <string>hr04</string>
+        <string>.hr04</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -101,7 +101,7 @@
           <string>vstem 0 129</string>
         </array>
         <key>pointTag</key>
-        <string>hr05</string>
+        <string>.hr05</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -109,7 +109,7 @@
           <string>vstem 4 125</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553223869744</string>
+        <string>._.105553128264304</string>
       </dict>
     </array>
   </dict>

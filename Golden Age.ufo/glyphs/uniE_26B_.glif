@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE26B" format="2">
-  <advance width="76"/>
+  <advance width="126"/>
   <unicode hex="E26B"/>
   <note>accidentalParensRight</note>
   <outline>
     <contour>
-      <point x="60" y="31" type="curve" smooth="yes"/>
-      <point x="60" y="105"/>
-      <point x="32" y="204"/>
-      <point x="-18" y="237" type="curve"/>
-      <point x="-40" y="217" type="line"/>
-      <point x="10" y="184"/>
-      <point x="36" y="82"/>
-      <point x="36" y="9" type="curve" smooth="yes"/>
-      <point x="36" y="-101"/>
-      <point x="-10" y="-190"/>
-      <point x="-63" y="-253" type="curve"/>
-      <point x="-31" y="-231" type="line"/>
-      <point x="22" y="-168"/>
-      <point x="60" y="-79"/>
+      <point x="110" y="31" type="curve" smooth="yes"/>
+      <point x="110" y="105"/>
+      <point x="82" y="204"/>
+      <point x="32" y="237" type="curve"/>
+      <point x="10" y="217" type="line"/>
+      <point x="60" y="184"/>
+      <point x="86" y="82"/>
+      <point x="86" y="9" type="curve" smooth="yes"/>
+      <point x="86" y="-101"/>
+      <point x="40" y="-190"/>
+      <point x="-13" y="-253" type="curve"/>
+      <point x="19" y="-231" type="line"/>
+      <point x="72" y="-168"/>
+      <point x="110" y="-79"/>
     </contour>
   </outline>
   <lib>
@@ -30,13 +30,13 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w76m60,31c60,105 32,204 -18,237l-40,217c10,184 36,82 36,9c36,-101 -10,-190 -63,-253l-31,-231c22,-168 60,-79 60,31</string>
+    <string>w126m110,31c110,105 82,204 32,237l10,217c60,184 86,82 86,9c86,-101 40,-190 -13,-253l19,-231c72,-168 110,-79 110,31</string>
     <key>hintSetList</key>
     <array>
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 36 24</string>
+          <string>vstem 86 24</string>
         </array>
       </dict>
     </array>

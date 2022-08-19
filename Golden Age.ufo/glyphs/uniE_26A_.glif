@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE26A" format="2">
-  <advance width="75"/>
+  <advance width="119"/>
   <unicode hex="E26A"/>
   <note>accidentalParensLeft</note>
   <outline>
@@ -30,7 +30,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w75m135,-249c40,-177 37,-109 37,3c37,90 69,165 101,222l76,200c44,141 13,68 13,-20c13,-110 24,-216 117,-268</string>
+    <string>w119m135,-249c40,-177 37,-109 37,3c37,90 69,165 101,222l76,200c44,141 13,68 13,-20c13,-110 24,-216 117,-268</string>
     <key>hintSetList</key>
     <array>
       <dict>

@@ -18,7 +18,7 @@
       <point x="299" y="87"/>
       <point x="290" y="88" type="curve"/>
       <point x="258" y="89"/>
-      <point x="226" y="90" name="hr01"/>
+      <point x="226" y="90" name=".hr01"/>
       <point x="194" y="90" type="curve"/>
       <point x="161" y="89"/>
       <point x="129" y="89"/>
@@ -81,7 +81,7 @@
           <string>hstem 1 89</string>
         </array>
         <key>pointTag</key>
-        <string>hr01</string>
+        <string>.hr01</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -89,7 +89,7 @@
           <string>hstem 1 87</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553149986368</string>
+        <string>._.105553129468656</string>
       </dict>
       <dict>
         <key>stems</key>
@@ -97,7 +97,7 @@
           <string>hstem -1 89</string>
         </array>
         <key>pointTag</key>
-        <string>._.105553149999088</string>
+        <string>._.105553129471216</string>
       </dict>
     </array>
   </dict>
