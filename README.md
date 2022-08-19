@@ -36,4 +36,4 @@ Mac: `/Library/Application Support/SMuFL/Fonts/Golden Age/Golden Age.json`
 
 ### LICENCE
 
-This font is © Don Rice, and released under the SIL Open Font Licence. See the accompanying OFL.txt file.
+This font is © Don Rice, revised by Ben Byram-Wigfield, and released under the SIL Open Font Licence. See the accompanying OFL.txt file.
