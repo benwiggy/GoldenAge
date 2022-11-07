@@ -15,17 +15,35 @@ The font is consequently given a different name (including PostScript name) from
 ### BOXES  
 The font uses glyphs to create boxes around text. There are left and right ends, and zero-width horizontal lines that can be interspersed between each character inside the box.
 
-**Complete Box:**  
-Integral, Delta: Left right ends.  
-Infinity: top and bottom (used between each character)  
+**Complete Box:**
 
-**Bottomless box:**   
-Guillemot Left, Right: Ends  
-Section: Top  
+| Character | Name | Unicode | Output |
+| --------- | ---- | ------- | ----- |
+| `∫` | INTEGRAL | `U+222B` | Left Edge of Complete Box |
+| `∞` | INFINITY | `U+221E` | Top and Bottom of Complete Box (used between each character) | 
+| `?DELTA?` | ?delta? | `U+?` | Right Edge of Complete Box |
 
-**Topless Box:**  
-Guillemot Single Left right  
-Double dagger: Bottom line  
+Example: `∫C∞o∞m∞p∞l∞e∞t∞e∞ ∞B∞o∞x∞?DELTA?`
+
+**Bottomless Box:**
+
+| Character | Name | Unicode | Output |
+| --------- | ---- | ------- | ----- |
+| `«` | LEFT-POINTING DOUBLE ANGLE QUOTATION MARK | `U+00AB` | Left Edge of Bottomless Box |
+| `§` | SECTION SIGN | `U+00A7` | Top of Bottomless Box (used between each character) | 
+| `»` | RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK | `U+00BB`| Right Edge of Bottomless Box |
+
+Example: `«B§o§t§t§o§m§l§e§s§s§ §B§o§x»`
+
+**Topless Box:**
+
+| Character | Name | Unicode | Output |
+| --------- | ---- | ------- | ----- |
+`‹` | SINGLE LEFT-POINTING ANGLE QUOTATION MARK | `U+2039` | Left Edge of Topless Box |
+`‡` | DOUBLE DAGGER | `U+2021` | Bottom of Topless Box (used between each character) | 
+`›` | SINGLE RIGHT-POINTING ANGLE QUOTATION MARK | `U+203A`| Right Edge of Topless Box |
+
+Example: `‹T‡o‡p‡l‡e‡s‡s‡ ‡B‡o‡x›`
 
 
 ### INSTALLATION 
