@@ -23,7 +23,7 @@ The font uses glyphs to create boxes around text. There are left and right ends,
 | `∞` | INFINITY | `U+221E` | Top and Bottom of Complete Box (used between each character) | 
 | `∂` | PARTIAL DIFF | `U+2202` | Right Edge of Complete Box |
 
-Example: `∫C∞o∞m∞p∞l∞e∞t∞e∞ ∞B∞o∞x∞?DELTA?`
+Example: `∫C∞o∞m∞p∞l∞e∞t∞e∞ ∞B∞o∞x∞∂`
 
 **Bottomless Box:**
 
