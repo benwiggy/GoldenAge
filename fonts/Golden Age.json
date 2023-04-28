@@ -22,6 +22,11 @@
   "stemThickness": 0.14, 
   "subBracketThickness": 0.16, 
   "textEnclosureThickness": 0.16, 
+  		"textFontFamily":[
+			"Golden Age",
+			"Helvetica",
+			"sans"
+		],
   "thickBarlineThickness": 0.5, 
   "thinBarlineThickness": 0.16, 
   "tieEndpointThickness": 0.1, 
@@ -29,7 +34,7 @@
   "tupletBracketThickness": 0.16
  }, 
  "fontName": "Golden Age", 
- "fontVersion": 1.002, 
+ "fontVersion": 1.03, 
  "glyphBBoxes": {
   "null": {
    "bBoxNE": [
