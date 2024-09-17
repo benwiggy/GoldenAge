@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE264" format="2">
   <advance width="445"/>
   <unicode hex="E264"/>
@@ -59,26 +59,37 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>bed9f235068dc34297488293c0d6aff6bf4e6ebce89e6f4a5d6dd473d036cefb3e6a2f5101f517a3a8e09cd46253b48f3ca7bc07f17227dbeecab74ea69e05e6</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>accidentals</string>
+        <string>accidentalsSagittalMixed</string>
+        <string>accidentalsStandard</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Double flat</string>
+      <key>_name</key>
+      <string>accidentalDoubleFlat</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>vstem 0 39</string>
-          <string>vstem 153 56</string>
-          <string>vstem 240 39</string>
-          <string>vstem 393 56</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 0 39</string>
+              <string>vstem 153 56</string>
+              <string>vstem 240 39</string>
+              <string>vstem 393 56</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>bed9f235068dc34297488293c0d6aff6bf4e6ebce89e6f4a5d6dd473d036cefb3e6a2f5101f517a3a8e09cd46253b48f3ca7bc07f17227dbeecab74ea69e05e6</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

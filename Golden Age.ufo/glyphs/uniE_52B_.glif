@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE52B" format="2">
   <advance width="802"/>
   <unicode hex="E52B"/>
@@ -96,4 +96,16 @@
       <point x="391" y="222"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>dynamics</string>
+      </array>
+      <key>_description</key>
+      <string>pp</string>
+      <key>_name</key>
+      <string>dynamicPP</string>
+    </dict>
+  </lib>
 </glyph>

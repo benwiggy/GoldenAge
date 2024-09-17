@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEAAB" format="2">
   <advance width="576"/>
   <unicode hex="EAAB"/>
-  <note>wiggleArpeggiatoUpSwash</note>
+  <note>
+wiggleArpeggiatoUpSwash
+</note>
   <outline>
     <contour>
       <point x="156" y="1" type="curve"/>
@@ -71,26 +73,36 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>wiggleArpeggiatoUpSwash</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>dee1f31ed5e7d619661cc2390b3e00b6fe247c16297106ff5da9d72af9d81e28e7a89708ce4d7e26675f651e815d05b7c61ebedfb937b0a7d0e2cd051b5fbc7f</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>multiGlyphForms</string>
+        <string>wigglesArpeggiato</string>
+        <string>wigglesArpeggiatoUp</string>
+      </array>
+      <key>_description</key>
+      <string>Arpeggiato upward swash</string>
+      <key>_name</key>
+      <string>wiggleArpeggiatoUpSwash</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 20 -21</string>
-          <string>hstem 192 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 20 -21</string>
+              <string>hstem 192 -20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>dee1f31ed5e7d619661cc2390b3e00b6fe247c16297106ff5da9d72af9d81e28e7a89708ce4d7e26675f651e815d05b7c61ebedfb937b0a7d0e2cd051b5fbc7f</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

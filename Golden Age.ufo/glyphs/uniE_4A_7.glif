@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4A7" format="2">
   <advance width="100"/>
   <unicode hex="E4A7"/>
@@ -19,25 +19,35 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w100m44,0c33,0 0,-61 0,-157c0,-223 18,-249 46,-249c78,-249 100,-240 100,-176c100,-155 65,-13 44,0</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>articulations</string>
+        <string>articulationsBelow</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Staccatissimo below</string>
+      <key>_name</key>
+      <string>articStaccatissimoBelow</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -228 -21</string>
-          <string>hstem 0 -20</string>
-          <string>vstem 0 100</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -228 -21</string>
+              <string>hstem 0 -20</string>
+              <string>vstem 0 100</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w100m44,0c33,0 0,-61 0,-157c0,-223 18,-249 46,-249c78,-249 100,-240 100,-176c100,-155 65,-13 44,0</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

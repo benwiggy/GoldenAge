@@ -159,32 +159,11 @@
         <key>stems</key>
         <array>
           <string>hstem -345 -21</string>
-          <string>hstem 248 39</string>
           <string>hstem -281 45</string>
-          <string>hstem 334 -20</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 248 42</string>
-          <string>hstem -281 45</string>
-          <string>hstem 334 -20</string>
-          <string>hstem -345 -21</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553127713168</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 248 39</string>
           <string>hstem 334 -20</string>
-          <string>hstem -281 45</string>
-          <string>hstem -345 -21</string>
         </array>
-        <key>pointTag</key>
-        <string>._.105553127713408</string>
       </dict>
     </array>
   </dict>

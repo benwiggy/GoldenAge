@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE47E" format="2">
   <advance width="327"/>
   <unicode hex="E47E"/>
@@ -61,7 +61,7 @@
       <point x="155" y="-264" type="line"/>
       <point x="176" y="-257"/>
       <point x="192" y="-244"/>
-      <point x="212" y="-234" type="curve" name=".hr01"/>
+      <point x="212" y="-234" type="curve"/>
       <point x="212" y="-349" type="line"/>
       <point x="238" y="-337" type="line"/>
       <point x="237" y="-227" type="line"/>
@@ -97,35 +97,36 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>524a2762e0bf1db78bd6d9ed1cef61964d213dad6ecf1487642172abac38855375bcab66209a7e768e15d115cef524a69bf1c65cba1983c130bd6fc90a78ca44</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>accidentals</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Quarter-tone sharp</string>
+      <key>_name</key>
+      <string>accidentalQuarterToneSharp4</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>vstem 215 26</string>
-          <string>vstem 133 25</string>
-          <string>hstem 103 25</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 103 25</string>
+              <string>vstem 130 24</string>
+              <string>vstem 133 25</string>
+              <string>vstem 212 26</string>
+              <string>vstem 215 26</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>524a2762e0bf1db78bd6d9ed1cef61964d213dad6ecf1487642172abac38855375bcab66209a7e768e15d115cef524a69bf1c65cba1983c130bd6fc90a78ca44</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 212 26</string>
-          <string>hstem 103 25</string>
-          <string>vstem 130 24</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE0A3" format="2">
   <advance width="334"/>
   <unicode hex="E0A3"/>
@@ -36,36 +36,39 @@
       <point x="56" y="18"/>
       <point x="117" y="78"/>
       <point x="184" y="83" type="curve" smooth="yes"/>
-      <point x="237" y="87" name=".hr01"/>
+      <point x="237" y="87"/>
       <point x="262" y="86"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>c6390759fc5a2019477c1c8038990caaaa1beb4f58e07fe23bea9fc82ebd0a7e6a8e10df991070ed2b63b7a0b25efe335209d9eebba163f4d0ebf64a6c1c840a</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheadSetDefault</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>Half (minim) notehead</string>
+      <key>_name</key>
+      <string>noteheadHalf</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -150 50</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -150 50</string>
+              <string>hstem -100 183</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>c6390759fc5a2019477c1c8038990caaaa1beb4f58e07fe23bea9fc82ebd0a7e6a8e10df991070ed2b63b7a0b25efe335209d9eebba163f4d0ebf64a6c1c840a</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -100 183</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

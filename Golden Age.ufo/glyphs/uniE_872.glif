@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE872" format="2">
   <advance width="522"/>
   <unicode hex="E872"/>
@@ -6,82 +6,47 @@
     <contour>
       <point x="522" y="323" type="line"/>
       <point x="306" y="325" type="line"/>
-      <point x="304" y="560" type="line" name=".hr02"/>
-      <point x="236" y="507" type="line" name=".hr03"/>
+      <point x="304" y="560" type="line"/>
+      <point x="236" y="507" type="line"/>
       <point x="236" y="325" type="line"/>
       <point x="68" y="325" type="line"/>
       <point x="6" y="240" type="line"/>
       <point x="232" y="240" type="line"/>
       <point x="233" y="6" type="line"/>
       <point x="304" y="54" type="line"/>
-      <point x="306" y="237" type="line" name=".hr05"/>
+      <point x="306" y="237" type="line"/>
       <point x="472" y="237" type="line"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w522m522,323l306,325l304,560l236,507l236,325l68,325l6,240l232,240l233,6l304,54l306,237l472,237</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>tf_chordSymbols</string>
+      </array>
+      <key>_description</key>
+      <string>Augmented</string>
+      <key>_name</key>
+      <string>csymAugmented</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 237 86</string>
-          <string>vstem 232 72</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 237 86</string>
+              <string>hstem 240 85</string>
+              <string>vstem 232 72</string>
+              <string>vstem 236 70</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w522m522,323l306,325l304,560l236,507l236,325l68,325l6,240l232,240l233,6l304,54l306,237l472,237</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 240 85</string>
-          <string>vstem 236 70</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553128201008</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 232 72</string>
-          <string>hstem 237 86</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 236 70</string>
-          <string>hstem 240 85</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr03</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 240 85</string>
-          <string>vstem 232 72</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553128201488</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 237 86</string>
-          <string>vstem 236 70</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr05</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

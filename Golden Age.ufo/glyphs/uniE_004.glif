@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE004" format="2">
   <advance width="365"/>
   <unicode hex="E004"/>
@@ -25,4 +25,12 @@
       <point x="33" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_description</key>
+      <string>Bracket bottom</string>
+      <key>_name</key>
+      <string>bracketBottom</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE263" format="2">
   <advance width="292"/>
   <unicode hex="E263"/>
@@ -19,23 +19,33 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w292m295,109l228,106l154,29l75,105l12,108l123,0l0,-111l63,-111l154,-33l219,-111l282,-111l184,-2</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>accidentals</string>
+        <string>accidentalsStandard</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Double sharp</string>
+      <key>_name</key>
+      <string>accidentalDoubleSharp</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -111 219</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -111 219</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w292m295,109l228,106l154,29l75,105l12,108l123,0l0,-111l63,-111l154,-33l219,-111l282,-111l184,-2</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

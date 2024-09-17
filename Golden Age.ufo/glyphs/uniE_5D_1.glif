@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE5D1" format="2">
   <advance width="461"/>
   <unicode hex="E5D1"/>
@@ -82,25 +82,29 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>45322b177dfb3529c3e3fe0b4f4aebae9cd82190f6ceaa3e54756205846677e8c9cd1b29b2b2dacc9f83ecf289453086ab076e23f936459e4c03caf7c2852ec2</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_description</key>
+      <string>Lift, short</string>
+      <key>_name</key>
+      <string>brassLiftShort</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 34 48</string>
-          <string>hstem 247 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 34 48</string>
+              <string>hstem 247 -20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>45322b177dfb3529c3e3fe0b4f4aebae9cd82190f6ceaa3e54756205846677e8c9cd1b29b2b2dacc9f83ecf289453086ab076e23f936459e4c03caf7c2852ec2</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

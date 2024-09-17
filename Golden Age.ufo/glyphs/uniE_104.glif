@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE104" format="2">
   <advance width="544"/>
   <unicode hex="E104"/>
@@ -24,4 +24,19 @@
       <point x="409" y="52" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheadSetSlashHorizontalEnds</string>
+        <string>noteheadSetSlashVerticalEnds</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>Large white diamond</string>
+      <key>_name</key>
+      <string>noteheadSlashDiamondWhite</string>
+    </dict>
+  </lib>
 </glyph>

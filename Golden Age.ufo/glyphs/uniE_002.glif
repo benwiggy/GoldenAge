@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE002" format="2">
   <unicode hex="E002"/>
   <outline>
@@ -29,4 +29,16 @@
       <point x="-21" y="-1015"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>forTextBasedApplications</string>
+      </array>
+      <key>_description</key>
+      <string>Bracket</string>
+      <key>_name</key>
+      <string>bracket</string>
+    </dict>
+  </lib>
 </glyph>

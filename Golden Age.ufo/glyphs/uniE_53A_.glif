@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE53A" format="2">
   <advance width="1278"/>
   <unicode hex="E53A"/>
@@ -60,7 +60,7 @@
       <point x="403" y="-41"/>
       <point x="449" y="101"/>
       <point x="469" y="203" type="curve"/>
-      <point x="548" y="203" type="line" name=".hr01"/>
+      <point x="548" y="203" type="line"/>
       <point x="581" y="239" type="line"/>
       <point x="474" y="239" type="line"/>
       <point x="485" y="292"/>
@@ -89,7 +89,7 @@
       <point x="74" y="170"/>
       <point x="190" y="157"/>
       <point x="190" y="59" type="curve" smooth="yes"/>
-      <point x="190" y="29" name=".hr02"/>
+      <point x="190" y="29"/>
       <point x="45" y="21"/>
       <point x="45" y="99" type="curve"/>
       <point x="126" y="172"/>
@@ -164,48 +164,36 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>0f3a5f152547abcb4e5023781147c1b5b533929ba67092ea5eeded4b2ec0313f80054920d69c5def3857eed9cc5c29c1dab630fb73ac5bd4465e6d215a190ae9</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>dynamics</string>
+      </array>
+      <key>_description</key>
+      <string>Sforzato-piano</string>
+      <key>_name</key>
+      <string>dynamicSforzatoPiano</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 8 26</string>
-          <string>hstem 206 36</string>
-          <string>vstem 1 44</string>
-          <string>vstem 74 168</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 8 26</string>
+              <string>hstem 203 36</string>
+              <string>hstem 206 36</string>
+              <string>vstem 1 44</string>
+              <string>vstem 74 168</string>
+              <string>vstem 190 52</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>0f3a5f152547abcb4e5023781147c1b5b533929ba67092ea5eeded4b2ec0313f80054920d69c5def3857eed9cc5c29c1dab630fb73ac5bd4465e6d215a190ae9</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 203 36</string>
-          <string>vstem 74 168</string>
-          <string>hstem 8 26</string>
-          <string>vstem 1 44</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 190 52</string>
-          <string>vstem 1 44</string>
-          <string>hstem 8 26</string>
-          <string>hstem 203 36</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

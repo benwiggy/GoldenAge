@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE614" format="2">
   <advance width="189"/>
   <unicode hex="E614"/>
@@ -32,4 +32,12 @@
       <point x="146" y="48"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_description</key>
+      <string>Harmonic</string>
+      <key>_name</key>
+      <string>stringsHarmonic</string>
+    </dict>
+  </lib>
 </glyph>

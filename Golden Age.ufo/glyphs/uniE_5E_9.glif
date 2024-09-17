@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE5E9" format="2">
   <advance width="361"/>
   <unicode hex="E5E9"/>
@@ -123,58 +123,52 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.fontlab.hintData</key>
-  <dict>
-    <key>hhints</key>
-    <array>
+    <dict>
+      <key>_description</key>
+      <string>Harmon mute, stem extended, left</string>
+      <key>_name</key>
+      <string>brassHarmonMuteStemHalfLeft</string>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>position</key>
-        <integer>-16</integer>
-        <key>width</key>
-        <integer>30</integer>
-      </dict>
-    </array>
-    <key>vhints</key>
-    <array>
-      <dict>
-        <key>position</key>
-        <integer>249</integer>
-        <key>width</key>
-        <integer>32</integer>
-      </dict>
-    </array>
-  </dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>e46ef38f7ed8050685b18a0c818504128fbec36119b00c64afce1117b5fe50e5d50dbc864002a0755936272b26bf75484f73905d46807e065ac328f8946cd11b</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
+        <key>hhints</key>
         <array>
-          <string>vstem 161 30</string>
-          <string>hstem 163 29</string>
-          <string>hstem -53 -21</string>
-          <string>hstem 431 -20</string>
+          <dict>
+            <key>position</key>
+            <integer>-16</integer>
+            <key>width</key>
+            <integer>30</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>249</integer>
+            <key>width</key>
+            <integer>32</integer>
+          </dict>
         </array>
       </dict>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 163 31</string>
-          <string>vstem 161 30</string>
-          <string>hstem 431 -20</string>
-          <string>hstem -53 -21</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -53 -21</string>
+              <string>hstem 163 31</string>
+              <string>hstem 163 29</string>
+              <string>hstem 431 -20</string>
+              <string>vstem 161 30</string>
+            </array>
+          </dict>
         </array>
-        <key>pointTag</key>
-        <string>._.105553127651152</string>
+        <key>id</key>
+        <string>e46ef38f7ed8050685b18a0c818504128fbec36119b00c64afce1117b5fe50e5d50dbc864002a0755936272b26bf75484f73905d46807e065ac328f8946cd11b</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

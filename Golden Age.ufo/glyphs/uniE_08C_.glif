@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE08C" format="2">
   <advance width="302"/>
   <unicode hex="E08C"/>
@@ -19,24 +19,28 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w302m291,30l177,30l177,147l120,114l120,30l38,30l6,-34l120,-34l120,-149l177,-120l177,-34l261,-34</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_description</key>
+      <string>Time signature +</string>
+      <key>_name</key>
+      <string>timeSigPlus</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -34 64</string>
-          <string>vstem 120 57</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -34 64</string>
+              <string>vstem 120 57</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w302m291,30l177,30l177,147l120,114l120,30l38,30l6,-34l120,-34l120,-149l177,-120l177,-34l261,-34</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE007" format="2">
   <advance width="408"/>
   <unicode hex="E007"/>
@@ -24,4 +24,12 @@
       <point x="354" y="128" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_description</key>
+      <string>System divider</string>
+      <key>_name</key>
+      <string>systemDivider</string>
+    </dict>
+  </lib>
 </glyph>

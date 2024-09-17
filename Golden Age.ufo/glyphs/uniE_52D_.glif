@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE52D" format="2">
   <advance width="995"/>
   <unicode hex="E52D"/>
@@ -93,7 +93,7 @@
       <point x="386" y="232"/>
       <point x="448" y="290"/>
       <point x="458" y="242" type="curve" smooth="yes"/>
-      <point x="473" y="170" name=".hr02"/>
+      <point x="473" y="170"/>
       <point x="402" y="102"/>
       <point x="390" y="27" type="curve"/>
       <point x="407" y="-19"/>
@@ -101,39 +101,32 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>3765a65eae4330739d14c2549fd441e56ac1eb0ba097f2251e1f9bbd74a5f91b45f6b9961af145f62b7624017b058e095a3d8ea985755214277955b9eb7e0f43</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>dynamics</string>
+      </array>
+      <key>_description</key>
+      <string>mf</string>
+      <key>_name</key>
+      <string>dynamicMF</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 206 36</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 203 36</string>
+              <string>hstem 206 36</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>3765a65eae4330739d14c2549fd441e56ac1eb0ba097f2251e1f9bbd74a5f91b45f6b9961af145f62b7624017b058e095a3d8ea985755214277955b9eb7e0f43</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 203 36</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553128711232</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 206 36</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

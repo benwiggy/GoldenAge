@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE044" format="2">
   <advance width="143"/>
   <unicode hex="E044"/>
@@ -18,4 +18,12 @@
       <point x="153" y="-4"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_description</key>
+      <string>Single repeat dot</string>
+      <key>_name</key>
+      <string>repeatDot</string>
+    </dict>
+  </lib>
 </glyph>

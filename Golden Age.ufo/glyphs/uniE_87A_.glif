@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE87A" format="2">
   <advance width="111"/>
   <unicode hex="E87A"/>
@@ -57,24 +57,28 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>7cbf2edde84dd4cba479155aebb016462fe9b45d48b39781a1e5f286a60bc7a30390701036a1ff1c0617035050da42c4126ad5c02ea08a1b5df981f76c46dee0</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_description</key>
+      <string>Triple-height right parenthesis</string>
+      <key>_name</key>
+      <string>csymParensRightVeryTall</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 1009 -20</string>
-          <string>vstem 73 38</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 1009 -20</string>
+              <string>vstem 73 38</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>7cbf2edde84dd4cba479155aebb016462fe9b45d48b39781a1e5f286a60bc7a30390701036a1ff1c0617035050da42c4126ad5c02ea08a1b5df981f76c46dee0</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

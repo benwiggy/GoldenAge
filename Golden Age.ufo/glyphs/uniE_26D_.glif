@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE26D" format="2">
   <advance width="80"/>
   <unicode hex="E26D"/>
-  <note>accidentalBracketRight</note>
+  <note>
+accidentalBracketRight
+</note>
   <outline>
     <contour>
       <point x="53" y="-245" type="curve" smooth="yes"/>
@@ -25,7 +27,7 @@
       <point x="89" y="-120"/>
       <point x="88" y="-116" type="curve"/>
       <point x="82" y="-21"/>
-      <point x="80" y="72" name=".hr02"/>
+      <point x="80" y="72"/>
       <point x="80" y="166" type="curve" smooth="yes"/>
       <point x="80" y="178"/>
       <point x="79" y="190"/>
@@ -47,7 +49,7 @@
       <point x="3" y="242"/>
       <point x="2" y="239" type="curve" smooth="yes"/>
       <point x="-2" y="230"/>
-      <point x="-3" y="221" name=".hr03"/>
+      <point x="-3" y="221"/>
       <point x="-3" y="210" type="curve" smooth="yes"/>
       <point x="-3" y="200"/>
       <point x="-2" y="190"/>
@@ -57,7 +59,7 @@
       <point x="15" y="174" type="curve"/>
       <point x="21" y="174" type="line" smooth="yes"/>
       <point x="47" y="174"/>
-      <point x="57" y="169" name=".hr04"/>
+      <point x="57" y="169"/>
       <point x="57" y="142" type="curve" smooth="yes"/>
       <point x="57" y="43"/>
       <point x="60" y="-59"/>
@@ -76,7 +78,7 @@
       <point x="5" y="-173"/>
       <point x="0" y="-177" type="curve" smooth="yes"/>
       <point x="-2" y="-178"/>
-      <point x="-3" y="-179" name=".hr06"/>
+      <point x="-3" y="-179"/>
       <point x="-3" y="-180" type="curve"/>
       <point x="-3" y="-182" type="line"/>
       <point x="-3" y="-193"/>
@@ -87,80 +89,33 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>accidentalBracketRight</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>9c41e557cb1e53bba190468ca105ce7bb98c6bddec9d360d5036c5c9759643bbff3d0bb6564779acc4111830c9bc59ca8e952e0a5ec9adb0449fbd33aecc6fb7</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_description</key>
+      <string>Accidental bracket, right</string>
+      <key>_name</key>
+      <string>accidentalBracketRight</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -224 -21</string>
-          <string>vstem -3 94</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -224 -21</string>
+              <string>vstem -3 94</string>
+              <string>vstem 57 23</string>
+              <string>vstem 65 23</string>
+              <string>vstem 65 26</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>9c41e557cb1e53bba190468ca105ce7bb98c6bddec9d360d5036c5c9759643bbff3d0bb6564779acc4111830c9bc59ca8e952e0a5ec9adb0449fbd33aecc6fb7</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 65 23</string>
-          <string>hstem -224 -21</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553128283088</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 57 23</string>
-          <string>hstem -224 -21</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem -3 94</string>
-          <string>hstem -224 -21</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr03</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 57 23</string>
-          <string>hstem -224 -21</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr04</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 65 23</string>
-          <string>hstem -224 -21</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553128286128</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem -3 94</string>
-          <string>hstem -224 -21</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr06</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

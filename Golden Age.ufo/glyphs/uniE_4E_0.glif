@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4E0" format="2">
   <advance width="366"/>
   <unicode hex="E4E0"/>
-  <note>restMaxima</note>
+  <note>
+restMaxima
+</note>
   <outline>
     <contour>
       <point x="276" y="-255" type="curve" smooth="yes"/>
@@ -62,9 +64,9 @@
       <point x="13" y="252"/>
       <point x="1" y="242"/>
       <point x="2" y="211" type="curve"/>
-      <point x="2" y="3" type="line" name=".hr03"/>
+      <point x="2" y="3" type="line"/>
       <point x="0" y="3" type="line"/>
-      <point x="0" y="-68" name=".hr04"/>
+      <point x="0" y="-68"/>
       <point x="0" y="-139"/>
       <point x="1" y="-210" type="curve"/>
       <point x="1" y="-230"/>
@@ -72,72 +74,38 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>restMaxima</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>50c2a9673ee4dd9360d224eb4c09b81e70f33872a3dd979b98b5e873c4ce1f97009710367bbe8cc7a120f8f5b1764e4b9b5f6f0ccd92a88d343b4d57ab1652f2</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>rests</string>
+      </array>
+      <key>_description</key>
+      <string>Maxima rest</string>
+      <key>_name</key>
+      <string>restMaxima</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -234 -21</string>
-          <string>vstem 236 124</string>
-          <string>hstem 255 -20</string>
-          <string>vstem 0 120</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -234 -21</string>
+              <string>hstem 255 -20</string>
+              <string>vstem 0 120</string>
+              <string>vstem 2 118</string>
+              <string>vstem 236 124</string>
+              <string>vstem 247 118</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>50c2a9673ee4dd9360d224eb4c09b81e70f33872a3dd979b98b5e873c4ce1f97009710367bbe8cc7a120f8f5b1764e4b9b5f6f0ccd92a88d343b4d57ab1652f2</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 247 118</string>
-          <string>hstem 255 -20</string>
-          <string>hstem -234 -21</string>
-          <string>vstem 0 120</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553128291888</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 236 124</string>
-          <string>hstem -234 -21</string>
-          <string>vstem 0 120</string>
-          <string>hstem 255 -20</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553128260624</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 2 118</string>
-          <string>hstem -234 -21</string>
-          <string>hstem 255 -20</string>
-          <string>vstem 236 124</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr03</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 0 120</string>
-          <string>hstem -234 -21</string>
-          <string>hstem 255 -20</string>
-          <string>vstem 236 124</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr04</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

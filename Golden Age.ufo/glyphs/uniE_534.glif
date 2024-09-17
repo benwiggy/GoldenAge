@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE534" format="2">
   <advance width="791"/>
   <unicode hex="E534"/>
@@ -61,7 +61,7 @@
       <point x="166" y="-57"/>
       <point x="218" y="121"/>
       <point x="238" y="223" type="curve"/>
-      <point x="317" y="223" type="line" name=".hr01"/>
+      <point x="317" y="223" type="line"/>
       <point x="350" y="278" type="line"/>
       <point x="243" y="279" type="line"/>
       <point x="254" y="332"/>
@@ -89,31 +89,32 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>5dad62b296da9ec044a1ccacf8cdb734b49d4e2f980aa2dc653adc3ad7efea93a1ec67eceae84f4be87486ac3c9e895cf5bd521c7a7271b37e34379c727b113b</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>dynamics</string>
+      </array>
+      <key>_description</key>
+      <string>Forte-piano</string>
+      <key>_name</key>
+      <string>dynamicFortePiano</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 226 56</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 223 56</string>
+              <string>hstem 226 56</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>5dad62b296da9ec044a1ccacf8cdb734b49d4e2f980aa2dc653adc3ad7efea93a1ec67eceae84f4be87486ac3c9e895cf5bd521c7a7271b37e34379c727b113b</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 223 56</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

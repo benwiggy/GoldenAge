@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE549" format="2">
   <advance width="516"/>
   <unicode hex="E549"/>
@@ -14,4 +14,16 @@
       <point x="421" y="465"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>dynamics</string>
+      </array>
+      <key>_description</key>
+      <string>Slash separator for combined dynamics</string>
+      <key>_name</key>
+      <string>dynamicCombinedSeparatorSlash</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE576" format="2">
   <advance width="476"/>
   <unicode hex="E576"/>
@@ -24,4 +24,17 @@
       <point x="71" y="65"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>ornaments</string>
+        <string>tf_ornaments</string>
+      </array>
+      <key>_description</key>
+      <string>Hook after note</string>
+      <key>_name</key>
+      <string>ornamentHookAfterNote</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED80" format="2">
   <advance width="220"/>
   <unicode hex="ED80"/>
-  <note>fingering0Italic</note>
+  <note>
+fingering0Italic
+</note>
   <outline>
     <contour>
       <point x="85" y="10" type="curve" smooth="yes"/>
@@ -58,37 +60,32 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>fingering0Italic</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>850ee789d27d733eb917ec0d68af9ee3d73b570770e2b4aa81f2ace16ea116e9f7f39c2466b9c27a634b162e44e7b7d9a5732e34d4f4f6f0cfab872a28198f75</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_description</key>
+      <string>Fingering 0 italic (open string)</string>
+      <key>_name</key>
+      <string>fingering0Italic</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 20 -21</string>
-          <string>vstem 20 180</string>
-          <string>hstem 208 43</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 20 -21</string>
+              <string>hstem 208 43</string>
+              <string>vstem 20 35</string>
+              <string>vstem 20 180</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>850ee789d27d733eb917ec0d68af9ee3d73b570770e2b4aa81f2ace16ea116e9f7f39c2466b9c27a634b162e44e7b7d9a5732e34d4f4f6f0cfab872a28198f75</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 20 35</string>
-          <string>hstem 208 43</string>
-          <string>hstem 20 -21</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553128170160</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

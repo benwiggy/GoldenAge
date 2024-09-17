@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEAA8" format="2">
   <advance width="597"/>
   <unicode hex="EAA8"/>
+  <note>
+wiggleTrillSlowest
+</note>
   <anchor x="597" y="96" name="repeatOffset"/>
-  <note>wiggleTrillSlowest</note>
   <outline>
     <contour>
       <point x="404" y="0" type="curve"/>
@@ -66,26 +68,35 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>wiggleTrillSlowest</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>8967832db91dde10939b0b6c7983884d05618311af0db9693f5704d3cad88187faa1ee4a8a43ceb29fe3649e6bfceece12a63dd880e7eda4f4f3e7c09befcefc</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>multiGlyphForms</string>
+        <string>wigglesTrill</string>
+      </array>
+      <key>_description</key>
+      <string>Trill wiggle segment, slowest</string>
+      <key>_name</key>
+      <string>wiggleTrillSlowest</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 66</string>
-          <string>hstem 176 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 66</string>
+              <string>hstem 176 -20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>8967832db91dde10939b0b6c7983884d05618311af0db9693f5704d3cad88187faa1ee4a8a43ceb29fe3649e6bfceece12a63dd880e7eda4f4f3e7c09befcefc</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

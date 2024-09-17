@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE513" format="2">
   <advance width="627"/>
   <unicode hex="E513"/>
@@ -137,23 +137,31 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>f2265cbba411a5b4b9fcc363846281d8d3702d8e712ea4bc2cc867f5611ec2c7e4069b53ae994fed0199bc3071e3bcd32eb64b312ad692abec6ecbf53e4c6e04</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>octaves</string>
+      </array>
+      <key>_description</key>
+      <string>Ottava bassa (ba)</string>
+      <key>_name</key>
+      <string>ottavaBassaBa</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>vstem 260 32</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 260 32</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>f2265cbba411a5b4b9fcc363846281d8d3702d8e712ea4bc2cc867f5611ec2c7e4069b53ae994fed0199bc3071e3bcd32eb64b312ad692abec6ecbf53e4c6e04</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

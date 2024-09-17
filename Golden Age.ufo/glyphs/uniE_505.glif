@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE505" format="2">
   <advance width="162"/>
   <unicode hex="E505"/>
@@ -18,4 +18,12 @@
       <point x="172" y="-124"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_description</key>
+      <string>Repeat bar lower dot</string>
+      <key>_name</key>
+      <string>repeatBarLowerDot</string>
+    </dict>
+  </lib>
 </glyph>

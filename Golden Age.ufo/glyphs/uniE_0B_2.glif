@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE0B2" format="2">
   <advance width="339"/>
   <unicode hex="E0B2"/>
@@ -59,23 +59,33 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>c410f82f189872df17781664405ddc5489451281f3cce88758b9abf10516fc0504c67b53efed2313250b286aa3afa1aa2995d69831388cd481066c4950e027fa</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheadSetCircleX</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>Circle X half</string>
+      <key>_name</key>
+      <string>noteheadCircleXHalf</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -127 -21</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -127 -21</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>c410f82f189872df17781664405ddc5489451281f3cce88758b9abf10516fc0504c67b53efed2313250b286aa3afa1aa2995d69831388cd481066c4950e027fa</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

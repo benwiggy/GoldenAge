@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE53C" format="2">
   <advance width="746"/>
   <unicode hex="E53C"/>
@@ -79,31 +79,32 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>483fb445ccac1497aadc26d1c39e758ddb6e8b83ccdcd2d0f82e3ac81ebada9572b39e1be16071aeb59d30276872ff0370f54dcd6af0e490b6f5a4ae322fa9ad</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>dynamics</string>
+      </array>
+      <key>_description</key>
+      <string>Rinforzando 1</string>
+      <key>_name</key>
+      <string>dynamicRinforzando1</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 206 36</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 203 36</string>
+              <string>hstem 206 36</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>483fb445ccac1497aadc26d1c39e758ddb6e8b83ccdcd2d0f82e3ac81ebada9572b39e1be16071aeb59d30276872ff0370f54dcd6af0e490b6f5a4ae322fa9ad</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 203 36</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553128419120</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

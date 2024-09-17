@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE5DF" format="2">
   <advance width="1002"/>
   <unicode hex="E5DF"/>
@@ -115,26 +115,30 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a2d49389d4c9687fadb6aac40f8252dae0217f7db818570eb4dbf554b41c83e02a24dfe2abf6b9199a56d19dc698f94b4768fcdf8edfc5c361cb470ca956ab26</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_description</key>
+      <string>Rough fall, long</string>
+      <key>_name</key>
+      <string>brassFallRoughLong</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 855 -20</string>
-          <string>vstem 254 73</string>
-          <string>vstem 477 78</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 855 -20</string>
+              <string>vstem 254 73</string>
+              <string>vstem 477 78</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>a2d49389d4c9687fadb6aac40f8252dae0217f7db818570eb4dbf554b41c83e02a24dfe2abf6b9199a56d19dc698f94b4768fcdf8edfc5c361cb470ca956ab26</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

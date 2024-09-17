@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE881" format="2">
   <advance width="179"/>
   <unicode hex="E881"/>
@@ -36,4 +36,12 @@
       <point x="154" y="-162"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_description</key>
+      <string>Tuplet 1</string>
+      <key>_name</key>
+      <string>tuplet1</string>
+    </dict>
+  </lib>
 </glyph>

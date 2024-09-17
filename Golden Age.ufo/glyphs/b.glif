@@ -214,15 +214,8 @@
         <key>stems</key>
         <array>
           <string>hstem 2 88</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>hstem 4 86</string>
         </array>
-        <key>pointTag</key>
-        <string>._.105553129771152</string>
       </dict>
     </array>
   </dict>

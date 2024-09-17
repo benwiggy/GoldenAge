@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE611" format="2">
   <advance width="366"/>
   <unicode hex="E611"/>
@@ -27,50 +27,36 @@
       <point x="278" y="-330" type="line"/>
       <point x="358" y="-316" type="line"/>
       <point x="360" y="-245" type="line" smooth="yes"/>
-      <point x="362" y="-185" name=".hr02"/>
+      <point x="362" y="-185"/>
       <point x="367" y="-230"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>1298ccf7a8b5cef9303c06ea5fd405c8f0e6df06bcbb6be9e43f5405080732783398db9e68119e832607637b9ec1231938fba0e24410e54cd9a5061548cea1c8</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_description</key>
+      <string>Turned down bow</string>
+      <key>_name</key>
+      <string>stringsDownBowTurned</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>vstem 335 25</string>
-          <string>hstem -330 93</string>
-          <string>vstem 3 23</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -330 93</string>
+              <string>vstem 3 23</string>
+              <string>vstem 326 34</string>
+              <string>vstem 335 25</string>
+              <string>vstem 335 27</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>1298ccf7a8b5cef9303c06ea5fd405c8f0e6df06bcbb6be9e43f5405080732783398db9e68119e832607637b9ec1231938fba0e24410e54cd9a5061548cea1c8</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 326 34</string>
-          <string>hstem -330 93</string>
-          <string>vstem 3 23</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553128205888</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 335 27</string>
-          <string>hstem -330 93</string>
-          <string>vstem 3 23</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

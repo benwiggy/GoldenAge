@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE064" format="2">
   <advance width="696"/>
   <unicode hex="E064"/>
@@ -114,24 +114,33 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>24b4361c6d63f54c90fb43c5548b7f07aa12b316b3bae0cc0b225f4a58a40792af3bc9c9b06de9eddf9ffd5115c5ff46d01a0a36ab66d71c708777be5ef5c585</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>clefs</string>
+        <string>clefsF</string>
+      </array>
+      <key>_description</key>
+      <string>F clef ottava bassa</string>
+      <key>_name</key>
+      <string>fClef8vb</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 178 84</string>
-          <string>vstem 430 90</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 178 84</string>
+              <string>vstem 430 90</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>24b4361c6d63f54c90fb43c5548b7f07aa12b316b3bae0cc0b225f4a58a40792af3bc9c9b06de9eddf9ffd5115c5ff46d01a0a36ab66d71c708777be5ef5c585</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

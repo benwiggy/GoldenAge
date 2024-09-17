@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED86" format="2">
   <advance width="225"/>
   <unicode hex="ED86"/>
-  <note>fingering6Italic</note>
+  <note>
+fingering6Italic
+</note>
   <outline>
     <contour>
       <point x="117" y="-2" type="curve" smooth="yes"/>
@@ -86,9 +88,13 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>fingering6Italic</string>
-  </dict>
+    <dict>
+      <key>_description</key>
+      <string>Fingering 6 italic</string>
+      <key>_name</key>
+      <string>fingering6Italic</string>
+      <key>note</key>
+      <real>0.0</real>
+    </dict>
   </lib>
 </glyph>

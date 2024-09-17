@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED2D" format="2">
   <advance width="186"/>
   <unicode hex="ED2D"/>
-  <note>fingeringSeparatorMiddleDotWhite</note>
+  <note>
+fingeringSeparatorMiddleDotWhite
+</note>
   <outline>
     <contour>
       <point x="97" y="65" type="curve"/>
@@ -46,26 +48,30 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>fingeringSeparatorMiddleDotWhite</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>b5358d9d215d6c42574b1fbf0abb81d5a92204d840dbefe37fbc2630c7573a750723dced86c848177c1fac70b3340d073fc867eb8f150bdca6c320572c13cade</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_description</key>
+      <string>Fingering white middle dot separator</string>
+      <key>_name</key>
+      <string>fingeringSeparatorMiddleDotWhite</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 188 -20</string>
-          <string>vstem 25 136</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 188 -20</string>
+              <string>vstem 25 136</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>b5358d9d215d6c42574b1fbf0abb81d5a92204d840dbefe37fbc2630c7573a750723dced86c848177c1fac70b3340d073fc867eb8f150bdca6c320572c13cade</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

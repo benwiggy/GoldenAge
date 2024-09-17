@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED60" format="2">
   <advance width="255"/>
   <unicode hex="ED60"/>
@@ -31,4 +31,16 @@
       <point x="218" y="330"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>tf_chordSymbolAccidentals</string>
+      </array>
+      <key>_description</key>
+      <string>Flat</string>
+      <key>_name</key>
+      <string>csymAccidentalFlat</string>
+    </dict>
+  </lib>
 </glyph>

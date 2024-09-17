@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE5D0" format="2">
   <advance width="317"/>
   <unicode hex="E5D0"/>
@@ -27,24 +27,28 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>3e617f99cafe06b00b6f098f3b5bac03f1e534a9580f77007338752835c1276c3f749606e9d475fbb7e14a3944f804f5e7db74aec6d5342ad10f00b259935e37</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_description</key>
+      <string>Scoop</string>
+      <key>_name</key>
+      <string>brassScoop</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -485 -21</string>
-          <string>hstem -120 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -485 -21</string>
+              <string>hstem -120 -20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>3e617f99cafe06b00b6f098f3b5bac03f1e534a9580f77007338752835c1276c3f749606e9d475fbb7e14a3944f804f5e7db74aec6d5342ad10f00b259935e37</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

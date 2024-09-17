@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE08F" format="2">
   <advance width="364"/>
   <unicode hex="E08F"/>
@@ -38,4 +38,12 @@
       <point x="273" y="-52"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_description</key>
+      <string>Time signature equals</string>
+      <key>_name</key>
+      <string>timeSigEquals</string>
+    </dict>
+  </lib>
 </glyph>

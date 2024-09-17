@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE617" format="2">
   <advance width="713"/>
   <unicode hex="E617"/>
@@ -23,7 +23,7 @@
       <point x="322" y="141"/>
       <point x="319" y="60" type="curve"/>
       <point x="252" y="61"/>
-      <point x="111" y="62" name=".hr01"/>
+      <point x="111" y="62"/>
       <point x="50" y="62" type="curve"/>
       <point x="51" y="405" type="line"/>
       <point x="4" y="378" type="line"/>
@@ -34,37 +34,31 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>ee9d524ddcf8e0d3eeec50279c8a99a027721bce61b23ad420eee18b4971831eb1b8e26d91d4b9fcbfb7241bae31eadbc9f27d625294cbe85671781ec5f3ebcf</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_description</key>
+      <string>Mute off</string>
+      <key>_name</key>
+      <string>stringsMuteOff</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>vstem 640 53</string>
-          <string>hstem 1 56</string>
-          <string>vstem 318 50</string>
-          <string>vstem 4 47</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 1 56</string>
+              <string>hstem 1 61</string>
+              <string>vstem 4 47</string>
+              <string>vstem 318 50</string>
+              <string>vstem 640 53</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>ee9d524ddcf8e0d3eeec50279c8a99a027721bce61b23ad420eee18b4971831eb1b8e26d91d4b9fcbfb7241bae31eadbc9f27d625294cbe85671781ec5f3ebcf</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 1 61</string>
-          <string>vstem 4 47</string>
-          <string>vstem 318 50</string>
-          <string>vstem 640 53</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

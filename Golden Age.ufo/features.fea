@@ -29,7 +29,6 @@ sub uniED60 from [uniF4DC];
 #> feature
 #< feature
 } salt;
-
 feature ss01 {
 # Stylistic Set 01–20
 sub uniE080 from [uniF45D];
@@ -45,7 +44,6 @@ sub uniE080 from [uniF45D];
 #> feature
 #< feature
 } ss01;
-
 feature ss02 {
 # Stylistic Set 01–20
 sub uniE080 from [uniF440];
@@ -63,7 +61,6 @@ sub uniE080 from [uniF440];
 #> feature
 #< feature
 } ss02;
-
 feature ss03 {
 # Stylistic Set 01–20
 sub uniE080 from [uniF506];
@@ -79,4 +76,3 @@ sub uniE080 from [uniF506];
 #> feature
 #< feature
 } ss03;
-

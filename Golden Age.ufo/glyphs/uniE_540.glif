@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE540" format="2">
   <advance width="1520"/>
   <unicode hex="E540"/>
-  <note>dynamicMessaDiVoce</note>
+  <note>
+dynamicMessaDiVoce
+</note>
   <outline>
     <contour>
       <point x="785" y="100" type="curve"/>
@@ -143,25 +145,34 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>dynamicMessaDiVoce</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>abed2a49da306e444f88db80c9f15c8ab117634aecd2332c72eaa499ae92b94d01908ead158ef20d1b431c892b41191aad5bbdbbda595872f9eb028c72f4c99d</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>dynamics</string>
+        <string>tf_hairpins</string>
+      </array>
+      <key>_description</key>
+      <string>Messa di voce</string>
+      <key>_name</key>
+      <string>dynamicMessaDiVoce</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 121 -21</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 121 -21</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>abed2a49da306e444f88db80c9f15c8ab117634aecd2332c72eaa499ae92b94d01908ead158ef20d1b431c892b41191aad5bbdbbda595872f9eb028c72f4c99d</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

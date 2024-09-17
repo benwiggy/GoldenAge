@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE0A2" format="2">
   <advance width="473"/>
   <unicode hex="E0A2"/>
@@ -20,4 +20,18 @@
       <point x="277" y="163"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheadSetDefault</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>Whole (semibreve) notehead</string>
+      <key>_name</key>
+      <string>noteheadWhole</string>
+    </dict>
+  </lib>
 </glyph>

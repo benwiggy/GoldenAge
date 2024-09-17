@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE087" format="2">
   <advance width="373"/>
   <unicode hex="E087"/>
@@ -32,24 +32,32 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>2de7b8f7a245bdad1b226676b2ddeca74eba01af5de8a2d6843b2666a3d7442f0b75b39275573dfe8bf8b1faa466e8a446b354640936bb9f11161af5003f7a82</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>tf_zeroWidth</string>
+      </array>
+      <key>_description</key>
+      <string>Time signature 7</string>
+      <key>_name</key>
+      <string>timeSig7</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -223 -21</string>
-          <string>hstem 210 74</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -223 -21</string>
+              <string>hstem 210 74</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>2de7b8f7a245bdad1b226676b2ddeca74eba01af5de8a2d6843b2666a3d7442f0b75b39275573dfe8bf8b1faa466e8a446b354640936bb9f11161af5003f7a82</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

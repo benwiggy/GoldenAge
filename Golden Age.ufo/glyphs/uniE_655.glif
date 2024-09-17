@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE655" format="2">
   <advance width="526"/>
   <unicode hex="E655"/>
@@ -37,24 +37,32 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>c17ddecc41713dadad13e8836625fc10130b2d66d1a574389b19333329fdae5992be881f8caf20b03fbaf7ad1dcd382642a869b374f8d7d25edcb06e77a28527</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>tf_pedals</string>
+      </array>
+      <key>_description</key>
+      <string>Pedal up mark</string>
+      <key>_name</key>
+      <string>keyboardPedalUp</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 147 37</string>
-          <string>vstem 254 31</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 147 37</string>
+              <string>vstem 254 31</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>c17ddecc41713dadad13e8836625fc10130b2d66d1a574389b19333329fdae5992be881f8caf20b03fbaf7ad1dcd382642a869b374f8d7d25edcb06e77a28527</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE24C" format="2">
   <advance width="333"/>
   <unicode hex="E24C"/>
@@ -204,4 +204,16 @@
       <point x="281" y="-488"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Combining flag 7 (512th) above</string>
+      <key>_name</key>
+      <string>flag512thUp</string>
+    </dict>
+  </lib>
 </glyph>

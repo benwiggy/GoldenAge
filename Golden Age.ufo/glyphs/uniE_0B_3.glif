@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE0B3" format="2">
   <advance width="337"/>
   <unicode hex="E0B3"/>
@@ -73,26 +73,36 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>8e3616d0712a5b6c2a4b49000942e7e0ba5804f7f794b6cfd8b4be4c639c4b46c538551bc10f31c596ea3f73a7f1a9695c630d318e8f8677130198efccdf7767</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheadSetCircleX</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>Circle X notehead</string>
+      <key>_name</key>
+      <string>noteheadCircleX</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -172 63</string>
-          <string>hstem 122 51</string>
-          <string>vstem 0 67</string>
-          <string>vstem 277 60</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -172 63</string>
+              <string>hstem 122 51</string>
+              <string>vstem 0 67</string>
+              <string>vstem 277 60</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>8e3616d0712a5b6c2a4b49000942e7e0ba5804f7f794b6cfd8b4be4c639c4b46c538551bc10f31c596ea3f73a7f1a9695c630d318e8f8677130198efccdf7767</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

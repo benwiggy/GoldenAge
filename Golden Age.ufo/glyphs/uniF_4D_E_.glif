@@ -81,36 +81,13 @@
       <dict>
         <key>stems</key>
         <array>
-          <string>vstem 195 30</string>
-          <string>vstem 72 30</string>
-        </array>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 61 27</string>
-          <string>vstem 172 29</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553127363984</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
           <string>vstem 48 30</string>
-          <string>vstem 172 29</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553127364624</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 183 27</string>
           <string>vstem 61 27</string>
+          <string>vstem 72 30</string>
+          <string>vstem 172 29</string>
+          <string>vstem 183 27</string>
+          <string>vstem 195 30</string>
         </array>
-        <key>pointTag</key>
-        <string>._.105553127365904</string>
       </dict>
     </array>
   </dict>

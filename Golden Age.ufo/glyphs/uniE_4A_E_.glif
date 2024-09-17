@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4AE" format="2">
   <advance width="384"/>
   <unicode hex="E4AE"/>
@@ -41,4 +41,18 @@
       <point x="193" y="0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>articulations</string>
+        <string>articulationsAbove</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Marcato-staccato above</string>
+      <key>_name</key>
+      <string>articMarcatoStaccatoAbove</string>
+    </dict>
+  </lib>
 </glyph>

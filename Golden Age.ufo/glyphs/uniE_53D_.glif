@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE53D" format="2">
   <advance width="916"/>
   <unicode hex="E53D"/>
@@ -60,7 +60,7 @@
       <point x="403" y="-41"/>
       <point x="449" y="101"/>
       <point x="469" y="203" type="curve"/>
-      <point x="548" y="203" type="line" name=".hr01"/>
+      <point x="548" y="203" type="line"/>
       <point x="581" y="239" type="line"/>
       <point x="474" y="239" type="line"/>
       <point x="485" y="292"/>
@@ -113,33 +113,33 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>1a276982a6273a67794d48e79319e3332817083a055106ec1a139d6b1a659cf997f2b4da5e699d90a9e0c0befadb14f12e15c83c55175bef32bc9d63670b508c</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>dynamics</string>
+      </array>
+      <key>_description</key>
+      <string>Rinforzando 2</string>
+      <key>_name</key>
+      <string>dynamicRinforzando2</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 8 26</string>
-          <string>hstem 206 36</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 8 26</string>
+              <string>hstem 203 36</string>
+              <string>hstem 206 36</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>1a276982a6273a67794d48e79319e3332817083a055106ec1a139d6b1a659cf997f2b4da5e699d90a9e0c0befadb14f12e15c83c55175bef32bc9d63670b508c</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 203 36</string>
-          <string>hstem 8 26</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

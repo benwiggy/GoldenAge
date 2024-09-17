@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE109" format="2">
   <advance width="727"/>
   <unicode hex="E109"/>
@@ -146,48 +146,38 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>6aa6c04e2f619617d44e83af8e9cdedb79e09a5e28a29a6620057b7ab788e700f989656e36c3ab0330abfa5a807436b1aa4ace502589950846aa4ac3db9c082e</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheadSetSlashHorizontalEnds</string>
+        <string>noteheadSetSlashVerticalEnds</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>Muted white slash</string>
+      <key>_name</key>
+      <string>noteheadSlashWhiteMuted</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -320 -21</string>
-          <string>hstem 238 33</string>
-          <string>hstem -232 41</string>
-          <string>hstem 341 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -320 -21</string>
+              <string>hstem -232 41</string>
+              <string>hstem 238 38</string>
+              <string>hstem 238 33</string>
+              <string>hstem 341 -20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>6aa6c04e2f619617d44e83af8e9cdedb79e09a5e28a29a6620057b7ab788e700f989656e36c3ab0330abfa5a807436b1aa4ace502589950846aa4ac3db9c082e</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 238 38</string>
-          <string>hstem -232 41</string>
-          <string>hstem 341 -20</string>
-          <string>hstem -320 -21</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553127868368</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 238 33</string>
-          <string>hstem 341 -20</string>
-          <string>hstem -232 41</string>
-          <string>hstem -320 -21</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553127868608</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

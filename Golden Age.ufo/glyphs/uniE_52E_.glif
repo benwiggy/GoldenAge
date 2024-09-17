@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE52E" format="2">
   <advance width="748"/>
   <unicode hex="E52E"/>
@@ -61,7 +61,7 @@
       <point x="485" y="-57"/>
       <point x="537" y="121"/>
       <point x="557" y="223" type="curve"/>
-      <point x="636" y="223" type="line" name=".hr01"/>
+      <point x="636" y="223" type="line"/>
       <point x="669" y="278" type="line"/>
       <point x="562" y="279" type="line"/>
       <point x="573" y="332"/>
@@ -89,31 +89,32 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>09e9aef97d4811d947d3e9a775072f7e39f318285b4789b4db6bbcc5f6baf4b5edf25f736e155fae22d383621d0fdcf74bb1c424af7e48b3d0fa763fd039198a</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>dynamics</string>
+      </array>
+      <key>_description</key>
+      <string>pf</string>
+      <key>_name</key>
+      <string>dynamicPF</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 226 56</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 223 56</string>
+              <string>hstem 226 56</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>09e9aef97d4811d947d3e9a775072f7e39f318285b4789b4db6bbcc5f6baf4b5edf25f736e155fae22d383621d0fdcf74bb1c424af7e48b3d0fa763fd039198a</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 223 56</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

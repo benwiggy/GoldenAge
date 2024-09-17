@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED8B" format="2">
   <advance width="94"/>
   <unicode hex="ED8B"/>
-  <note>fingeringRightParenthesisItalic</note>
+  <note>
+fingeringRightParenthesisItalic
+</note>
   <outline>
     <contour>
       <point x="-14" y="-22" type="curve"/>
@@ -47,26 +49,30 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>fingeringRightParenthesisItalic</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>f86f22fc2a63a2af16cb5ebf1c266013f3af19e03a5222cb2ec5b1bc559c8fccc3477dadd169cf9e7c69b4289890158900c2b046fe76306e307066a4a5127c57</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_description</key>
+      <string>Fingering right parenthesis italic</string>
+      <key>_name</key>
+      <string>fingeringRightParenthesisItalic</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -9 -21</string>
-          <string>vstem 49 45</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -9 -21</string>
+              <string>vstem 49 45</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>f86f22fc2a63a2af16cb5ebf1c266013f3af19e03a5222cb2ec5b1bc559c8fccc3477dadd169cf9e7c69b4289890158900c2b046fe76306e307066a4a5127c57</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

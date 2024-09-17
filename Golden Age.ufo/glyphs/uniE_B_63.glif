@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEB63" format="2">
   <advance width="779"/>
   <unicode hex="EB63"/>
@@ -109,4 +109,12 @@
       <point x="438" y="87"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_description</key>
+      <string>Black arrow down-right (SE)</string>
+      <key>_name</key>
+      <string>arrowBlackDownRight</string>
+    </dict>
+  </lib>
 </glyph>

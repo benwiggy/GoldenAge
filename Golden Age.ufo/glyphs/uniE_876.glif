@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE876" format="2">
   <advance width="127"/>
   <unicode hex="E876"/>
@@ -70,4 +70,12 @@
       <point x="13" y="0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_description</key>
+      <string>Double-height right parenthesis</string>
+      <key>_name</key>
+      <string>csymParensRightTall</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED2B" format="2">
   <advance width="79"/>
   <unicode hex="ED2B"/>
-  <note>fingeringRightBracket</note>
+  <note>
+fingeringRightBracket
+</note>
   <outline>
     <contour>
       <point x="58" y="-28" type="curve"/>
@@ -12,7 +14,7 @@
       <point x="74" y="35" type="line" smooth="yes"/>
       <point x="74" y="74"/>
       <point x="73" y="112"/>
-      <point x="78" y="151" type="curve" smooth="yes" name=".hr01"/>
+      <point x="78" y="151" type="curve" smooth="yes"/>
       <point x="79" y="159"/>
       <point x="79" y="168"/>
       <point x="79" y="176" type="curve" smooth="yes"/>
@@ -55,41 +57,30 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>fingeringRightBracket</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>5ff203cc002aecede9a0cdfb0b85a954478c9efdc3517a214201fd21bdfb612e7850b1ffec619b74303452478fe7f76f6d84da0bdac8bbf55bad02e7c7a133e6</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_description</key>
+      <string>Fingering right bracket</string>
+      <key>_name</key>
+      <string>fingeringRightBracket</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>vstem 26 48</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 26 48</string>
+              <string>vstem 31 47</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>5ff203cc002aecede9a0cdfb0b85a954478c9efdc3517a214201fd21bdfb612e7850b1ffec619b74303452478fe7f76f6d84da0bdac8bbf55bad02e7c7a133e6</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 31 47</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 26 48</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553128193104</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

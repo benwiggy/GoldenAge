@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE542" format="2">
   <advance width="116"/>
   <unicode hex="E542"/>
-  <note>dynamicHairpinParenthesisLeft</note>
+  <note>
+dynamicHairpinParenthesisLeft
+</note>
   <outline>
     <contour>
       <point x="103" y="-246" type="curve"/>
@@ -38,25 +40,33 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>dynamicHairpinParenthesisLeft</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>9650ef4856389254fd12b611b528ed43b33cd62b3b3349a25e8ab2600f2e4eaeb69a6bf17e5eaa25d4cb49edd0d784ecdaf4ba8db72ba7dc6189db9a00d09327</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>dynamics</string>
+      </array>
+      <key>_description</key>
+      <string>Left parenthesis (for hairpins)</string>
+      <key>_name</key>
+      <string>dynamicHairpinParenthesisLeft</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>vstem 0 34</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 0 34</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>9650ef4856389254fd12b611b528ed43b33cd62b3b3349a25e8ab2600f2e4eaeb69a6bf17e5eaa25d4cb49edd0d784ecdaf4ba8db72ba7dc6189db9a00d09327</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

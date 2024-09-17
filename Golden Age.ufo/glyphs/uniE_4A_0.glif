@@ -1,24 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4A0" format="2">
-  <advance width="452"/>
+  <advance width="484"/>
   <unicode hex="E4A0"/>
   <outline>
     <contour>
-      <point x="450" y="118" type="line"/>
-      <point x="353" y="135"/>
-      <point x="99" y="189"/>
-      <point x="20" y="213" type="curve"/>
-      <point x="-8" y="189" type="line"/>
-      <point x="61" y="163"/>
-      <point x="291" y="119"/>
-      <point x="369" y="106" type="curve"/>
-      <point x="257" y="78"/>
-      <point x="117" y="52"/>
-      <point x="5" y="30" type="curve"/>
-      <point x="2" y="1" type="line"/>
-      <point x="141" y="17"/>
-      <point x="284" y="61"/>
-      <point x="420" y="95" type="curve"/>
+      <point x="482" y="131" type="line"/>
+      <point x="380" y="148"/>
+      <point x="116" y="205"/>
+      <point x="37" y="228" type="curve"/>
+      <point x="-8" y="191" type="line"/>
+      <point x="59" y="166"/>
+      <point x="232" y="130"/>
+      <point x="330" y="112" type="curve"/>
+      <point x="229" y="87"/>
+      <point x="118" y="66"/>
+      <point x="15" y="48" type="curve"/>
+      <point x="9" y="-1" type="line"/>
+      <point x="127" y="13"/>
+      <point x="234" y="41"/>
+      <point x="338" y="69" type="curve" smooth="yes"/>
+      <point x="369" y="77"/>
+      <point x="402" y="86"/>
+      <point x="433" y="94" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>articulations</string>
+        <string>articulationsAbove</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Accent above</string>
+      <key>_name</key>
+      <string>articAccentAbove</string>
+    </dict>
+  </lib>
 </glyph>

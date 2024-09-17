@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED64" format="2">
   <advance width="562"/>
   <unicode hex="ED64"/>
@@ -58,4 +58,16 @@
       <point x="499" y="303"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>tf_chordSymbolAccidentals</string>
+      </array>
+      <key>_description</key>
+      <string>Double flat</string>
+      <key>_name</key>
+      <string>csymAccidentalDoubleFlat</string>
+    </dict>
+  </lib>
 </glyph>

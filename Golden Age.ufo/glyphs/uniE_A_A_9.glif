@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEAA9" format="2">
   <advance width="295"/>
   <unicode hex="EAA9"/>
+  <note>
+wiggleTrillFast
+</note>
   <anchor x="281" y="100" name="repeatOffset"/>
-  <note>wiggleTrillFast</note>
   <outline>
     <contour>
       <point x="192" y="0" type="curve"/>
@@ -51,9 +53,19 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>wiggleTrillFast</string>
-  </dict>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>multiGlyphForms</string>
+        <string>wigglesArpeggiato</string>
+        <string>wigglesArpeggiatoUp</string>
+      </array>
+      <key>_description</key>
+      <string>Arpeggiato wiggle segment, upwards</string>
+      <key>_name</key>
+      <string>wiggleArpeggiatoUp</string>
+      <key>note</key>
+      <real>0.0</real>
+    </dict>
   </lib>
 </glyph>

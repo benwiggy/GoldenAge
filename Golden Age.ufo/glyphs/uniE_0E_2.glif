@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE0E2" format="2">
   <advance width="346"/>
   <unicode hex="E0E2"/>
@@ -16,4 +16,18 @@
       <point x="228" y="-104" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheadSetDiamondOld</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>Diamond black notehead (old)</string>
+      <key>_name</key>
+      <string>noteheadDiamondBlackOld</string>
+    </dict>
+  </lib>
 </glyph>

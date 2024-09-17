@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE006" format="2">
   <advance width="365"/>
   <unicode hex="E006"/>
@@ -25,4 +25,12 @@
       <point x="364" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_description</key>
+      <string>Reversed bracket bottom</string>
+      <key>_name</key>
+      <string>reversedBracketBottom</string>
+    </dict>
+  </lib>
 </glyph>

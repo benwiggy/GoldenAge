@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4C0" format="2">
   <advance width="770"/>
   <unicode hex="E4C0"/>
@@ -44,4 +44,18 @@
       <point x="415" y="92"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>pauses</string>
+        <string>pausesAbove</string>
+      </array>
+      <key>_description</key>
+      <string>Fermata above</string>
+      <key>_name</key>
+      <string>fermataAbove</string>
+    </dict>
+  </lib>
 </glyph>

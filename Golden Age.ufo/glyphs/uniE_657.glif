@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE657" format="2">
   <advance width="281"/>
   <unicode hex="E657"/>
-  <note>keyboardPedalUpNotch</note>
+  <note>
+keyboardPedalUpNotch
+</note>
   <outline>
     <contour>
       <point x="30" y="0" type="curve" smooth="yes"/>
@@ -55,26 +57,34 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>keyboardPedalUpNotch</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>08a4d50f4b0ebbd247730c68cd8088f51c5ba1b23cd6cd3e758dda910db57b24b2085c50ad83ceccf5f62fbaeec2e398229d8ea3695b197510bcbef98b6bfa5e</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>tf_pedals</string>
+      </array>
+      <key>_description</key>
+      <string>Pedal up notch</string>
+      <key>_name</key>
+      <string>keyboardPedalUpNotch</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 514 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 514 -20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>08a4d50f4b0ebbd247730c68cd8088f51c5ba1b23cd6cd3e758dda910db57b24b2085c50ad83ceccf5f62fbaeec2e398229d8ea3695b197510bcbef98b6bfa5e</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

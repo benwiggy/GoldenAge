@@ -113,7 +113,7 @@
   <lib>
   <dict>
   <key>note</key>
-  <string>brace</string>
+  <real>0</real>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

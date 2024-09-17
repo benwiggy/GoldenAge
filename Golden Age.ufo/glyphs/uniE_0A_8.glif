@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE0A8" format="2">
   <advance width="421"/>
   <unicode hex="E0A8"/>
@@ -37,7 +37,7 @@
       <point x="166" y="96" type="curve" smooth="yes"/>
       <point x="125" y="136"/>
       <point x="75" y="139"/>
-      <point x="23" y="137" type="curve" name=".hr01"/>
+      <point x="23" y="137" type="curve"/>
       <point x="16" y="137"/>
       <point x="4" y="134"/>
       <point x="2" y="129" type="curve" smooth="yes"/>
@@ -109,7 +109,7 @@
       <point x="246" y="111"/>
       <point x="252" y="113"/>
       <point x="257" y="114" type="curve"/>
-      <point x="265" y="114" name=".hr02"/>
+      <point x="265" y="114"/>
       <point x="273" y="108"/>
       <point x="280" y="101" type="curve"/>
       <point x="286" y="97"/>
@@ -127,45 +127,36 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>8784f5748d27ab8fde85327ec9f893aaab9dedeb0126e01ea515539150b78a571e6fddab6957f7460f10280dd5ab6689f6fc73fa3d32bf7a2ff65ef3cd0de60a</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheadSetX</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>X notehead half</string>
+      <key>_name</key>
+      <string>noteheadXHalf</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>vstem 0 421</string>
-          <string>hstem -141 46</string>
-          <string>hstem 114 37</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -141 46</string>
+              <string>hstem 98 39</string>
+              <string>hstem 114 37</string>
+              <string>vstem 0 421</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>8784f5748d27ab8fde85327ec9f893aaab9dedeb0126e01ea515539150b78a571e6fddab6957f7460f10280dd5ab6689f6fc73fa3d32bf7a2ff65ef3cd0de60a</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 98 39</string>
-          <string>vstem 0 421</string>
-          <string>hstem -141 46</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 114 37</string>
-          <string>hstem -141 46</string>
-          <string>vstem 0 421</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

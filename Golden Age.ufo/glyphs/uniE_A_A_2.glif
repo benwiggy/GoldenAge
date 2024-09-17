@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEAA2" format="2">
   <advance width="254"/>
   <unicode hex="EAA2"/>
+  <note>
+wiggleTrillFaster
+</note>
   <anchor x="254" y="98" name="repeatOffset"/>
-  <note>wiggleTrillFaster</note>
   <outline>
     <contour>
       <point x="170" y="-1" type="curve"/>
@@ -42,9 +44,18 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>wiggleTrillFaster</string>
-  </dict>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>multiGlyphForms</string>
+        <string>wigglesTrill</string>
+      </array>
+      <key>_description</key>
+      <string>Trill wiggle segment, faster</string>
+      <key>_name</key>
+      <string>wiggleTrillFaster</string>
+      <key>note</key>
+      <real>0.0</real>
+    </dict>
   </lib>
 </glyph>

@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED16" format="2">
   <advance width="293"/>
   <unicode hex="ED16"/>
-  <note>fingeringTUpper</note>
+  <note>
+fingeringTUpper
+</note>
   <outline>
     <contour>
       <point x="168" y="0" type="curve" smooth="yes"/>
@@ -17,7 +19,7 @@
       <point x="172" y="145"/>
       <point x="172" y="188" type="curve" smooth="yes"/>
       <point x="172" y="203"/>
-      <point x="176" y="208" name=".hr01"/>
+      <point x="176" y="208"/>
       <point x="189" y="208" type="curve" smooth="yes"/>
       <point x="194" y="208"/>
       <point x="201" y="207"/>
@@ -62,48 +64,39 @@
       <point x="129" y="139" type="curve" smooth="yes"/>
       <point x="135" y="24" type="line" smooth="yes"/>
       <point x="136" y="5"/>
-      <point x="145" y="0" name=".hr02"/>
+      <point x="145" y="0"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>fingeringTUpper</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>dddfa50f533f7ca39afa3cbcbe074308efc9c58d4945a96157a2af0f5a297a3bc81404651c1c0d880f2a7fcb2caa279ca657bff8bc8df7b6eae67705e16abd84</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>tf_figuredBass</string>
+      </array>
+      <key>_description</key>
+      <string>Fingering T (left-hand thumb for guitar)</string>
+      <key>_name</key>
+      <string>fingeringTUpper</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 248</string>
-          <string>vstem 132 48</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 248</string>
+              <string>hstem 208 40</string>
+              <string>vstem 132 48</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>dddfa50f533f7ca39afa3cbcbe074308efc9c58d4945a96157a2af0f5a297a3bc81404651c1c0d880f2a7fcb2caa279ca657bff8bc8df7b6eae67705e16abd84</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 208 40</string>
-          <string>vstem 132 48</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 248</string>
-          <string>vstem 132 48</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE26B" format="2">
   <advance width="126"/>
   <unicode hex="E26B"/>
-  <note>accidentalParensRight</note>
+  <note>
+accidentalParensRight
+</note>
   <outline>
     <contour>
       <point x="110" y="31" type="curve" smooth="yes"/>
@@ -22,25 +24,35 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>accidentalParensRight</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w126m110,31c110,105 82,204 32,237l10,217c60,184 86,82 86,9c86,-101 40,-190 -13,-253l19,-231c72,-168 110,-79 110,31</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>accidentals</string>
+        <string>accidentalsStandard</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Accidental parenthesis, right</string>
+      <key>_name</key>
+      <string>accidentalParensRight</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>vstem 86 24</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 86 24</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w126m110,31c110,105 82,204 32,237l10,217c60,184 86,82 86,9c86,-101 40,-190 -13,-253l19,-231c72,-168 110,-79 110,31</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

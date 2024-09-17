@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE06A" format="2">
   <advance width="211"/>
   <unicode hex="E06A"/>
@@ -20,7 +20,7 @@
       <point x="166" y="-369"/>
       <point x="183" y="-350" type="curve"/>
       <point x="186" y="-169"/>
-      <point x="190" y="22" name=".hr02"/>
+      <point x="190" y="22"/>
     </contour>
     <contour>
       <point x="155" y="307" type="curve"/>
@@ -36,70 +36,35 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>5a0d097e9afe33e5b560bf2e2e0b7bb235866ab34a2b57820527ec0f4538e7f3fdc9ff3cab096307817fbb68ea339f5bde41982adc0fe9d97942dff38856da50</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>clefs</string>
+      </array>
+      <key>_description</key>
+      <string>Unpitched percussion clef 2</string>
+      <key>_name</key>
+      <string>unpitchedPercussionClef2</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>vstem 155 35</string>
-          <string>hstem 316 92</string>
-          <string>vstem 5 31</string>
-          <string>hstem -402 92</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -402 92</string>
+              <string>hstem 316 92</string>
+              <string>vstem 5 31</string>
+              <string>vstem 152 31</string>
+              <string>vstem 155 35</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>5a0d097e9afe33e5b560bf2e2e0b7bb235866ab34a2b57820527ec0f4538e7f3fdc9ff3cab096307817fbb68ea339f5bde41982adc0fe9d97942dff38856da50</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 152 31</string>
-          <string>hstem -402 92</string>
-          <string>hstem 316 92</string>
-          <string>vstem 5 31</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553128619808</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 155 35</string>
-          <string>hstem -402 92</string>
-          <string>hstem 316 92</string>
-          <string>vstem 5 31</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -402 92</string>
-          <string>vstem 152 31</string>
-          <string>vstem 5 31</string>
-          <string>hstem 316 92</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553128587424</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 155 35</string>
-          <string>hstem -402 92</string>
-          <string>hstem 316 92</string>
-          <string>vstem 5 31</string>
-        </array>
-        <key>pointTag</key>
-        <string>rsb</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

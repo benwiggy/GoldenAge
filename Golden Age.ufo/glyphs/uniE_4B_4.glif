@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4B4" format="2">
   <advance width="469"/>
   <unicode hex="E4B4"/>
@@ -32,23 +32,33 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>cf513e27bcac84b55f03f8690bca7a5548fbe99c0ccb2421b4bd1d137544a230b1b8a1fb9d1ba8fb98ee8bf3dc6d118f75150db48a84599f38f842fb8d3ff874</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>articulations</string>
+        <string>articulationsAbove</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Tenuto-accent above</string>
+      <key>_name</key>
+      <string>articTenutoAccentAbove</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 29</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 29</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>cf513e27bcac84b55f03f8690bca7a5548fbe99c0ccb2421b4bd1d137544a230b1b8a1fb9d1ba8fb98ee8bf3dc6d118f75150db48a84599f38f842fb8d3ff874</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

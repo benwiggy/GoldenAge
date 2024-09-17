@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE527" format="2">
   <advance width="2245"/>
   <unicode hex="E527"/>
@@ -280,4 +280,16 @@
       <point x="1486" y="222"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>dynamics</string>
+      </array>
+      <key>_description</key>
+      <string>pppppp</string>
+      <key>_name</key>
+      <string>dynamicPPPPPP</string>
+    </dict>
+  </lib>
 </glyph>

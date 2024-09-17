@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4E9" format="2">
   <advance width="411"/>
   <unicode hex="E4E9"/>
@@ -94,4 +94,17 @@
       <point x="411" y="389"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>rests</string>
+      </array>
+      <key>_description</key>
+      <string>64th (hemidemisemiquaver) rest</string>
+      <key>_name</key>
+      <string>rest64th</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4BB" format="2">
   <advance width="412"/>
   <unicode hex="E4BB"/>
@@ -47,24 +47,34 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>3e53d3a02be5bc4ba5b002234449c47676411540f353e1138a16cdf05eb52fae0ef580c7799f213995cfcf305a2b1976e4c091446dd9a7f874caa909a314e538</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>articulations</string>
+        <string>articulationsBelow</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Laissez vibrer (l.v.) below</string>
+      <key>_name</key>
+      <string>articLaissezVibrerBelow</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -181 74</string>
-          <string>vstem 404 8</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -181 74</string>
+              <string>vstem 404 8</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>3e53d3a02be5bc4ba5b002234449c47676411540f353e1138a16cdf05eb52fae0ef580c7799f213995cfcf305a2b1976e4c091446dd9a7f874caa909a314e538</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE51D" format="2">
   <advance width="911"/>
   <unicode hex="E51D"/>
@@ -150,23 +150,31 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>d0dd27652161d235c8f4572ad4b04e534e472fa895922a95170d05e39bb45434520906f8298d3e9fa380f701b9cec2382310c84b3a82243d24031ae3611f18cb</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>octaves</string>
+      </array>
+      <key>_description</key>
+      <string>Quindicesima bassa (mb)</string>
+      <key>_name</key>
+      <string>quindicesimaBassaMb</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 201 235</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 201 235</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>d0dd27652161d235c8f4572ad4b04e534e472fa895922a95170d05e39bb45434520906f8298d3e9fa380f701b9cec2382310c84b3a82243d24031ae3611f18cb</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

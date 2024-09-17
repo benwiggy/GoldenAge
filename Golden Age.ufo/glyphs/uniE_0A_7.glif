@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE0A7" format="2">
   <advance width="506"/>
   <unicode hex="E0A7"/>
@@ -124,7 +124,7 @@
       <point x="426" y="119" type="curve"/>
       <point x="433" y="119"/>
       <point x="441" y="121"/>
-      <point x="441" y="111" type="curve" smooth="yes" name=".hr01"/>
+      <point x="441" y="111" type="curve" smooth="yes"/>
       <point x="441" y="106"/>
       <point x="435" y="104"/>
       <point x="431" y="102" type="curve" smooth="yes"/>
@@ -140,35 +140,37 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a7e48fcbb71e0f2a70ddbe8e6c65b9ec4b5009dedfa6f1b7a13c399b67c07eac24ac63bbf279158de61e4501fec7ff584be17dc64c8f55d65c55b5a429f0d394</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheadSetX</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>X notehead whole</string>
+      <key>_name</key>
+      <string>noteheadXWhole</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -143 29</string>
-          <string>vstem 0 506</string>
-          <string>hstem 119 25</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -143 29</string>
+              <string>hstem 119 25</string>
+              <string>hstem 129 15</string>
+              <string>vstem 0 506</string>
+              <string>vstem 441 65</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>a7e48fcbb71e0f2a70ddbe8e6c65b9ec4b5009dedfa6f1b7a13c399b67c07eac24ac63bbf279158de61e4501fec7ff584be17dc64c8f55d65c55b5a429f0d394</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 441 65</string>
-          <string>hstem -143 29</string>
-          <string>hstem 119 25</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED1F" format="2">
   <advance width="235"/>
   <unicode hex="ED1F"/>
-  <note>fingeringOLower</note>
+  <note>
+fingeringOLower
+</note>
   <outline>
     <contour>
       <point x="80" y="8" type="curve" smooth="yes"/>
@@ -50,28 +52,36 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>fingeringOLower</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>69721679e2d210a0493dc3908386b294b2512ac14f6c588eada5e12f56bbff46f80a9a6973df89477f19ebedf58facc4f63ce953c6aad199413372b9001f339b</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>tf_figuredBass</string>
+      </array>
+      <key>_description</key>
+      <string>Fingering o (right-hand little finger for guitar)</string>
+      <key>_name</key>
+      <string>fingeringOLower</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 35</string>
-          <string>hstem 269 -20</string>
-          <string>vstem 0 39</string>
-          <string>vstem 198 37</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 35</string>
+              <string>hstem 269 -20</string>
+              <string>vstem 0 39</string>
+              <string>vstem 198 37</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>69721679e2d210a0493dc3908386b294b2512ac14f6c588eada5e12f56bbff46f80a9a6973df89477f19ebedf58facc4f63ce953c6aad199413372b9001f339b</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

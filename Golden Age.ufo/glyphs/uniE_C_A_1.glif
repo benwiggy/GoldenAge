@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniECA1" format="2">
   <advance width="326"/>
   <unicode hex="ECA1"/>
-  <note>metNoteDoubleWholeSquare</note>
+  <note>
+metNoteDoubleWholeSquare
+</note>
   <outline>
     <contour>
       <point x="305" y="-49" type="curve"/>
@@ -38,7 +40,7 @@
       <point x="252" y="171" type="line" smooth="yes"/>
       <point x="192" y="171"/>
       <point x="132" y="174"/>
-      <point x="73" y="177" type="curve" name=".hr01"/>
+      <point x="73" y="177" type="curve"/>
       <point x="68" y="177"/>
       <point x="62" y="177"/>
       <point x="57" y="177" type="curve"/>
@@ -111,7 +113,7 @@
       <point x="52" y="117" type="line"/>
       <point x="90" y="114"/>
       <point x="127" y="113"/>
-      <point x="164" y="113" type="curve" name=".hr02"/>
+      <point x="164" y="113" type="curve"/>
       <point x="280" y="113" type="line" smooth="yes"/>
       <point x="287" y="113"/>
       <point x="292" y="116"/>
@@ -134,53 +136,38 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>metNoteDoubleWholeSquare</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>fc6ef0c22d5311408aee2e953a6ca09532d10902b5786815e7a0239c68a1ef892bb2ff72102d7877fa1555a1fdecbaecddc6f062ad44240644c77296a052c7cd</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>tf_metronomeMarks</string>
+      </array>
+      <key>_description</key>
+      <string>Double whole note (square)</string>
+      <key>_name</key>
+      <string>metNoteDoubleWholeSquare</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>vstem 298 20</string>
-          <string>hstem 220 -20</string>
-          <string>hstem 113 58</string>
-          <string>hstem -3 61</string>
-          <string>vstem 19 23</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -3 61</string>
+              <string>hstem 113 58</string>
+              <string>hstem 117 60</string>
+              <string>hstem 220 -20</string>
+              <string>vstem 19 23</string>
+              <string>vstem 298 20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>fc6ef0c22d5311408aee2e953a6ca09532d10902b5786815e7a0239c68a1ef892bb2ff72102d7877fa1555a1fdecbaecddc6f062ad44240644c77296a052c7cd</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 117 60</string>
-          <string>vstem 19 23</string>
-          <string>hstem -3 61</string>
-          <string>hstem 220 -20</string>
-          <string>vstem 298 20</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 113 58</string>
-          <string>hstem -3 61</string>
-          <string>hstem 220 -20</string>
-          <string>vstem 19 23</string>
-          <string>vstem 298 20</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

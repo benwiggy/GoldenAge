@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4A3" format="2">
   <advance width="88"/>
   <unicode hex="E4A3"/>
@@ -18,4 +18,18 @@
       <point x="52" y="-81"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>articulations</string>
+        <string>articulationsBelow</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Staccato below</string>
+      <key>_name</key>
+      <string>articStaccatoBelow</string>
+    </dict>
+  </lib>
 </glyph>

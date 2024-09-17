@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE51B" format="2">
   <advance width="158"/>
   <unicode hex="E51B"/>
@@ -21,23 +21,31 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w158m145,299c145,403 106,547 35,595l0,563c72,515 109,371 109,266c109,111 64,-23 -13,-113l23,-81c98,8 145,142 145,299</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>octaves</string>
+      </array>
+      <key>_description</key>
+      <string>Right parenthesis for octave signs</string>
+      <key>_name</key>
+      <string>octaveParensRight</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>vstem 109 36</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 109 36</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w158m145,299c145,403 106,547 35,595l0,563c72,515 109,371 109,266c109,111 64,-23 -13,-113l23,-81c98,8 145,142 145,299</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

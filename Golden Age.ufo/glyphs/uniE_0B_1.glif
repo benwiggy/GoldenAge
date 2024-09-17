@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE0B1" format="2">
   <advance width="473"/>
   <unicode hex="E0B1"/>
@@ -58,4 +58,18 @@
       <point x="155" y="18"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheadSetCircleX</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>Circle X whole</string>
+      <key>_name</key>
+      <string>noteheadCircleXWhole</string>
+    </dict>
+  </lib>
 </glyph>

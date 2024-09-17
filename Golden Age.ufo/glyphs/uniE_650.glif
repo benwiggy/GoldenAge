@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE650" format="2">
   <advance width="788"/>
   <unicode hex="E650"/>
@@ -57,7 +57,7 @@
     </contour>
     <contour>
       <point x="296" y="403" type="curve" smooth="yes"/>
-      <point x="296" y="464" name=".hr01"/>
+      <point x="296" y="464"/>
       <point x="261" y="511"/>
       <point x="201" y="511" type="curve" smooth="yes"/>
       <point x="140" y="511"/>
@@ -77,7 +77,7 @@
       <point x="109" y="38"/>
       <point x="117" y="134"/>
       <point x="119" y="199" type="curve"/>
-      <point x="208" y="203" name=".hr02"/>
+      <point x="208" y="203"/>
       <point x="296" y="315"/>
     </contour>
     <contour>
@@ -98,7 +98,7 @@
       <point x="119" y="247" type="curve"/>
       <point x="119" y="310"/>
       <point x="125" y="370"/>
-      <point x="101" y="430" type="curve" name=".hr04"/>
+      <point x="101" y="430" type="curve"/>
       <point x="117" y="438"/>
       <point x="123" y="462"/>
       <point x="152" y="462" type="curve" smooth="yes"/>
@@ -107,83 +107,38 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>7a3dac9e30a42a3c12df7f88afa0c56abe216190963b20ce379bfba55b92092c05c7afe10cf8c17344f50dd2314648c90508683dc07eb996ac9a64990b264282</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>tf_pedals</string>
+      </array>
+      <key>_description</key>
+      <string>Pedal mark</string>
+      <key>_name</key>
+      <string>keyboardPedalPed</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>vstem 589 60</string>
-          <string>vstem 278 167</string>
-          <string>hstem 0 44</string>
-          <string>vstem 677 49</string>
-          <string>hstem 199 48</string>
-          <string>hstem 462 49</string>
-          <string>vstem 119 128</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 44</string>
+              <string>hstem 199 48</string>
+              <string>hstem 462 49</string>
+              <string>vstem 119 128</string>
+              <string>vstem 247 49</string>
+              <string>vstem 278 167</string>
+              <string>vstem 589 60</string>
+              <string>vstem 677 49</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>7a3dac9e30a42a3c12df7f88afa0c56abe216190963b20ce379bfba55b92092c05c7afe10cf8c17344f50dd2314648c90508683dc07eb996ac9a64990b264282</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 247 49</string>
-          <string>hstem 462 49</string>
-          <string>hstem 0 44</string>
-          <string>hstem 199 48</string>
-          <string>vstem 677 49</string>
-          <string>vstem 589 60</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 199 48</string>
-          <string>vstem 119 128</string>
-          <string>hstem 0 44</string>
-          <string>hstem 462 49</string>
-          <string>vstem 278 167</string>
-          <string>vstem 677 49</string>
-          <string>vstem 589 60</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>vstem 247 49</string>
-          <string>hstem 0 44</string>
-          <string>vstem 589 60</string>
-          <string>hstem 199 48</string>
-          <string>hstem 462 49</string>
-          <string>vstem 677 49</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553128842384</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 199 48</string>
-          <string>vstem 119 128</string>
-          <string>hstem 462 49</string>
-          <string>hstem 0 44</string>
-          <string>vstem 278 167</string>
-          <string>vstem 677 49</string>
-          <string>vstem 589 60</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr04</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED10" format="2">
   <advance width="172"/>
   <unicode hex="ED10"/>
-  <note>fingering0</note>
+  <note>
+fingering0
+</note>
   <outline>
     <contour>
       <point x="99" y="218" type="curve"/>
@@ -52,28 +54,36 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>fingering0</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>fdaf0919d0e2eebb5156be65805f8eeaa7f491deb9ba56dfcf2d4af98466029451273d0247c34168d949bc6d203e133fac841e5a53d89dfc23308258008197ad</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>tf_figuredBass</string>
+      </array>
+      <key>_description</key>
+      <string>Fingering 0 (open string)</string>
+      <key>_name</key>
+      <string>fingering0</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 0 37</string>
-          <string>hstem 250 -20</string>
-          <string>vstem 0 31</string>
-          <string>vstem 142 28</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 37</string>
+              <string>hstem 250 -20</string>
+              <string>vstem 0 31</string>
+              <string>vstem 142 28</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>fdaf0919d0e2eebb5156be65805f8eeaa7f491deb9ba56dfcf2d4af98466029451273d0247c34168d949bc6d203e133fac841e5a53d89dfc23308258008197ad</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE08A" format="2">
   <advance width="587"/>
   <unicode hex="E08A"/>
@@ -33,4 +33,12 @@
       <point x="601" y="-229"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_description</key>
+      <string>Common time</string>
+      <key>_name</key>
+      <string>timeSigCommon</string>
+    </dict>
+  </lib>
 </glyph>

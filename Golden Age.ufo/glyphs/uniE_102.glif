@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE102" format="2">
   <advance width="955"/>
   <unicode hex="E102"/>
@@ -61,7 +61,7 @@
       <point x="411" y="253" type="curve" smooth="yes"/>
       <point x="406" y="252"/>
       <point x="395" y="252"/>
-      <point x="395" y="244" type="curve" name=".hr02"/>
+      <point x="395" y="244" type="curve"/>
       <point x="395" y="243" type="line"/>
       <point x="386" y="239"/>
       <point x="377" y="234"/>
@@ -115,69 +115,43 @@
       <point x="486" y="208"/>
       <point x="490" y="213"/>
       <point x="490" y="218" type="curve"/>
-      <point x="601" y="213" name=".hr03"/>
+      <point x="601" y="213"/>
       <point x="711" y="209"/>
       <point x="822" y="204" type="curve"/>
-      <point x="441" y="-206" type="line" smooth="yes" name=".hr04"/>
+      <point x="441" y="-206" type="line" smooth="yes"/>
       <point x="438" y="-210"/>
       <point x="435" y="-214"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a99357700eeb3871f30790a70f8841755dbec60d9e25d4e3f3050fa5620d6756453ceed1505f68229ea5b6338b3755febca0a030fa16792e616ce5aa00e18b47</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>noteheads</string>
+      </array>
+      <key>_description</key>
+      <string>White slash whole</string>
+      <key>_name</key>
+      <string>noteheadSlashWhiteWhole</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 204 40</string>
-          <string>hstem 256 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 204 40</string>
+              <string>hstem 218 35</string>
+              <string>hstem 256 -20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>a99357700eeb3871f30790a70f8841755dbec60d9e25d4e3f3050fa5620d6756453ceed1505f68229ea5b6338b3755febca0a030fa16792e616ce5aa00e18b47</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 218 35</string>
-          <string>hstem 256 -20</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553127926160</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 204 40</string>
-          <string>hstem 256 -20</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 218 35</string>
-          <string>hstem 256 -20</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr03</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 204 40</string>
-          <string>hstem 256 -20</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr04</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

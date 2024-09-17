@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE535" format="2">
   <advance width="686"/>
   <unicode hex="E535"/>
@@ -63,7 +63,7 @@
       <point x="162" y="-41"/>
       <point x="208" y="101"/>
       <point x="228" y="203" type="curve"/>
-      <point x="307" y="203" type="line" name=".hr02"/>
+      <point x="307" y="203" type="line"/>
       <point x="340" y="239" type="line"/>
       <point x="233" y="239" type="line"/>
       <point x="244" y="292"/>
@@ -80,42 +80,34 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>97d42eeaa575c9f48ee58d470b3caa1dbf981142a5f03aab13bc3487a784096f005f2ed3b720b77f0594d6a83de9066524b09da64eece74ed03b1569937a4e14</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>dynamics</string>
+      </array>
+      <key>_description</key>
+      <string>Forzando</string>
+      <key>_name</key>
+      <string>dynamicForzando</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 7 27</string>
-          <string>hstem 203 36</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 7 27</string>
+              <string>hstem 7 36</string>
+              <string>hstem 203 36</string>
+              <string>hstem 206 36</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>97d42eeaa575c9f48ee58d470b3caa1dbf981142a5f03aab13bc3487a784096f005f2ed3b720b77f0594d6a83de9066524b09da64eece74ed03b1569937a4e14</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 7 36</string>
-          <string>hstem 206 36</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553128995280</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 203 36</string>
-          <string>hstem 7 27</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

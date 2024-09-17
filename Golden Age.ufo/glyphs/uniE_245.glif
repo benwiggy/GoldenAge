@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE245" format="2">
   <advance width="293"/>
   <unicode hex="E245"/>
@@ -93,23 +93,31 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>67c2fd9a348f1dd2ca9aad69bb1fd2e44308fda5ab0655a08c121d60b46546dc1cc774c5ec50ec354c3d0c939558bbc95235e0c7b4cdf02140a39d7a0291fbff</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Combining flag 3 (32nd) below</string>
+      <key>_name</key>
+      <string>flag32ndDown</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>vstem 268 38</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 268 38</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>67c2fd9a348f1dd2ca9aad69bb1fd2e44308fda5ab0655a08c121d60b46546dc1cc774c5ec50ec354c3d0c939558bbc95235e0c7b4cdf02140a39d7a0291fbff</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

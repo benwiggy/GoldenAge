@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE56C" format="2">
   <advance width="579"/>
   <unicode hex="E56C"/>
@@ -17,10 +17,10 @@
       <point x="2" y="-5"/>
       <point x="-9" y="-51" type="curve"/>
       <point x="23" y="-19"/>
-      <point x="48" y="24" name=".hr01"/>
+      <point x="48" y="24"/>
       <point x="97" y="24" type="curve" smooth="yes"/>
       <point x="150" y="24"/>
-      <point x="155" y="-103" name=".hr02"/>
+      <point x="155" y="-103"/>
       <point x="222" y="-103" type="curve" smooth="yes"/>
       <point x="271" y="-103"/>
       <point x="337" y="-12"/>
@@ -33,39 +33,33 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>3967226aae8ef069b72bb6c2566762b61a2a5060d08902fff8a1a8f663304411f6e81dad4f408fff9aad7a81a7a35ac8797222236d658f37ef9b154efe3cb613</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>ornaments</string>
+        <string>tf_ornaments</string>
+      </array>
+      <key>_description</key>
+      <string>Short trill</string>
+      <key>_name</key>
+      <string>ornamentShortTrill</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -103 221</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -103 221</string>
+              <string>hstem 24 94</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>3967226aae8ef069b72bb6c2566762b61a2a5060d08902fff8a1a8f663304411f6e81dad4f408fff9aad7a81a7a35ac8797222236d658f37ef9b154efe3cb613</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 24 94</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -103 221</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr02</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

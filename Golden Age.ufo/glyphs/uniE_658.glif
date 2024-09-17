@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE658" format="2">
   <advance width="368"/>
   <unicode hex="E658"/>
-  <note>keyboardPedalHyphen</note>
+  <note>
+keyboardPedalHyphen
+</note>
   <outline>
     <contour>
       <point x="252" y="142" type="curve" smooth="yes"/>
@@ -53,26 +55,34 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>keyboardPedalHyphen</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>ebb56484a69f4beb02a0810d1dd6dc64a84aeb0a24b1a523ba24a26eb085e1f015125e5712b2def82b2e92cb4ad4efd6864dac8daea104605c7c5a3c25fa3064</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>tf_pedals</string>
+      </array>
+      <key>_description</key>
+      <string>Pedal hyphen</string>
+      <key>_name</key>
+      <string>keyboardPedalHyphen</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 163 -21</string>
-          <string>hstem 288 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 163 -21</string>
+              <string>hstem 288 -20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>ebb56484a69f4beb02a0810d1dd6dc64a84aeb0a24b1a523ba24a26eb085e1f015125e5712b2def82b2e92cb4ad4efd6864dac8daea104605c7c5a3c25fa3064</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

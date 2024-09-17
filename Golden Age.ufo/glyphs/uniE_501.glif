@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE501" format="2">
   <advance width="793"/>
   <unicode hex="E501"/>
@@ -52,4 +52,16 @@
       <point x="138" y="121"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Repeat last two bars</string>
+      <key>_name</key>
+      <string>repeat2Bars</string>
+    </dict>
+  </lib>
 </glyph>

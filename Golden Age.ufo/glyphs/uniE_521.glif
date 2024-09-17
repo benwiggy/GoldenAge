@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE521" format="2">
   <advance width="500"/>
   <unicode hex="E521"/>
@@ -62,4 +62,16 @@
       <point x="503" y="4"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>dynamics</string>
+      </array>
+      <key>_description</key>
+      <string>Mezzo</string>
+      <key>_name</key>
+      <string>dynamicMezzo</string>
+    </dict>
+  </lib>
 </glyph>

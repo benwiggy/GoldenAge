@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED82" format="2">
   <advance width="228"/>
   <unicode hex="ED82"/>
-  <note>fingering2Italic</note>
+  <note>
+fingering2Italic
+</note>
   <outline>
     <contour>
       <point x="182" y="1" type="curve" smooth="yes"/>
@@ -89,26 +91,30 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>fingering2Italic</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>b64291a15d7326c7fb0606b0f111e492617e8a7d4fa31b795937f6ac8ea3c33b600b7b45cf5a9b093038d60c5beb80466a5aad3637c169d6e4b79717be9055ef</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_description</key>
+      <string>Fingering 2 italic (index finger)</string>
+      <key>_name</key>
+      <string>fingering2Italic</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 238 -20</string>
-          <string>vstem 29 132</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 238 -20</string>
+              <string>vstem 29 132</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>b64291a15d7326c7fb0606b0f111e492617e8a7d4fa31b795937f6ac8ea3c33b600b7b45cf5a9b093038d60c5beb80466a5aad3637c169d6e4b79717be9055ef</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

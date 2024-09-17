@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4BD" format="2">
   <advance width="373"/>
   <unicode hex="E4BD"/>
@@ -38,45 +38,30 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>56dc3e7076311d47bf303b5aab572f18878c053560e2f67cb26347079c4b25f6c6117a3523d6be64cb638f1a213e35a030e2970e5d20667b1169a2faf9f64974</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_description</key>
+      <string>Marcato-tenuto below</string>
+      <key>_name</key>
+      <string>articMarcatoTenutoBelow</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -507 -21</string>
-          <string>hstem -40 38</string>
-          <string>hstem -1 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -507 -21</string>
+              <string>hstem -40 38</string>
+              <string>hstem -38 36</string>
+              <string>hstem -1 -20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>56dc3e7076311d47bf303b5aab572f18878c053560e2f67cb26347079c4b25f6c6117a3523d6be64cb638f1a213e35a030e2970e5d20667b1169a2faf9f64974</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -38 36</string>
-          <string>hstem -507 -21</string>
-          <string>hstem -1 -20</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553127531664</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -40 38</string>
-          <string>hstem -507 -21</string>
-          <string>hstem -1 -20</string>
-        </array>
-        <key>pointTag</key>
-        <string>lsb</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

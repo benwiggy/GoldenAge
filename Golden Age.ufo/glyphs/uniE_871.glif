@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE871" format="2">
   <advance width="833"/>
   <unicode hex="E871"/>
@@ -60,4 +60,16 @@
       <point x="489" y="613"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>tf_chordSymbols</string>
+      </array>
+      <key>_description</key>
+      <string>Half-diminished</string>
+      <key>_name</key>
+      <string>csymHalfDiminished</string>
+    </dict>
+  </lib>
 </glyph>

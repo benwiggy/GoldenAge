@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4EB" format="2">
   <advance width="469"/>
   <unicode hex="E4EB"/>
@@ -139,4 +139,17 @@
       <point x="531" y="686"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>rests</string>
+      </array>
+      <key>_description</key>
+      <string>256th rest</string>
+      <key>_name</key>
+      <string>rest256th</string>
+    </dict>
+  </lib>
 </glyph>

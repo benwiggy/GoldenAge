@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE223" format="2">
   <advance width="407"/>
   <unicode hex="E223"/>
@@ -44,4 +44,16 @@
       <point x="354" y="136" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>stemDecorations</string>
+      </array>
+      <key>_description</key>
+      <string>Combining tremolo 4</string>
+      <key>_name</key>
+      <string>tremolo4</string>
+    </dict>
+  </lib>
 </glyph>

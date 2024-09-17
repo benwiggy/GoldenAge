@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniEC64" format="2">
   <advance width="1066"/>
   <unicode hex="EC64"/>
@@ -53,7 +53,7 @@
       <point x="856" y="218" type="line" smooth="yes"/>
       <point x="812" y="218"/>
       <point x="764" y="218"/>
-      <point x="711" y="219" type="curve" smooth="yes" name=".hr01"/>
+      <point x="711" y="219" type="curve" smooth="yes"/>
       <point x="658" y="219"/>
       <point x="601" y="219"/>
       <point x="542" y="219" type="curve" smooth="yes"/>
@@ -95,39 +95,33 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>be97152c85dc3b2b438ca7b164a7535764208e645f5a7b3b90b437bbeee67ef73a9174f28509ec3e18303b1b4fcab65733b0663e30fa79543ef7ede8d0acc49d</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>forTextBasedApplications</string>
+      </array>
+      <key>_description</key>
+      <string>Right-pointing arrow for metric modulation</string>
+      <key>_name</key>
+      <string>metricModulationArrowRight</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 170 221</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 170 47</string>
+              <string>hstem 170 221</string>
+              <string>hstem 170 49</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>be97152c85dc3b2b438ca7b164a7535764208e645f5a7b3b90b437bbeee67ef73a9174f28509ec3e18303b1b4fcab65733b0663e30fa79543ef7ede8d0acc49d</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 170 49</string>
-        </array>
-        <key>pointTag</key>
-        <string>.hr01</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 170 47</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553128779168</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

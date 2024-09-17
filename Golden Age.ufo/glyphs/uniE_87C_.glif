@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE87C" format="2">
   <advance width="990"/>
   <unicode hex="E87C"/>
@@ -46,24 +46,28 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>ca44bce0b69c50fa437094c1b62a760b27f3f053711128811dd1835183918464bee9c7f25d8fc1b9623ba7b2c995ee882fb13acb2892b2dcbb0a7e442220d539</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_description</key>
+      <string>Slash for chord symbols arranged diagonally</string>
+      <key>_name</key>
+      <string>csymDiagonalArrangementSlash</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -76 -21</string>
-          <string>hstem 903 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -76 -21</string>
+              <string>hstem 903 -20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>ca44bce0b69c50fa437094c1b62a760b27f3f053711128811dd1835183918464bee9c7f25d8fc1b9623ba7b2c995ee882fb13acb2892b2dcbb0a7e442220d539</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

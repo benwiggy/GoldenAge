@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE53F" format="2">
   <advance width="755"/>
   <unicode hex="E53F"/>
-  <note>dynamicDiminuendoHairpin</note>
+  <note>
+dynamicDiminuendoHairpin
+</note>
   <outline>
     <contour>
       <point x="17" y="100" type="curve" smooth="yes"/>
@@ -73,26 +75,35 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>dynamicDiminuendoHairpin</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>931ae3268fa3bfca4b9caf86140bb3737d42aefde9068592f6eeb0db500821ed75bf68a3ec1fd043bdc2c31be4084e32e27e2c5deacd2acf66211327f06fa147</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>dynamics</string>
+        <string>tf_hairpins</string>
+      </array>
+      <key>_description</key>
+      <string>Diminuendo</string>
+      <key>_name</key>
+      <string>dynamicDiminuendoHairpin</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 121 -21</string>
-          <string>hstem 350 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 121 -21</string>
+              <string>hstem 350 -20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>931ae3268fa3bfca4b9caf86140bb3737d42aefde9068592f6eeb0db500821ed75bf68a3ec1fd043bdc2c31be4084e32e27e2c5deacd2acf66211327f06fa147</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

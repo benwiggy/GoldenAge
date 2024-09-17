@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE07D" format="2">
   <advance width="178"/>
   <unicode hex="E07D"/>
@@ -52,4 +52,16 @@
       <point x="142" y="108"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>clefs</string>
+      </array>
+      <key>_description</key>
+      <string>8 for clefs</string>
+      <key>_name</key>
+      <string>clef8</string>
+    </dict>
+  </lib>
 </glyph>

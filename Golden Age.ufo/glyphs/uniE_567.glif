@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE567" format="2">
   <advance width="558"/>
   <unicode hex="E567"/>
@@ -27,42 +27,34 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>de34a3b43efed538dceefff5885db107338bf550d61b0d388a26292e953f3c40c11168ebb8023e013ef612f7adbde010f0e5250ba58b1c7043713dd361d401a6</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>ornaments</string>
+        <string>tf_ornaments</string>
+      </array>
+      <key>_description</key>
+      <string>Turn</string>
+      <key>_name</key>
+      <string>ornamentTurn</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 211 45</string>
-          <string>hstem 2 57</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 2 57</string>
+              <string>hstem 187 59</string>
+              <string>hstem 211 45</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>de34a3b43efed538dceefff5885db107338bf550d61b0d388a26292e953f3c40c11168ebb8023e013ef612f7adbde010f0e5250ba58b1c7043713dd361d401a6</string>
       </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 187 59</string>
-          <string>hstem 2 57</string>
-        </array>
-        <key>pointTag</key>
-        <string>._.105553128588944</string>
-      </dict>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 211 45</string>
-          <string>hstem 2 57</string>
-        </array>
-        <key>pointTag</key>
-        <string>lsb</string>
-      </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

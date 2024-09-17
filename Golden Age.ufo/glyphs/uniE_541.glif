@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE541" format="2">
   <advance width="110"/>
   <unicode hex="E541"/>
-  <note>dynamicNienteForHairpin</note>
+  <note>
+dynamicNienteForHairpin
+</note>
   <outline>
     <contour>
       <point x="51" y="-64" type="curve" smooth="yes"/>
@@ -34,27 +36,35 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>dynamicNienteForHairpin</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>66abf4cd29edebcc3d1482a65fb433a403a4db2b5de713517625a55e2e87270b0632b45e72b70b43bb83dad3ebc5915199bfd4231e50e2f8461dcf4b0ef34b67</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>dynamics</string>
+      </array>
+      <key>_description</key>
+      <string>Niente (for hairpins)</string>
+      <key>_name</key>
+      <string>dynamicNienteForHairpin</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -64 28</string>
-          <string>hstem 33 31</string>
-          <string>vstem 0 110</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -64 28</string>
+              <string>hstem 33 31</string>
+              <string>vstem 0 110</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>66abf4cd29edebcc3d1482a65fb433a403a4db2b5de713517625a55e2e87270b0632b45e72b70b43bb83dad3ebc5915199bfd4231e50e2f8461dcf4b0ef34b67</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4AB" format="2">
   <advance width="57"/>
   <unicode hex="E4AB"/>
@@ -11,23 +11,33 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w57m55,-32l11,-2l2,-244l46,-264</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>articulations</string>
+        <string>articulationsBelow</string>
+        <string>combiningStaffPositions</string>
+      </array>
+      <key>_description</key>
+      <string>Staccatissimo stroke below</string>
+      <key>_name</key>
+      <string>articStaccatissimoStrokeBelow</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>vstem 7 44</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 7 44</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>w57m55,-32l11,-2l2,-244l46,-264</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>

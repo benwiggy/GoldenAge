@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniE4D1" format="2">
   <advance width="652"/>
   <unicode hex="E4D1"/>
@@ -24,4 +24,17 @@
       <point x="420" y="306"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>_classes</key>
+      <array>
+        <string>combiningStaffPositions</string>
+        <string>pauses</string>
+      </array>
+      <key>_description</key>
+      <string>Caesura</string>
+      <key>_name</key>
+      <string>caesura</string>
+    </dict>
+  </lib>
 </glyph>

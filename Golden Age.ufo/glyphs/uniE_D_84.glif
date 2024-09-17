@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniED84" format="2">
   <advance width="202"/>
   <unicode hex="ED84"/>
-  <note>fingering4Italic</note>
+  <note>
+fingering4Italic
+</note>
   <outline>
     <contour>
       <point x="132" y="-13" type="curve"/>
@@ -74,25 +76,29 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>note</key>
-  <string>fingering4Italic</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>fa3021681a433e3135ac9baae874a262f6f122f341e66d8567fbdd86e753152c3381cc04d7cc841cf5ade73ba49477f25ddd3a0fc2b26367b2eda95b052f9cd5</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>_description</key>
+      <string>Fingering 4 italic (ring finger)</string>
+      <key>_name</key>
+      <string>fingering4Italic</string>
+      <key>note</key>
+      <real>0.0</real>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem 275 -20</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 275 -20</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>fa3021681a433e3135ac9baae874a262f6f122f341e66d8567fbdd86e753152c3381cc04d7cc841cf5ade73ba49477f25ddd3a0fc2b26367b2eda95b052f9cd5</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>
