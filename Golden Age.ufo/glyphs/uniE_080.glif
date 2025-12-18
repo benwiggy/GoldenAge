@@ -2,6 +2,8 @@
 <glyph name="uniE080" format="2">
   <advance width="381"/>
   <unicode hex="E080"/>
+  <guideline x="0" y="250" angle="0"/>
+  <guideline x="0" y="-250" angle="0"/>
   <outline>
     <contour>
       <point x="361" y="73" type="curve" smooth="yes"/>
@@ -45,6 +47,25 @@
       <string>Time signature 0</string>
       <key>_name</key>
       <string>timeSig0</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -251 74</string>
+              <string>hstem 185 65</string>
+              <string>vstem 20 61</string>
+              <string>vstem 304 57</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>4962fd599a1d870a66267c317a2d8ffa37d4d561e88f87c9d1c1c256ff6ccb06d5fd2976f2dabe48430e2300dbc6d63b60a0b70139c301aa66c31c036acedff0</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

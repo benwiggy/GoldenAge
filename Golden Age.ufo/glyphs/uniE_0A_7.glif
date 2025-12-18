@@ -103,6 +103,26 @@
       <string>X notehead whole</string>
       <key>_name</key>
       <string>noteheadXWhole</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -143 29</string>
+              <string>hstem 119 25</string>
+              <string>hstem 129 15</string>
+              <string>vstem 0 506</string>
+              <string>vstem 441 65</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>c9ec55826007bf008defb23907225ea62df48a257499c80030688d04080dbd0d76db3b4b1b6666bd613435df3b6a0b720a3dc0c91435aa07e3f83b5e215f19e9</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

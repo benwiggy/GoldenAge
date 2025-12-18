@@ -159,6 +159,25 @@
       <string>G clef ottava bassa</string>
       <key>_name</key>
       <string>gClef8vb</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -347 92</string>
+              <string>vstem 2 81</string>
+              <string>vstem 153 84</string>
+              <string>vstem 237 106</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>749dea0e93dd00991132aa137d036e42a99dd4166e241c0c1a8cab5329d1e39e6bf1873866b8a6f324fbda609a2d515ad5d4a115c39d267da101e4df2c4381bf</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

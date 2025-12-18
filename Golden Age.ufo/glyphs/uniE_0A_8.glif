@@ -2,6 +2,8 @@
 <glyph name="uniE0A8" format="2">
   <advance width="421"/>
   <unicode hex="E0A8"/>
+  <anchor x="0" y="-124" name="stemDownNW"/>
+  <anchor x="374" y="98" name="stemUpSE"/>
   <outline>
     <contour>
       <point x="421" y="-145" type="line"/>
@@ -92,6 +94,25 @@
       <string>X notehead half</string>
       <key>_name</key>
       <string>noteheadXHalf</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -141 46</string>
+              <string>hstem 98 39</string>
+              <string>hstem 114 37</string>
+              <string>vstem 0 421</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>c9c60b99ebf1c1bf7d3d12fff994230ac8c67a1afd35ee5548309ddd2f97ee8112958b38b4d2b35e66298f58115edeb19aa04e2b2153579433e5cf0283b1eae9</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

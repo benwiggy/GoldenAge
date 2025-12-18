@@ -51,6 +51,23 @@
       <string>Unstress above</string>
       <key>_name</key>
       <string>articUnstressAbove</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 72</string>
+              <string>vstem 0 431</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>900da30b13c53491736e9b379dd0e8320a382edd570d6bc85cf2ff2376545675ff0d870337d011b9e061cd7008400ea8d79df6c5efee6616f70ef1749947de4e</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

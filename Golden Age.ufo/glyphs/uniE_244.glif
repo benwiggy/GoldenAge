@@ -2,6 +2,7 @@
 <glyph name="uniE244" format="2">
   <advance width="295"/>
   <unicode hex="E244"/>
+  <anchor x="0" y="208" name="stemUpNW"/>
   <outline>
     <contour>
       <point x="280" y="-537" type="curve"/>
@@ -100,6 +101,23 @@
       <string>Combining flag 3 (32nd) above</string>
       <key>_name</key>
       <string>flag32ndUp</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 240 -20</string>
+              <string>vstem 269 38</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>17890c7614855eca56ae32e5978703562eaaaecb48f6997a97cca478d81451cbc69f094a3f769abf5f89752c82f473f0915d369f692fa8be9dd16a611a4089cb</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

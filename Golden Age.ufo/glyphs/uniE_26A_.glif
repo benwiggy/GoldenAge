@@ -37,6 +37,22 @@ accidentalParensLeft
       <string>accidentalParensLeft</string>
       <key>note</key>
       <string>accidentalParensLeft</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 13 24</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w119m135,-249c40,-177 37,-109 37,3c37,90 69,165 101,222l76,200c44,141 13,68 13,-20c13,-110 24,-216 117,-268</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

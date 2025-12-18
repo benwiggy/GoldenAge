@@ -122,6 +122,24 @@
       <string>Rinforzando 2</string>
       <key>_name</key>
       <string>dynamicRinforzando2</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 8 26</string>
+              <string>hstem 203 36</string>
+              <string>hstem 206 36</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>1a276982a6273a67794d48e79319e3332817083a055106ec1a139d6b1a659cf997f2b4da5e699d90a9e0c0befadb14f12e15c83c55175bef32bc9d63670b508c</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

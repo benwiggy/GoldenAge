@@ -2,6 +2,7 @@
 <glyph name="uniE245" format="2">
   <advance width="293"/>
   <unicode hex="E245"/>
+  <anchor x="0" y="-158" name="stemDownSW"/>
   <outline>
     <contour>
       <point x="289" y="67" type="curve" smooth="yes"/>
@@ -102,6 +103,22 @@
       <string>Combining flag 3 (32nd) below</string>
       <key>_name</key>
       <string>flag32ndDown</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 268 38</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>67c2fd9a348f1dd2ca9aad69bb1fd2e44308fda5ab0655a08c121d60b46546dc1cc774c5ec50ec354c3d0c939558bbc95235e0c7b4cdf02140a39d7a0291fbff</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

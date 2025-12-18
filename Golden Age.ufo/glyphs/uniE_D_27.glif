@@ -85,6 +85,23 @@ fingering9
       <string>fingering9</string>
       <key>note</key>
       <string>fingering9</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 272 43</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>f924936c114efe92a90a2799a7f89c37e6ceede81f5ae5e3383120c8d2c2749c0173fee7a626b141fafd1480a6ac61072e324a1e074b4fe55e85f20361675c7e</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

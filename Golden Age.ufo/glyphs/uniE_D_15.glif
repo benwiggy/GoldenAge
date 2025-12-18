@@ -86,6 +86,25 @@ fingering5
       <string>fingering5</string>
       <key>note</key>
       <string>fingering5</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 37</string>
+              <string>hstem 114 40</string>
+              <string>hstem 207 43</string>
+              <string>vstem 115 26</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>6b8c8983884acfce9f9b2ca1537aee09a5750119884ae0a693ce9505e2eedeffbaafc21636417bbdeb9ca1cc744861171b28fda999817d88eee19ed5356ca687</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

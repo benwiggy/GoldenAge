@@ -2,6 +2,7 @@
 <glyph name="uniEAB1" format="2">
   <advance width="205"/>
   <unicode hex="EAB1"/>
+  <anchor x="205" y="127" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="-13" y="55" type="curve" smooth="yes"/>
@@ -61,6 +62,24 @@
       <string>Wide vibrato / shake wiggle segment</string>
       <key>_name</key>
       <string>wiggleVibratoWide</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 83 141</string>
+              <string>vstem 207 20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>97c2697878ce1c550562e9d9f100ce5a691d960015efde979d53893d8501ce987cdc311b9ca479b1bedc690da916573f128b7e039f599eb70c7042da57ff7e18</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

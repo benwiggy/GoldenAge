@@ -5,7 +5,7 @@
   <outline>
     <contour>
       <point x="209" y="86" type="curve" smooth="yes"/>
-      <point x="208" y="133"/>
+      <point x="207.941" y="132.999"/>
       <point x="156" y="151"/>
       <point x="111" y="146" type="curve"/>
       <point x="85" y="142"/>
@@ -19,20 +19,20 @@
       <point x="0" y="3"/>
       <point x="0" y="-180" type="curve"/>
       <point x="97" y="-161"/>
-      <point x="213" y="-89"/>
+      <point x="212.941" y="-89.0013"/>
     </contour>
     <contour>
       <point x="153" y="48" type="curve" smooth="yes"/>
-      <point x="151" y="-32"/>
+      <point x="151.154" y="-32.0037"/>
       <point x="102" y="-105"/>
       <point x="39" y="-121" type="curve"/>
       <point x="39" y="64" type="line"/>
       <point x="76" y="97"/>
-      <point x="154" y="98"/>
+      <point x="154.154" y="97.9967"/>
     </contour>
     <contour>
       <point x="449" y="86" type="curve" smooth="yes"/>
-      <point x="448" y="133"/>
+      <point x="447.941" y="132.999"/>
       <point x="396" y="151"/>
       <point x="351" y="146" type="curve"/>
       <point x="325" y="142"/>
@@ -46,16 +46,16 @@
       <point x="239" y="4"/>
       <point x="239" y="-179" type="curve"/>
       <point x="336" y="-160"/>
-      <point x="453" y="-89"/>
+      <point x="452.941" y="-89.0013"/>
     </contour>
     <contour>
       <point x="393" y="48" type="curve" smooth="yes"/>
-      <point x="391" y="-32"/>
+      <point x="391.154" y="-32.0037"/>
       <point x="342" y="-105"/>
       <point x="279" y="-121" type="curve"/>
       <point x="279" y="64" type="line"/>
       <point x="316" y="97"/>
-      <point x="394" y="98"/>
+      <point x="394.154" y="97.9967"/>
     </contour>
   </outline>
   <lib>
@@ -71,6 +71,25 @@
       <string>Double flat</string>
       <key>_name</key>
       <string>accidentalDoubleFlat</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 0 39</string>
+              <string>vstem 153 56</string>
+              <string>vstem 240 39</string>
+              <string>vstem 393 56</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>259eccf18721dbe159081be17fe8e6d7057c02d76a04f4c222927f05951647888f49b8903441e3463842112ac4301ca60cfb64b0b41bcf2b001c5c98a6ad2fea</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

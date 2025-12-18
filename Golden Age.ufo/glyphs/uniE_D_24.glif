@@ -94,7 +94,7 @@ fingering6
       <key>_name</key>
       <string>fingering6</string>
       <key>note</key>
-      <real>0.0</real>
+      <string>fingering6</string>
     </dict>
   </lib>
 </glyph>

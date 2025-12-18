@@ -38,9 +38,9 @@ restMaxima
       <point x="247" y="63" type="curve" smooth="yes"/>
       <point x="247" y="21" type="line"/>
       <point x="248" y="-57"/>
-      <point x="240" y="-135"/>
+      <point x="240.216" y="-135.011"/>
       <point x="236" y="-213" type="curve" smooth="yes"/>
-      <point x="234" y="-246"/>
+      <point x="234.216" y="-246.012"/>
       <point x="243" y="-255"/>
     </contour>
     <contour>
@@ -84,7 +84,28 @@ restMaxima
       <key>_name</key>
       <string>restMaxima</string>
       <key>note</key>
-      <real>0.0</real>
+      <string>restMaxima</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -234 -21</string>
+              <string>hstem 255 -20</string>
+              <string>vstem 0 120</string>
+              <string>vstem 2 118</string>
+              <string>vstem 236 124</string>
+              <string>vstem 247 118</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>f1b3e60bc8f5afe53c513b3efde72a4afad16be1e730d93cbe1d8b16d45ef46598e449a6fcfb0c210e9841fbd47c50587c9f663b5b389a9870b2cea621947aaf</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

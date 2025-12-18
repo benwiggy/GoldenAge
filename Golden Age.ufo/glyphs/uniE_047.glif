@@ -98,6 +98,26 @@
       <string>Segno</string>
       <key>_name</key>
       <string>segno</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -3 192</string>
+              <string>hstem 462 50</string>
+              <string>hstem 462 162</string>
+              <string>vstem 21 65</string>
+              <string>vstem 439 66</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>8f6f90c8cdc928a8f830778e95d9169d14e969d357a151c4599e76eee12624af33f17b4dd9321dda8be453fcf2b19427614d487313c4ddb6f1f736234f6c80c1</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

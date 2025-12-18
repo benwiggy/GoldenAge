@@ -70,6 +70,26 @@ dynamicNiente
       <string>dynamicNiente</string>
       <key>note</key>
       <string>dynamicNiente</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 39</string>
+              <string>hstem 250 60</string>
+              <string>hstem 253 55</string>
+              <string>vstem 147 205</string>
+              <string>vstem 294 58</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>45922fb4a7fed8db8ff75530043ad6237219a61d3199aebe63c6807de527bb5e5008b1234c2f88f9a4be41ea6b9b4a8a2ea852d5330a469df04caa0e25daf1fd</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

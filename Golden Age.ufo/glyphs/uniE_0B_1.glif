@@ -2,6 +2,8 @@
 <glyph name="uniE0B1" format="2">
   <advance width="473"/>
   <unicode hex="E0B1"/>
+  <anchor x="464" y="44" name="stemUpSE"/>
+  <anchor x="3" y="-51" name="stemDownNW"/>
   <outline>
     <contour>
       <point x="313" y="141" type="curve" smooth="yes"/>

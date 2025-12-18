@@ -120,6 +120,22 @@ brace
       <string>brace</string>
       <key>note</key>
       <string>brace</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>799ca51126fe4152fb1ac1cc35f9071bfbd3653d0ecf1311933043813d30c81cb1dafcf9eb0b893b2a9100d4e7a0afc3a02696bba741d2913408ef4bea4bec62</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -2,6 +2,8 @@
 <glyph name="uniE0B2" format="2">
   <advance width="339"/>
   <unicode hex="E0B2"/>
+  <anchor x="336" y="53" name="stemUpSE"/>
+  <anchor x="0" y="-54" name="stemDownNW"/>
   <outline>
     <contour>
       <point x="216" y="148" type="curve" smooth="yes"/>
@@ -79,6 +81,22 @@
       <string>Circle X half</string>
       <key>_name</key>
       <string>noteheadCircleXHalf</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -27 -21</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>b599c3a905465a2b142db192ffa210e49208280f5e8429cf5408c0eee7c5cb0f77715b43f46bec8baf82e1935975fb36d17b9d0e220ffc042ded8ec7864e3aa4</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

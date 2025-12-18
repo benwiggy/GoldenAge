@@ -48,6 +48,23 @@ fingeringSubstitutionDash
       <string>fingeringSubstitutionDash</string>
       <key>note</key>
       <string>fingeringSubstitutionDash</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 110 36</string>
+              <string>hstem 110 38</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>5bd45bc623e6e1a5907c472265b1942db39cb306dad06edc4993505d6e812a9810b050d2a3073317bfad46868897d33ebcf05f1a8ef3d380bdf0f73c43e5d7d2</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

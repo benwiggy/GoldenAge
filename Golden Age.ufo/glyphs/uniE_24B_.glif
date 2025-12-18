@@ -2,6 +2,7 @@
 <glyph name="uniE24B" format="2">
   <advance width="333"/>
   <unicode hex="E24B"/>
+  <anchor x="0" y="-939" name="stemDownSW"/>
   <outline>
     <contour>
       <point x="295" y="-454" type="curve"/>
@@ -167,6 +168,23 @@
       <string>Combining flag 6 (256th) below</string>
       <key>_name</key>
       <string>flag256thDown</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -1003 -21</string>
+              <string>vstem 269 38</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>a5c6b20000533e0d9da8b13c75d6e56a2f34d5cc813ff859c9622f28309fdbc48b8bb0f1aa449c26a1a4644386db9de710d6d3b692508e89bd166eee71b53e61</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

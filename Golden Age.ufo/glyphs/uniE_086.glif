@@ -63,6 +63,26 @@
       <string>Time signature 6</string>
       <key>_name</key>
       <string>timeSig6</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -250 68</string>
+              <string>hstem -23 69</string>
+              <string>hstem 181 69</string>
+              <string>vstem 20 41</string>
+              <string>vstem 265 47</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>3a1949c0ad1d46607ed4240ad0d0befac859db06246aa153102e527379e2e52df4e57a3b90acb996ca63c49dd8e68fb0a93c4c0e050bfcdde29aa47c37721f77</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

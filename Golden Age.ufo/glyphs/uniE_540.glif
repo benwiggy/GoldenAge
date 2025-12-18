@@ -156,7 +156,23 @@ dynamicMessaDiVoce
       <key>_name</key>
       <string>dynamicMessaDiVoce</string>
       <key>note</key>
-      <real>0.0</real>
+      <string>dynamicMessaDiVoce</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 121 -21</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>abed2a49da306e444f88db80c9f15c8ab117634aecd2332c72eaa499ae92b94d01908ead158ef20d1b431c892b41191aad5bbdbbda595872f9eb028c72f4c99d</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

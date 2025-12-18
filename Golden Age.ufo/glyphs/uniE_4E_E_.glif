@@ -90,9 +90,9 @@
       <point x="64" y="118" type="curve"/>
       <point x="64" y="153" type="line" smooth="yes"/>
       <point x="64" y="204"/>
-      <point x="62" y="241"/>
+      <point x="61.9584" y="240.984"/>
       <point x="57" y="254" type="curve" smooth="yes"/>
-      <point x="54" y="262"/>
+      <point x="53.9584" y="261.984"/>
       <point x="47" y="267"/>
       <point x="37" y="267" type="curve" smooth="yes"/>
       <point x="33" y="267"/>
@@ -117,6 +117,29 @@
       <string>Multiple measure rest</string>
       <key>_name</key>
       <string>restHBar</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -280 -21</string>
+              <string>hstem -113 239</string>
+              <string>hstem -113 235</string>
+              <string>hstem 267 -20</string>
+              <string>vstem 2 62</string>
+              <string>vstem 2 55</string>
+              <string>vstem 739 65</string>
+              <string>vstem 749 55</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>25fab3a8df4c91bddc68d89df2fe35311546422a73f653790db0b5613aa541adc86e31d591ec386356c1e3f655c2760ac20a34e89d888ec012b06903c4bdb9e8</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

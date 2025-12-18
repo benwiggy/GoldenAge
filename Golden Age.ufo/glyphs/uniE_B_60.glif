@@ -83,9 +83,9 @@
       <point x="238" y="31" type="line"/>
       <point x="238" y="181" type="line" smooth="yes"/>
       <point x="238" y="236"/>
-      <point x="238" y="291"/>
+      <point x="238.5" y="291.002"/>
       <point x="238" y="347" type="curve" smooth="yes"/>
-      <point x="237" y="403"/>
+      <point x="237.5" y="403.007"/>
       <point x="237" y="458"/>
       <point x="237" y="512" type="curve" smooth="yes"/>
       <point x="237" y="661" type="line"/>
@@ -122,6 +122,25 @@
       <string>Black arrow up (N)</string>
       <key>_name</key>
       <string>arrowBlackUp</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 14 224</string>
+              <string>vstem 196 42</string>
+              <string>vstem 196 237</string>
+              <string>vstem 198 40</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>b913e06ffc0893502ef070db5953e792458bd5e84e455e093f20d9373124ae9441acbf034bd10ed1ade03db8fe9ca280f9d6b41453e7706f3cf8a794486012ff</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

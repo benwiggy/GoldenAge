@@ -70,7 +70,7 @@ dynamicCombinedSeparatorColon
       <key>_name</key>
       <string>dynamicCombinedSeparatorColon</string>
       <key>note</key>
-      <real>0.0</real>
+      <string>dynamicCombinedSeparatorColon</string>
     </dict>
   </lib>
 </glyph>

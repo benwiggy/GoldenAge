@@ -38,6 +38,23 @@
       <string>Jazz turn</string>
       <key>_name</key>
       <string>brassJazzTurn</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -103 221</string>
+              <string>hstem 24 94</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>3967226aae8ef069b72bb6c2566762b61a2a5060d08902fff8a1a8f663304411f6e81dad4f408fff9aad7a81a7a35ac8797222236d658f37ef9b154efe3cb613</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

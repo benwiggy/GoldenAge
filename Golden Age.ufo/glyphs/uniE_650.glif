@@ -43,9 +43,9 @@
       <point x="343" y="2" type="curve"/>
       <point x="400" y="47" type="line"/>
       <point x="373" y="44"/>
-      <point x="276" y="28"/>
+      <point x="275.751" y="28.0147"/>
       <point x="278" y="64" type="curve" smooth="yes"/>
-      <point x="280" y="92"/>
+      <point x="279.751" y="92.0167"/>
       <point x="342" y="122"/>
       <point x="353" y="130" type="curve"/>
       <point x="338" y="137"/>
@@ -93,7 +93,7 @@
     </contour>
     <contour>
       <point x="247" y="354" type="curve" smooth="yes"/>
-      <point x="243" y="295"/>
+      <point x="243.033" y="294.998"/>
       <point x="186" y="247"/>
       <point x="119" y="247" type="curve"/>
       <point x="119" y="310"/>
@@ -103,7 +103,7 @@
       <point x="123" y="462"/>
       <point x="152" y="462" type="curve" smooth="yes"/>
       <point x="212" y="462"/>
-      <point x="251" y="414"/>
+      <point x="251.033" y="413.998"/>
     </contour>
   </outline>
   <lib>
@@ -116,6 +116,29 @@
       <string>Pedal mark</string>
       <key>_name</key>
       <string>keyboardPedalPed</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 44</string>
+              <string>hstem 199 48</string>
+              <string>hstem 462 49</string>
+              <string>vstem 119 128</string>
+              <string>vstem 247 49</string>
+              <string>vstem 278 167</string>
+              <string>vstem 589 60</string>
+              <string>vstem 677 49</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>184369ee72240d472f656b39957a91dad093797b831b2ee3ebc54d1d1d095840500438fbf7fdf5354541ac9aada6c14fedb2e0aee4c925e00f31e3407d8fb773</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

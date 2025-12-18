@@ -2,6 +2,8 @@
 <glyph name="uniE0C7" format="2">
   <advance width="347"/>
   <unicode hex="E0C7"/>
+  <anchor x="340" y="130" name="stemUpSE"/>
+  <anchor x="6" y="126" name="stemDownNW"/>
   <outline>
     <contour>
       <point x="322" y="142" type="curve" smooth="yes"/>
@@ -44,6 +46,22 @@
       <string>Triangle notehead down black</string>
       <key>_name</key>
       <string>noteheadTriangleDownBlack</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 143 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>0c4302e038d304ea45805b6348a5b50772a7c30d21ad2b1b14b597ffa454b2f90808f4b2c08a6ef88e1db3babfdedb4a5fb05c2cbbd88b7b219756816a2c1849</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

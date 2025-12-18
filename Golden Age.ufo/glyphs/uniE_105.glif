@@ -51,6 +51,22 @@
       <string>Small slash with vertical ends</string>
       <key>_name</key>
       <string>noteheadSlashVerticalEndsSmall</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -82 -21</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>1a4e013af2ae69dc9bb067dc610b6313a38e4ef2a03c18c1f2c5d2babe8c68d3dc9983a91692fff269468875d658c502f91a3f2c50fe83fb2d8cfab3729d74a5</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

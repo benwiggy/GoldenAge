@@ -25,16 +25,16 @@
       <point x="400" y="53"/>
       <point x="348" y="-1" type="curve"/>
       <point x="371" y="1"/>
-      <point x="416" y="10"/>
+      <point x="415.962" y="9.59585"/>
       <point x="446" y="7" type="curve" smooth="yes"/>
-      <point x="497" y="3"/>
+      <point x="496.967" y="2.59547"/>
       <point x="553" y="4"/>
       <point x="620" y="-2" type="curve"/>
       <point x="654" y="34" type="line"/>
       <point x="587" y="39"/>
-      <point x="544" y="39"/>
+      <point x="543.997" y="38.9679"/>
       <point x="494" y="43" type="curve" smooth="yes"/>
-      <point x="482" y="44"/>
+      <point x="481.997" y="43.968"/>
       <point x="459" y="36"/>
       <point x="445" y="35" type="curve"/>
       <point x="509" y="85"/>
@@ -89,6 +89,25 @@
       <string>Forzando</string>
       <key>_name</key>
       <string>dynamicForzando</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 7 27</string>
+              <string>hstem 7 36</string>
+              <string>hstem 203 36</string>
+              <string>hstem 206 36</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>b9dff09064b285dccc17018bcd1a8e3c526907c334bdc6af3b2b0be4aecdbefdb75afb898c3229bf1b9cd93723c063d9d67ba9e5221a195a14cf72ce11783fa2</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

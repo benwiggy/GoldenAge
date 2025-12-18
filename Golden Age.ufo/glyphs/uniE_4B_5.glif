@@ -43,6 +43,22 @@
       <string>Tenuto-accent below</string>
       <key>_name</key>
       <string>articTenutoAccentBelow</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -36 29</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>b392ac23e8b0e72b66f9f81bc76d977314c10d51a528c16998b3848772ccbc8beb43e1fe431607c3fd116ae9c5cc7e1a73ce3155c9c2c3dc2f8ab3676e14c7ee</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

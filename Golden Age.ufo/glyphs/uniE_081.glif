@@ -2,6 +2,8 @@
 <glyph name="uniE081" format="2">
   <advance width="216"/>
   <unicode hex="E081"/>
+  <guideline x="0" y="250" angle="0"/>
+  <guideline x="0" y="-250" angle="0"/>
   <outline>
     <contour>
       <point x="193" y="-189" type="curve"/>

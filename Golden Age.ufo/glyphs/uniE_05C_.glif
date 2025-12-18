@@ -70,6 +70,23 @@
       <string>C clef</string>
       <key>_name</key>
       <string>cClef</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 7 82</string>
+              <string>vstem 127 35</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>5826fe3d7af313572cb10f40abbfda239f2666a6bd427d0db49c27ff40cf5b4308a512d5d24a00621826865b224a5ecfad8d3eb7d2e3422378f346beafc85839</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

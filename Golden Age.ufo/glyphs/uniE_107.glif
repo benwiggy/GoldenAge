@@ -114,6 +114,23 @@
       <string>Muted slash with vertical ends</string>
       <key>_name</key>
       <string>noteheadSlashVerticalEndsMuted</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -261 -21</string>
+              <string>hstem 282 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>7e2eee4faf4c48a2ed6c435a9b780bbbb09c0f3809644d53a6955f155db2afc1a50c399d62c16d1cab10a1fd1f7d8fba6190a8576790ae453b38d0f4a606ec85</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

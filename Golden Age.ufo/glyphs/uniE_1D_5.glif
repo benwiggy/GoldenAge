@@ -32,6 +32,22 @@
       <string>Quarter note (crotchet) stem up</string>
       <key>_name</key>
       <string>noteQuarterUp</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 332 44</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w399m376,901l331,870l332,116c283,149 198,155 139,133c49,99 -24,13 5,-58c35,-128 134,-144 225,-113c338,-73 376,-27 375,68</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

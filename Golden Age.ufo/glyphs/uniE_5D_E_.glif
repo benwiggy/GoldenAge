@@ -86,6 +86,25 @@
       <string>Rough fall, medium</string>
       <key>_name</key>
       <string>brassFallRoughMedium</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 19 -21</string>
+              <string>hstem 709 -20</string>
+              <string>vstem 0 80</string>
+              <string>vstem 257 73</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>a15573528dd82bfabb756640578a9efbe281dbd2c4064239e9124262a923906bc6f13356a9ac0510c45567a6917b8c208737609310490d5d73f31169eaf9a384</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

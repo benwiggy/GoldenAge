@@ -97,7 +97,27 @@ fingeringELower
       <key>_name</key>
       <string>fingeringELower</string>
       <key>note</key>
-      <real>0.0</real>
+      <string>fingeringELower</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 110 163</string>
+              <string>vstem 0 38</string>
+              <string>vstem 0 185</string>
+              <string>vstem 0 176</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>e14b05ca67b7c12926fb46eef9ffcae9eda20e219143a7ae6aafe365c0c0fcca758a8d5864e1656e67d667ed3a93e1b2d58693c48fba1ce3ddb091bcd5af8980</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

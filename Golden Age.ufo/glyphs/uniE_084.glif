@@ -52,6 +52,24 @@
       <string>Time signature 4</string>
       <key>_name</key>
       <string>timeSig4</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -238 -21</string>
+              <string>hstem -89 74</string>
+              <string>hstem 241 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>184aa04dc25d01f2138b3a06bf9c189fc834cf451a9b599f5c4f581aae51715681c4618421b5807ef898809b6c404a44485ed5fa8982083078b605b7c0e92d44</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

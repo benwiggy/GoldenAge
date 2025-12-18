@@ -54,6 +54,25 @@
       <string>Pedal e</string>
       <key>_name</key>
       <string>keyboardPedalE</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 41</string>
+              <string>hstem 204 51</string>
+              <string>vstem 0 58</string>
+              <string>vstem 14 58</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>81a024c27c4db54c67ca90a7c46edc188db29eda5ba73855e9983b443187f5df10f8a6300d37a96a186ab4c451ba6cada30adcc08655b8fa8b7df4a58b588fbe</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -87,6 +87,25 @@
       <string>Square notehead white</string>
       <key>_name</key>
       <string>noteheadSquareWhite</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -132 47</string>
+              <string>hstem 78 44</string>
+              <string>vstem 7 44</string>
+              <string>vstem 297 46</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>fbdfe944fe39f4f34af75af4cc3d69a1fe9453b558e5ee409da4f7f7e4c775a907d136092ef4fa9ab8bca19dff8044d7411c305ab4bcd5d1ee0dcf99cb7537f3</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

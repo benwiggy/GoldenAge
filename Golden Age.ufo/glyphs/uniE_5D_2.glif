@@ -84,6 +84,28 @@
       <string>Lift, medium</string>
       <key>_name</key>
       <string>brassLiftMedium</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 138 100</string>
+              <string>hstem 232 102</string>
+              <string>hstem 317 104</string>
+              <string>hstem 355 111</string>
+              <string>hstem 503 75</string>
+              <string>hstem 723 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>3d73e6785e0e29baf05997bdcd59d60d5c6248b13f9dcc516bdb27834f560715dab5ca117b7b85f952e54abe180da38c6083c51628c837e56699ddda1e6d9f44</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

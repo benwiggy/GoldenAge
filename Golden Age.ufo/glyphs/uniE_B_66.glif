@@ -51,6 +51,24 @@
       <string>Black arrow left (W)</string>
       <key>_name</key>
       <string>arrowBlackLeft</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 169 48</string>
+              <string>hstem 171 48</string>
+              <string>hstem 171 220</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>074387bb15bfac7ba7582755bc3338119da3a54017d3e7215517302c699a61ef5f85ea1601b64622c478b4571b39cc202ef035c9316463d5f8ac058cfecff794</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

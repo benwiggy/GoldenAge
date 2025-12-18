@@ -44,6 +44,22 @@
       <string>Internal combining flag above</string>
       <key>_name</key>
       <string>flagInternalUp</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>5f775b79fc7c249dd7657bda9cce0d4bf9ca8cd010545d601802376263ce9a9b0feb6f2486487c75c161cfd41c51f3f7629c4f4d60c7390482ad010bc8896d66</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

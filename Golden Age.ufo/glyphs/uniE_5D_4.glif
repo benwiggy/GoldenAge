@@ -32,6 +32,23 @@
       <string>Doit, short</string>
       <key>_name</key>
       <string>brassDoitShort</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -12 -21</string>
+              <string>hstem 353 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>e3516967102e04c24bb6c65aef4b66023488c8071d9584beb9f1ca5655c904678b50bbdaa3ed08f2370392716764d4bc7d0c532012e8372fb5e5f21559a07203</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

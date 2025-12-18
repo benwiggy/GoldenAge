@@ -63,6 +63,25 @@
       <string>Time signature 9</string>
       <key>_name</key>
       <string>timeSig9</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -250 64</string>
+              <string>hstem -37 59</string>
+              <string>hstem 192 58</string>
+              <string>vstem 266 49</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>cce0a2cfdbc7f827e113d454b40b67229db6e8313eb9934d46d9030fd36f05c743723cfa9598a8dfc03afad9327b7c9f13c2cd8488a5d04784eaa8a761719b07</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

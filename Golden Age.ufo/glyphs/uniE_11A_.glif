@@ -45,6 +45,23 @@
       <string>Large square black notehead</string>
       <key>_name</key>
       <string>noteheadSquareBlackLarge</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -114 -21</string>
+              <string>hstem 143 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>9f21917ec9753f99d5a73c8de9f2778d6deccf4fb83369f8c412daba29a41b0cd5d1e2f3186a35a8ced72433f4e28e19681db7b3c712cb0771867ddac7f87a17</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

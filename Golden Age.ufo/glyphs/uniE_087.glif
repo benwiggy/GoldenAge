@@ -41,6 +41,24 @@
       <string>Time signature 7</string>
       <key>_name</key>
       <string>timeSig7</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -229 -21</string>
+              <string>hstem 173 77</string>
+              <string>hstem 178 72</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>b4db23f87130f899eea3f0845e9ec8c09e863335ecb3e2fbede0cd8f22834887b6cf8ad97ac1a95dbd44f00c276ab85b1b7e623367b812c73f7a56aafab56f54</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -2,6 +2,7 @@
 <glyph name="uniEAAF" format="2">
   <advance width="337"/>
   <unicode hex="EAAF"/>
+  <anchor x="337" y="98" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="378" y="142" type="curve" smooth="yes"/>
@@ -49,6 +50,23 @@
       <string>Glissando wiggle segment</string>
       <key>_name</key>
       <string>wiggleGlissando</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 70</string>
+              <string>hstem 112 69</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>c516a2047da1e34ff5f4ac206c8de242ad1ed27e254fc79b8d6f0c583452f3d61e007d5205de070da8fb9674e608cc61269e73122ed21e511862ab4f39d5aa6d</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -42,6 +42,22 @@
       <string>Slash for altered bass note</string>
       <key>_name</key>
       <string>csymAlteredBassSlash</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 756 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>65a29925fe046f25bda5c73339567a7881bba67bff79394b8f6024eef638797a1767745bfebf05fc7454613f8e7b573001aaec7eac4f96b4e5e7e26dd91f5e63</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

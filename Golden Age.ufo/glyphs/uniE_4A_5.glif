@@ -26,6 +26,22 @@
       <string>Tenuto below</string>
       <key>_name</key>
       <string>articTenutoBelow</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -35 37</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w348m347,0l260,1l122,2l33,0l3,-37l95,-35l231,-35l320,-37</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -75,9 +75,9 @@
       <point x="314" y="594"/>
       <point x="305" y="594" type="curve"/>
       <point x="296" y="593"/>
-      <point x="291" y="593"/>
+      <point x="291.121" y="592.707"/>
       <point x="289" y="592" type="curve" smooth="yes"/>
-      <point x="285" y="591"/>
+      <point x="285.088" y="590.696"/>
       <point x="281" y="590"/>
       <point x="278" y="589" type="curve" smooth="yes"/>
       <point x="275" y="587"/>
@@ -194,4 +194,31 @@
       <point x="289" y="312"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>47a0b671fa23a9242a06e3471cd783448d38595f9a141d1b6af9b96e8dcbcfb772f3867924e27732684ecd12bd056390a6594377ba5a2d0d3c223da9a3a3d4e4</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -1 78</string>
+          <string>hstem 192 67</string>
+          <string>hstem 265 79</string>
+          <string>hstem 265 77</string>
+          <string>hstem 519 73</string>
+          <string>hstem 519 75</string>
+          <string>vstem 286 53</string>
+          <string>vstem 296 60</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

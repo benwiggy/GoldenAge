@@ -6,9 +6,9 @@
     <contour>
       <point x="69" y="0" type="curve"/>
       <point x="49" y="-11"/>
-      <point x="7" y="-123"/>
+      <point x="7.22155" y="-123.012"/>
       <point x="2" y="-217" type="curve" smooth="yes"/>
-      <point x="1" y="-231"/>
+      <point x="1.22144" y="-231.014"/>
       <point x="0" y="-245"/>
       <point x="0" y="-258" type="curve" smooth="yes"/>
       <point x="0" y="-264"/>
@@ -39,6 +39,22 @@
       <string>Staccatissimo wedge below</string>
       <key>_name</key>
       <string>articStaccatissimoWedgeBelow</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 2 157</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>32ed0fb754c9830ad0ffa5ec842b995063bedc3f6d6dca199af5e22088848d1504fdad5469923fa545b2c4beceac07d8f2ad5b09abb39cb720f52ae4c431d9a9</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -114,7 +114,28 @@ gClef
       <key>_name</key>
       <string>gClef</string>
       <key>note</key>
-      <real>0.0</real>
+      <string>gClef</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -665 -21</string>
+              <string>hstem -347 92</string>
+              <string>vstem 2 81</string>
+              <string>vstem 83 116</string>
+              <string>vstem 153 84</string>
+              <string>vstem 237 106</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>8d52f2ee7e0ea7585e7ed9eff54b396effadc48d2d56dab122c8c3c1afd613ce03202e073945176e9e34a76ed96f1fcce0194d5b3f935030c52b47ca1c7eed19</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

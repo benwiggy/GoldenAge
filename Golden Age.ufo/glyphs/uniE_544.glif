@@ -39,7 +39,7 @@ dynamicHairpinBracketLeft
       <point x="58" y="257"/>
       <point x="52" y="257" type="curve"/>
       <point x="42" y="256" type="line" smooth="yes"/>
-      <point x="3" y="252"/>
+      <point x="2.98997" y="252.099"/>
       <point x="0" y="250"/>
       <point x="0" y="210" type="curve"/>
       <point x="1" y="141"/>
@@ -67,7 +67,26 @@ dynamicHairpinBracketLeft
       <key>_name</key>
       <string>dynamicHairpinBracketLeft</string>
       <key>note</key>
-      <real>0.0</real>
+      <string>dynamicHairpinBracketLeft</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 194 62</string>
+              <string>hstem 260 -20</string>
+              <string>vstem 0 86</string>
+              <string>vstem 5 81</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>1b73999f7e9ea832545a9e53a16026ab666fd1a33192f1840fe0d523d53d84a0b9193663ea5cee250577af459ec163182282c271fff7053749cd3ad5882f308e</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -27,9 +27,9 @@
       <point x="628" y="803"/>
       <point x="607" y="803" type="curve" smooth="yes"/>
       <point x="586" y="803"/>
-      <point x="566" y="802"/>
+      <point x="566.002" y="801.972"/>
       <point x="549" y="801" type="curve" smooth="yes"/>
-      <point x="531" y="800"/>
+      <point x="531.002" y="799.972"/>
       <point x="516" y="798"/>
       <point x="505" y="795" type="curve" smooth="yes"/>
       <point x="494" y="792"/>
@@ -163,6 +163,23 @@
       <string>Nebenstimme</string>
       <key>_name</key>
       <string>analyticsNebenstimme</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 717 84</string>
+              <string>hstem 717 86</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>0425034b1260bdae80d767d27b0011daf56706720db68d654b866a9fa913f286ad2905a02d62d8a2ae318704b38c8a0c11a21b778eecc1c56bdb4e7798647083</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

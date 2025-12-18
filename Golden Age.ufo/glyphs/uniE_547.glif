@@ -16,9 +16,9 @@ dynamicCombinedSeparatorHyphen
       <point x="240" y="166" type="curve" smooth="yes"/>
       <point x="237" y="166" type="line"/>
       <point x="188" y="163"/>
-      <point x="140" y="167"/>
+      <point x="140.002" y="167.036"/>
       <point x="104" y="169" type="curve" smooth="yes"/>
-      <point x="85" y="170"/>
+      <point x="85.0019" y="170.036"/>
       <point x="72" y="171"/>
       <point x="63" y="172" type="curve" smooth="yes"/>
       <point x="41" y="174"/>
@@ -42,7 +42,24 @@ dynamicCombinedSeparatorHyphen
       <key>_name</key>
       <string>dynamicCombinedSeparatorHyphen</string>
       <key>note</key>
-      <real>0.0</real>
+      <string>dynamicCombinedSeparatorHyphen</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 104 62</string>
+              <string>hstem 110 59</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>c9cfd8693e942bd4eb0591e9eadf120f5eae1c8411d73ca313ec1539557e291f0c3435800d456d025a8a8a65f41568c7be7e4f6eef4cc8ee85f77e12b8398b6b</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

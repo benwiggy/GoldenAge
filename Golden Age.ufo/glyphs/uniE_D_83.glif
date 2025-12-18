@@ -48,9 +48,9 @@ fingering3Italic
       <point x="40" y="239"/>
       <point x="43" y="237" type="curve"/>
       <point x="54" y="226"/>
-      <point x="65" y="214"/>
+      <point x="65.0016" y="214.028"/>
       <point x="83" y="213" type="curve" smooth="yes"/>
-      <point x="100" y="212"/>
+      <point x="100.002" y="212.028"/>
       <point x="117" y="210"/>
       <point x="137" y="208" type="curve"/>
       <point x="133" y="203"/>
@@ -116,7 +116,25 @@ fingering3Italic
       <key>_name</key>
       <string>fingering3Italic</string>
       <key>note</key>
-      <real>0.0</real>
+      <string>fingering3Italic</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 213 33</string>
+              <string>vstem 136 38</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>15163dc79bfadb632e13b02a1023a3d5366522b478d1330184503447b5576b48b064a91d83d9e2cca844ff30571222f5c0c38594661833adda045355d7de7e72</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

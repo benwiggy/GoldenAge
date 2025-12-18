@@ -2,6 +2,8 @@
 <glyph name="uniE0BD" format="2">
   <advance width="347"/>
   <unicode hex="E0BD"/>
+  <anchor x="339" y="-127" name="stemUpSE"/>
+  <anchor x="4" y="-124" name="stemDownNW"/>
   <outline>
     <contour>
       <point x="322" y="-141" type="curve" smooth="yes"/>
@@ -59,6 +61,22 @@
       <string>Triangle notehead up white</string>
       <key>_name</key>
       <string>noteheadTriangleUpWhite</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -142 42</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>f27a950357c9cc8d32e5c518fca4d9cf4e2f38adcd74149289983f7d6c0275f589165326948476acbee5b97444dbe17743d357422cece43b4446f7878c6a52ee</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

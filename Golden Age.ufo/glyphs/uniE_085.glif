@@ -57,6 +57,26 @@
       <string>Time signature 5</string>
       <key>_name</key>
       <string>timeSig5</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -250 75</string>
+              <string>hstem -250 103</string>
+              <string>hstem -22 80</string>
+              <string>hstem 162 88</string>
+              <string>hstem 162 86</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>4ec314705dcab2c3f211726d6894aad3a5db21939c00d386764d884febc658fe3b7963d0f9ba60120128deed5c23870e9884c8342d1af4fc7d2b950fc33ffb71</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

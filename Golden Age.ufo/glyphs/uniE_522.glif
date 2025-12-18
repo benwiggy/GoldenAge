@@ -52,6 +52,23 @@
       <string>Forte</string>
       <key>_name</key>
       <string>dynamicForte</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 153 36</string>
+              <string>hstem 156 36</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>b453ac4a58c1a2ebdfd6cff8705be700798ff4f7755b848fb0df7587a0e68e9f908c1b4d28dc85d351280f5c76c026622745fb4f76378b463996c8ef5d83032d</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

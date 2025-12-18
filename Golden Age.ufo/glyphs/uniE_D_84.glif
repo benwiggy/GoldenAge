@@ -83,6 +83,22 @@ fingering4Italic
       <string>fingering4Italic</string>
       <key>note</key>
       <string>fingering4Italic</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 275 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>fa3021681a433e3135ac9baae874a262f6f122f341e66d8567fbdd86e753152c3381cc04d7cc841cf5ade73ba49477f25ddd3a0fc2b26367b2eda95b052f9cd5</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

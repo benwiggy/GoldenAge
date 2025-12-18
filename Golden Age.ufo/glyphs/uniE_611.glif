@@ -27,8 +27,8 @@
       <point x="278" y="-330" type="line"/>
       <point x="358" y="-316" type="line"/>
       <point x="360" y="-245" type="line" smooth="yes"/>
-      <point x="362" y="-185"/>
-      <point x="367" y="-230"/>
+      <point x="361.69" y="-184.99"/>
+      <point x="366.866" y="-230.006"/>
     </contour>
   </outline>
   <lib>
@@ -37,6 +37,26 @@
       <string>Turned down bow</string>
       <key>_name</key>
       <string>stringsDownBowTurned</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -330 93</string>
+              <string>vstem 3 23</string>
+              <string>vstem 326 34</string>
+              <string>vstem 335 25</string>
+              <string>vstem 335 27</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>c4f231a0adf7f1c23d28b8dcd6c05854893481bd28f8ff9ca67f9952446c1a078046d21b1fde9bd5f4bdc099dc50233400990ae2d8897327e3ab0a64fc817a39</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

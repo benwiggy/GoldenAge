@@ -51,6 +51,22 @@ dynamicHairpinParenthesisLeft
       <string>dynamicHairpinParenthesisLeft</string>
       <key>note</key>
       <string>dynamicHairpinParenthesisLeft</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 0 34</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>9650ef4856389254fd12b611b528ed43b33cd62b3b3349a25e8ab2600f2e4eaeb69a6bf17e5eaa25d4cb49edd0d784ecdaf4ba8db72ba7dc6189db9a00d09327</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

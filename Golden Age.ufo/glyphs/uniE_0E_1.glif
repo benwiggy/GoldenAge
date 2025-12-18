@@ -2,6 +2,8 @@
 <glyph name="uniE0E1" format="2">
   <advance width="283"/>
   <unicode hex="E0E1"/>
+  <anchor x="273" y="-19" name="stemUpSE"/>
+  <anchor x="8" y="18" name="stemDownNW"/>
   <outline>
     <contour>
       <point x="241" y="28" type="curve" smooth="yes"/>
@@ -68,6 +70,23 @@
       <string>Diamond half notehead (old)</string>
       <key>_name</key>
       <string>noteheadDiamondHalfOld</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -101 -21</string>
+              <string>hstem 126 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>ce02c3c5581a5d21f35136cd767903fb0f4cc2c7dbd56ef9a1b2de961aebdc8198693355e3383e27681502ebfdccb51a5ad8d56bd669de89dc1021a230b5838f</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -100,6 +100,24 @@
       <string>White arrow right (E)</string>
       <key>_name</key>
       <string>arrowWhiteRight</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 259 84</string>
+              <string>hstem 410 82</string>
+              <string>vstem 204 33</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>3b936a365d48771a0d08b2bd0fa8f6205551b7860cd6e159a55402620e102c72dd180c8a38e83cd3091c9d0463398fbd4a554c8cdf68cc86bfb7c657bd5bcde4</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -75,6 +75,23 @@ wiggleArpeggiatoDownArrow
       <string>wiggleArpeggiatoDownArrow</string>
       <key>note</key>
       <string>wiggleArpeggiatoDownArrow</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -48 -21</string>
+              <string>hstem 141 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>d5e34117715ce453d44cd3223810179afacfd31cf13d1fa98e72d1817ce3a2e52d747eb5326eb6c34c8779a223faf673a4b067aef6a7c38b8becceeb71090592</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

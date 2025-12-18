@@ -121,6 +121,23 @@ reversedBrace
       <string>reversedBrace</string>
       <key>note</key>
       <string>reversedBrace</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 1000 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>30a7185ab17e3c7075c1291d79eb523d2ed1f09557a306ced663b919ca6dc188a6a453c500530e273e181cfb2bc6a2f73ee0df2eca7a7a8210811f4168c0d7cd</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

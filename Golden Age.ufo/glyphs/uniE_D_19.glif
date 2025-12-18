@@ -44,9 +44,9 @@ fingeringILower
       <point x="76" y="54"/>
       <point x="74" y="55" type="curve"/>
       <point x="76" y="83"/>
-      <point x="77" y="112"/>
+      <point x="77.0344" y="111.999"/>
       <point x="78" y="140" type="curve" smooth="yes"/>
-      <point x="79" y="170"/>
+      <point x="79.0344" y="169.999"/>
       <point x="83" y="201"/>
       <point x="81" y="231" type="curve"/>
       <point x="80" y="258"/>
@@ -95,7 +95,25 @@ fingeringILower
       <key>_name</key>
       <string>fingeringILower</string>
       <key>note</key>
-      <real>0.0</real>
+      <string>fingeringILower</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 366 -20</string>
+              <string>vstem 36 42</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>bab92e6c17612998776ffbd81a6adb2bdf8fa77fa5927d843e2075695a3294360e16938d161c4ba7c0eb6a6f5661c34239f4e4740baa7370f6982ceed234bf65</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

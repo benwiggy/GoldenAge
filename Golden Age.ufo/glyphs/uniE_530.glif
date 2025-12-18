@@ -128,6 +128,23 @@
       <string>fff</string>
       <key>_name</key>
       <string>dynamicFFF</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 153 36</string>
+              <string>hstem 156 36</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>866d338698a50b6e4569f9ebe680869c225374917ab0117b9ad5cfebfcf21feb718d89ec5d7c24c117da9fe2951ead7ca083cfe689efa710b02d39ae71ddfdc9</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

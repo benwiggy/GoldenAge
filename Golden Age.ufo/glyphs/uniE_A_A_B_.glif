@@ -86,6 +86,23 @@ wiggleArpeggiatoUpSwash
       <string>wiggleArpeggiatoUpSwash</string>
       <key>note</key>
       <string>wiggleArpeggiatoUpSwash</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 20 -21</string>
+              <string>hstem 192 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>dee1f31ed5e7d619661cc2390b3e00b6fe247c16297106ff5da9d72af9d81e28e7a89708ce4d7e26675f651e815d05b7c61ebedfb937b0a7d0e2cd051b5fbc7f</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

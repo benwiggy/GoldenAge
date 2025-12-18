@@ -306,6 +306,22 @@
       <string>4-string tab clef</string>
       <key>_name</key>
       <string>4stringTabClef</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 166 62</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>fe609a98196efba31dd3efa156b7041904bf98dc86f6ae7266f3021b9e0d41c4a135cc7efabfdff83a9a2ab2554d9017709d17a1237665e8a068728556bb1b2f</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

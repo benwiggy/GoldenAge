@@ -88,10 +88,31 @@
       <point x="284" y="374"/>
       <point x="265" y="374" type="curve"/>
       <point x="246" y="373"/>
-      <point x="226" y="373"/>
+      <point x="226.003" y="373.067"/>
       <point x="205" y="374" type="curve" smooth="yes"/>
-      <point x="181" y="375"/>
+      <point x="181.003" y="375.067"/>
       <point x="155" y="375"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>766d98499bfffddf6be58210126685c60d66044b49fe89aa4f54f4da44d2f63d99bd4fb3a9d57906e3ee47df83b58efd8dbe54459b9db06f34940b43b03044a8</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 272 102</string>
+          <string>hstem 272 107</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

@@ -29,6 +29,23 @@ fingeringSeparatorMiddleDot
       <string>fingeringSeparatorMiddleDot</string>
       <key>note</key>
       <string>fingeringSeparatorMiddleDot</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 60 130</string>
+              <string>vstem 25 130</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w180m105,60c137,60 157,81 155,116c155,152 117,190 81,190c50,190 25,158 25,122c25,89 63,60 105,60</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -152,6 +152,22 @@
       <string>Quindicesima bassa</string>
       <key>_name</key>
       <string>quindicesimaBassa</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 201 235</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>2b36c80b8ff010e25b0edf5449c9499a2f7bf3c726bec055ef1a4977a37d50733dcb28b77c36fe879bd373e5f28929c0ac9117bdc8b3abbaad674d301ed88e11</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

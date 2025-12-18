@@ -46,6 +46,25 @@
       <string>Bend</string>
       <key>_name</key>
       <string>brassBend</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 32</string>
+              <string>hstem 282 -20</string>
+              <string>vstem 0 32</string>
+              <string>vstem 360 32</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>5c4c33f3e1a5af8f9702a8ca34623482d892e1db9719eeed7c1e7b8401a7356564de85778a47c808a90a253cdc7d4e6506e8822c12ba90bea89d49c29d7b8d5c</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

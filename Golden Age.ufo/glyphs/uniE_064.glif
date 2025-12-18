@@ -124,6 +124,23 @@
       <string>F clef ottava bassa</string>
       <key>_name</key>
       <string>fClef8vb</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 178 84</string>
+              <string>vstem 430 90</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>24b4361c6d63f54c90fb43c5548b7f07aa12b316b3bae0cc0b225f4a58a40792af3bc9c9b06de9eddf9ffd5115c5ff46d01a0a36ab66d71c708777be5ef5c585</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

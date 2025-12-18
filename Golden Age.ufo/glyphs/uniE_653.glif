@@ -55,6 +55,26 @@
       <string>Pedal d</string>
       <key>_name</key>
       <string>keyboardPedalD</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 44</string>
+              <string>hstem 212 56</string>
+              <string>vstem 0 49</string>
+              <string>vstem 0 204</string>
+              <string>vstem 144 47</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>d4ce934fccb1b09f420a6aecdce9dc490876aa641c5089cea9eba1cd4f26bb86f1b9be9badfa9b2cec5481695d60f09dcece026f3edb068620aad48dee60e79e</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

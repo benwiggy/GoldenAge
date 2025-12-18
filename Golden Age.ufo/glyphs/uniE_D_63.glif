@@ -28,6 +28,22 @@
       <string>Double sharp</string>
       <key>_name</key>
       <string>csymAccidentalDoubleSharp</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 20 -21</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w354m354,263l274,259l185,167l90,258l14,262l148,132l0,-1l76,-1l185,93l263,-1l338,-1l221,130</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

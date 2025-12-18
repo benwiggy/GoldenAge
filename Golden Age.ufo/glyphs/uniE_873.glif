@@ -59,6 +59,22 @@
       <string>Major seventh</string>
       <key>_name</key>
       <string>csymMajorSeventh</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 2 101</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>49ea37e912cb1ea615df4de166ce12656a5096cbbd85607e86c107ea38496fad583dd5773f89d561e914be05a33105f1aa842ed8c82db6933ca0e291f7041ded</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

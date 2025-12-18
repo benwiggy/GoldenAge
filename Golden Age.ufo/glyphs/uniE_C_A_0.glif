@@ -73,6 +73,25 @@
       <string>Double whole note (breve)</string>
       <key>_name</key>
       <string>metNoteDoubleWhole</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 11 23</string>
+              <string>vstem 66 20</string>
+              <string>vstem 439 22</string>
+              <string>vstem 486 23</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>4741f6100be98017c172d3c3fef85c0ac476a5cc8abc47eca42e8d71011c6e07cfea391d233a5bbf4afd7c3a760cfa76a4ebc96cdc1ac1cd5935c423aa865542</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

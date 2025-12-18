@@ -48,6 +48,22 @@
       <string>Eighth note (quaver) stem up</string>
       <key>_name</key>
       <string>note8thUp</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 330 45</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>97156f58583b19b0ecfe2b3e2c955af30052d77d32c46bb5b562471a2ea4039a6ca2d9a245035c4d2c478286d9c9b87f4144e33ce528b88401ca33e7128f3947</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

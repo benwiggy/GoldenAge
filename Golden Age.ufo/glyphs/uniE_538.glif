@@ -179,6 +179,26 @@
       <string>Sforzando-pianissimo</string>
       <key>_name</key>
       <string>dynamicSforzandoPianissimo</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 203 56</string>
+              <string>hstem 206 56</string>
+              <string>vstem 2 46</string>
+              <string>vstem 84 60</string>
+              <string>vstem 84 166</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>fb1213ee9f975f2f46c1c5c35e9fa0925178ae8dd2c9fdc9444f67fd0e8344d0300b0efc80dba9526b2efef705a8d6a05b0ab894354c70a38b1b101db472aff9</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

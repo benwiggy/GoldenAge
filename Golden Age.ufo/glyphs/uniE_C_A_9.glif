@@ -6,7 +6,7 @@
     <contour>
       <point x="389" y="343" type="curve"/>
       <point x="415" y="521"/>
-      <point x="346" y="562"/>
+      <point x="346.031" y="562.033"/>
       <point x="249" y="653" type="curve" smooth="yes"/>
       <point x="217" y="683" type="line"/>
       <point x="217" y="487"/>
@@ -48,6 +48,23 @@
       <string>16th note (semiquaver) stem up</string>
       <key>_name</key>
       <string>metNote16thUp</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 217 29</string>
+              <string>vstem 246 131</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>c15044f0d42cab6e5a197b10edae355285a673cb54093bbe9ff4414c6d2e6843e2a2a1a5fd94a71be6067b254ae0fa2ef3a7dd2e3ebdf2bec5a87296ba3b1ccd</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

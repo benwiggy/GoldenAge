@@ -82,6 +82,23 @@ fingeringLeftBracketItalic
       <string>fingeringLeftBracketItalic</string>
       <key>note</key>
       <string>fingeringLeftBracketItalic</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -9 -21</string>
+              <string>vstem 0 51</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>e32a965091511737934c4b32a468e987de9d0dbc13d7666c011fe7ed5dc8041359c85abf7c51ac56d238b3c6d8971e9192c631a4b2ad33af0f8454ce9539e13a</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

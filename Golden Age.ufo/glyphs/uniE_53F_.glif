@@ -87,6 +87,23 @@ dynamicDiminuendoHairpin
       <string>dynamicDiminuendoHairpin</string>
       <key>note</key>
       <string>dynamicDiminuendoHairpin</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 121 -21</string>
+              <string>hstem 350 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>931ae3268fa3bfca4b9caf86140bb3737d42aefde9068592f6eeb0db500821ed75bf68a3ec1fd043bdc2c31be4084e32e27e2c5deacd2acf66211327f06fa147</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -113,7 +113,23 @@
   <lib>
   <dict>
   <key>note</key>
-  <real>0</real>
+  <string>brace</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>baba20c653343e8693052daa0657dd552d5714ea9a5f6ce64d31bc47f9c0c767a0f0136fb310b5aebe79e0ad17a0d7a56617619da0398117d84cd5a0c91b061e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

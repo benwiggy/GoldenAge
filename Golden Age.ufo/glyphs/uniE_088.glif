@@ -73,6 +73,28 @@
       <string>Time signature 8</string>
       <key>_name</key>
       <string>timeSig8</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -253 65</string>
+              <string>hstem -16 65</string>
+              <string>hstem 193 54</string>
+              <string>vstem 20 41</string>
+              <string>vstem 74 55</string>
+              <string>vstem 290 43</string>
+              <string>vstem 298 50</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>76d260ed62fb2a42cfda446957b35fd226f027109134a20ffeaedad6a1ba5057c18bbf93a71f5a037991012ab1b3741d28dd4f4071ae0239b135009f7afa1c81</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

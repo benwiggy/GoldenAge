@@ -86,6 +86,22 @@ dynamicHairpinBracketRight
       <string>dynamicHairpinBracketRight</string>
       <key>note</key>
       <string>dynamicHairpinBracketRight</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -242 -21</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>222eea50e1346a2fea1ecdce44fc3098bd4abd637849d3ef0a042ad03749ae486e5bd2a835e7ae3bf61a02a529aceaf2992bf190c3d4569b2baa23ce20d77960</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

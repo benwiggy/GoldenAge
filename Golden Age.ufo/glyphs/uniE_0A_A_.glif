@@ -93,6 +93,23 @@
       <string>Ornate X notehead</string>
       <key>_name</key>
       <string>noteheadXOrnate</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -140 274</string>
+              <string>vstem -1 251</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>95e92c9ce318f29139837f79015ca317dbeef6aa5f32452d979d86cd0a82dca3ae070c347baff60e97f3f94865905ec88368984dcab9e57a4548bb2da3b4c8b7</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

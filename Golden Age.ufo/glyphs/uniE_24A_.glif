@@ -2,6 +2,7 @@
 <glyph name="uniE24A" format="2">
   <advance width="333"/>
   <unicode hex="E24A"/>
+  <anchor x="0" y="928" name="stemUpNW"/>
   <outline>
     <contour>
       <point x="295" y="453" type="curve"/>
@@ -167,6 +168,23 @@
       <string>Combining flag 6 (256th) above</string>
       <key>_name</key>
       <string>flag256thUp</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 1023 -20</string>
+              <string>vstem 269 38</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>42d3770fede0fed70c625a79bea751d1eca7a2cb7a79e70ab84d7e589972f41f6b1dcbdfab582c7c8891072d48d0b80df715662d4b2fd880b38ee142b98aaa35</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

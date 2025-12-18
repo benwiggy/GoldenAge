@@ -61,9 +61,9 @@ metNoteDoubleWholeSquare
       <point x="25" y="207" type="curve"/>
       <point x="24" y="207" type="line"/>
       <point x="10" y="207"/>
-      <point x="5" y="197"/>
+      <point x="5.18322" y="196.973"/>
       <point x="3" y="183" type="curve" smooth="yes"/>
-      <point x="0" y="165"/>
+      <point x="0.182886" y="164.97"/>
       <point x="0" y="148"/>
       <point x="0" y="130" type="curve" smooth="yes"/>
       <point x="0" y="99"/>
@@ -147,7 +147,30 @@ metNoteDoubleWholeSquare
       <key>_name</key>
       <string>noteDoubleWholeSquare</string>
       <key>note</key>
-      <real>0.0</real>
+      <string>metNoteDoubleWholeSquare</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -137 97</string>
+              <string>hstem -137 95</string>
+              <string>hstem 45 90</string>
+              <string>hstem 50 94</string>
+              <string>hstem 211 -20</string>
+              <string>vstem 3 35</string>
+              <string>vstem 438 32</string>
+              <string>vstem 441 33</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>324a3da04c75f8e3178b133d61d0ac0002d667f9e75036d0f3321788b9ed3c6b7aadeb1a99e614c426feab8a0acbe034fb29d39a46a297b7b370ab56cdcbdbc1</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

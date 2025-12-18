@@ -22,9 +22,9 @@
       <point x="659" y="83"/>
       <point x="578" y="-1" type="curve"/>
       <point x="601" y="1"/>
-      <point x="646" y="10"/>
+      <point x="645.962" y="9.59585"/>
       <point x="676" y="7" type="curve" smooth="yes"/>
-      <point x="727" y="3"/>
+      <point x="726.967" y="2.59547"/>
       <point x="783" y="4"/>
       <point x="850" y="-2" type="curve"/>
       <point x="884" y="34" type="line"/>
@@ -124,6 +124,25 @@
       <string>Sforzato</string>
       <key>_name</key>
       <string>dynamicSforzato</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 1 38</string>
+              <string>hstem 7 27</string>
+              <string>hstem 203 36</string>
+              <string>hstem 206 36</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>056985c178cb367a8cf7bf10d6675b6b26710e4fc649b9672436b9bbca2ce8b2dfb8ad3518f504907044a58a48d297e0f04d2818548423a14b38f27e398acb51</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

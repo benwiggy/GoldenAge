@@ -2,6 +2,8 @@
 <glyph name="uniE114" format="2">
   <advance width="251"/>
   <unicode hex="E114"/>
+  <anchor x="6" y="-74" name="stemDownNW"/>
+  <anchor x="245" y="76" name="stemUpSE"/>
   <outline>
     <contour>
       <point x="125" y="-193" type="curve" smooth="yes"/>
@@ -54,6 +56,25 @@
       <string>Round white notehead</string>
       <key>_name</key>
       <string>noteheadRoundWhite</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -172 -21</string>
+              <string>hstem 76 117</string>
+              <string>vstem 0 61</string>
+              <string>vstem 195 56</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>ecc83eda9d7567e22b6bb69e032395d699c146eff7ea5649997e94f7bf0fb48baf547281affb9ed23240991adcb837b6792f171e579e4121ffcab706fdc7c408</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

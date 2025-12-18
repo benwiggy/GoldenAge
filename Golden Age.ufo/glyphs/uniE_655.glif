@@ -46,6 +46,23 @@
       <string>Pedal up mark</string>
       <key>_name</key>
       <string>keyboardPedalUp</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 147 37</string>
+              <string>vstem 254 31</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>c17ddecc41713dadad13e8836625fc10130b2d66d1a574389b19333329fdae5992be881f8caf20b03fbaf7ad1dcd382642a869b374f8d7d25edcb06e77a28527</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

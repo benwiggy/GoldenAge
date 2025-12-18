@@ -5,6 +5,7 @@
   <note>
 wiggleTrillFaster
 </note>
+  <anchor x="254" y="98" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="170" y="-1" type="curve"/>
@@ -54,7 +55,7 @@ wiggleTrillFaster
       <key>_name</key>
       <string>wiggleTrillFaster</string>
       <key>note</key>
-      <real>0.0</real>
+      <string>wiggleTrillFaster</string>
     </dict>
   </lib>
 </glyph>

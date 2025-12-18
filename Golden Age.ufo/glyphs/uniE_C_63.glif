@@ -7,9 +7,9 @@
       <point x="117" y="168" type="curve"/>
       <point x="203" y="168" type="line" smooth="yes"/>
       <point x="239" y="168"/>
-      <point x="280" y="168"/>
+      <point x="279.992" y="168.494"/>
       <point x="326" y="169" type="curve" smooth="yes"/>
-      <point x="371" y="169"/>
+      <point x="370.997" y="169.494"/>
       <point x="420" y="169"/>
       <point x="471" y="169" type="curve" smooth="yes"/>
       <point x="624" y="169" type="line"/>
@@ -105,6 +105,23 @@
       <string>Left-pointing arrow for metric modulation</string>
       <key>_name</key>
       <string>metricModulationArrowLeft</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 169 48</string>
+              <string>hstem 169 227</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>cf8d8c88c3a307eaadb695d54106badc7bdce64c784a565b3b667c9b18bf54bd65eafbfa9143482f2b852e09a2902aa72334feef53c27f8c2a8b2cde547d0718</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

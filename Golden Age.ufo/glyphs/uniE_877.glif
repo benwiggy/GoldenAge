@@ -55,9 +55,9 @@
       <point x="314" y="807"/>
       <point x="305" y="807" type="curve"/>
       <point x="212" y="799"/>
-      <point x="120" y="791"/>
+      <point x="120.014" y="790.816"/>
       <point x="28" y="784" type="curve" smooth="yes"/>
-      <point x="12" y="783"/>
+      <point x="12.0126" y="782.816"/>
       <point x="1" y="778"/>
       <point x="1" y="759" type="curve"/>
       <point x="0" y="739"/>
@@ -89,6 +89,24 @@
       <string>Double-height left bracket</string>
       <key>_name</key>
       <string>csymBracketLeftTall</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 9 58</string>
+              <string>hstem 731 53</string>
+              <string>hstem 807 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>bb55ca8b377eb45d595c63a9b49b68ee2160b69d9d89b7e4e124598f011a1f66375894c9a587e01ef7c5a4fd744d08ed35ca8b75819b499b1a99e7e0f4a90fb5</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

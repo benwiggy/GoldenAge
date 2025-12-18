@@ -101,6 +101,25 @@
       <string>White arrow left (W)</string>
       <key>_name</key>
       <string>arrowWhiteLeft</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 259 84</string>
+              <string>hstem 408 83</string>
+              <string>hstem 410 81</string>
+              <string>vstem 318 33</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>11fae7ec4fbb0ecc7dc893c76e4c79e88abc089a65d2a5b6f7011a0b0d41bfb006b274a16f4c3a4e85f645f4fa3a2f2b24d3e4d23e70657b28a666968261f725</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

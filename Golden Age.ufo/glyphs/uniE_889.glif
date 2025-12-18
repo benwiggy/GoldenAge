@@ -38,9 +38,9 @@
       <point x="32" y="48"/>
       <point x="42" y="132" type="curve"/>
       <point x="58" y="174"/>
-      <point x="83" y="173"/>
+      <point x="83.0293" y="172.64"/>
       <point x="122" y="176" type="curve" smooth="yes"/>
-      <point x="199" y="183"/>
+      <point x="199.032" y="182.641"/>
       <point x="209" y="116"/>
     </contour>
   </outline>
@@ -50,6 +50,22 @@
       <string>Tuplet 9</string>
       <key>_name</key>
       <string>tuplet9</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 176 54</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>a4ae95acc31f3b96ca249991f82e3703751d2eb24baaa6beb3a0dc62c17b3cb8058d4f70a1dd17b7f9a680c1dc4dbec24022ace8d5c896b13f89a610d8d06f50</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

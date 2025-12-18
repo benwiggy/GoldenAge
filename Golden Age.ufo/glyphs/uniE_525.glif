@@ -25,16 +25,16 @@
       <point x="60" y="53"/>
       <point x="8" y="-1" type="curve"/>
       <point x="31" y="1"/>
-      <point x="76" y="10"/>
+      <point x="75.9623" y="9.59585"/>
       <point x="106" y="7" type="curve" smooth="yes"/>
-      <point x="157" y="3"/>
+      <point x="156.967" y="2.59547"/>
       <point x="213" y="4"/>
       <point x="280" y="-2" type="curve"/>
       <point x="314" y="34" type="line"/>
       <point x="247" y="39"/>
-      <point x="204" y="39"/>
+      <point x="203.997" y="38.9679"/>
       <point x="154" y="43" type="curve" smooth="yes"/>
-      <point x="142" y="44"/>
+      <point x="141.997" y="43.968"/>
       <point x="119" y="36"/>
       <point x="105" y="35" type="curve"/>
       <point x="169" y="85"/>
@@ -51,6 +51,23 @@
       <string>Z</string>
       <key>_name</key>
       <string>dynamicZ</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 7 27</string>
+              <string>hstem 7 36</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>c89aeb4b915dda971813308fcc83eb6dd8bae132e81d6e28a07422c9d40bea0ba25148143239e534faca0a256fcda624257fc07bb49084f119bdaf1e330af8c9</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

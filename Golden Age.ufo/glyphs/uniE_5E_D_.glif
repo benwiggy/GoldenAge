@@ -38,6 +38,23 @@
       <string>Smooth lift, medium</string>
       <key>_name</key>
       <string>brassLiftSmoothMedium</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 897 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>e18b8f4c6ccfe4b6f64fbda0c9bc8c18428daa247277846594f578aa6ce730ed3735717d3ca1f213dfe22335b3d43f098ed02b041b0d1dde5da2513092be939c</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

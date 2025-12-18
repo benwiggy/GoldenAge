@@ -7,9 +7,9 @@
       <point x="445" y="256" type="curve"/>
       <point x="413" y="211" type="line"/>
       <point x="565" y="206"/>
-      <point x="551" y="61"/>
+      <point x="551.001" y="60.9512"/>
       <point x="431" y="59" type="curve" smooth="yes"/>
-      <point x="305" y="57"/>
+      <point x="305.001" y="56.9512"/>
       <point x="288" y="228"/>
       <point x="139" y="246" type="curve"/>
       <point x="-125" y="247"/>
@@ -37,6 +37,24 @@
       <string>Turn</string>
       <key>_name</key>
       <string>ornamentTurn</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 2 57</string>
+              <string>hstem 187 59</string>
+              <string>hstem 211 45</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>675b78d61d24da04dc3bf39853ed2171607a0a60d1b415b5f5f45f10dcda48081ea5db53c9b731749be45563339a3c348ca560bc2210968302132bb3e3268cc3</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

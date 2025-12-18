@@ -95,4 +95,25 @@
       <point x="96" y="-300"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>35fe0472c501500d5cfd1f6932e4226c64bd36d2ba138053ba4def6c0f25b3d4866d3fa55739cef5b73f6b3e3301d1e635fff6dfc357f429c34efc4a173de22e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -279 -21</string>
+          <string>hstem 300 -20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

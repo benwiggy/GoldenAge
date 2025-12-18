@@ -6,9 +6,9 @@
     <contour>
       <point x="301" y="279" type="curve"/>
       <point x="303" y="308"/>
-      <point x="304" y="337"/>
+      <point x="303.926" y="337.003"/>
       <point x="305" y="366" type="curve" smooth="yes"/>
-      <point x="306" y="391"/>
+      <point x="305.926" y="391.003"/>
       <point x="305" y="419"/>
       <point x="304" y="448" type="curve" smooth="yes"/>
       <point x="303" y="477"/>
@@ -99,4 +99,24 @@
       <point x="285" y="209"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>40a713789e67e1367e8c77f80e80e1f664acde0737152cf822e1d597929ea61c51a193fa05fd6b246b8fe675a7a3d2e03958d99777fce68188fa982c8ea15f91</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 268 37</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
 </glyph>

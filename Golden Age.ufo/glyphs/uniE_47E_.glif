@@ -107,6 +107,26 @@
       <string>Quarter-tone sharp</string>
       <key>_name</key>
       <string>accidentalQuarterToneSharp4</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 103 25</string>
+              <string>vstem 130 24</string>
+              <string>vstem 133 25</string>
+              <string>vstem 212 26</string>
+              <string>vstem 215 26</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>524a2762e0bf1db78bd6d9ed1cef61964d213dad6ecf1487642172abac38855375bcab66209a7e768e15d115cef524a69bf1c65cba1983c130bd6fc90a78ca44</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

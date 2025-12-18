@@ -22,6 +22,22 @@
       <string>Staccatissimo stroke below</string>
       <key>_name</key>
       <string>articStaccatissimoStrokeBelow</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 7 44</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w57m55,-32l11,-2l2,-244l46,-264</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

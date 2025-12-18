@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="362" y="115" type="line" smooth="yes"/>
-      <point x="367" y="233"/>
-      <point x="362" y="188"/>
+      <point x="366.866" y="233.006"/>
+      <point x="361.69" y="187.99"/>
       <point x="360" y="248" type="curve" smooth="yes"/>
       <point x="358" y="319" type="line"/>
       <point x="278" y="333" type="line"/>
@@ -37,6 +37,26 @@
       <string>Down bow</string>
       <key>_name</key>
       <string>stringsDownBow</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 240 93</string>
+              <string>vstem 3 23</string>
+              <string>vstem 326 34</string>
+              <string>vstem 335 25</string>
+              <string>vstem 335 27</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>f808e590a11543310f9bf0b6cbd48ab1f716f919268b3c56445f048eda1ce7e3ada4ef621b447934974e1e1ad555621b9d040dbf4ece82f549ca67a34a023850</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

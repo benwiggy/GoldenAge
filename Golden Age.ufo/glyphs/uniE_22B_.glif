@@ -95,6 +95,25 @@
       <string>Penderecki unmeasured tremolo</string>
       <key>_name</key>
       <string>pendereckiTremolo</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -146 -21</string>
+              <string>hstem -120 36</string>
+              <string>hstem 102 39</string>
+              <string>hstem 167 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>5cac0115e948120e2b2a0e5a7abacf6d8e765a6c82aa98bccfeef7b10fbbe4cbb74b236963c026bfcbae383c23fc4693d7d9ced6cc13f92439d87d4612be78bd</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

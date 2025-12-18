@@ -117,6 +117,24 @@ keyboardPedalS
       <string>keyboardPedalS</string>
       <key>note</key>
       <string>keyboardPedalS</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 538 -20</string>
+              <string>vstem 0 50</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>9c0bc552a2b8b1f8cac2f66e85c87b4dda90bea17c21cb379cd886c9fd7ad5c840e88da9fc4b86f85991b70cb7f48a2e843ae973bb2f5653a2c91afec8d7c351</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

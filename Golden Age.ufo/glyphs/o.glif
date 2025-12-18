@@ -98,9 +98,9 @@
       <point x="97" y="115"/>
       <point x="90" y="132" type="curve" smooth="yes"/>
       <point x="83" y="149"/>
-      <point x="78" y="170"/>
+      <point x="78.4985" y="170.025"/>
       <point x="77" y="195" type="curve" smooth="yes"/>
-      <point x="75" y="220"/>
+      <point x="75.4979" y="220.035"/>
       <point x="74" y="247"/>
     </contour>
   </outline>
@@ -111,7 +111,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>93fca0c086e77b5b4b01986e9a7b165509761944d681c2bab288428338767e38dc25ad133b62decf0f62e9f547e6f7c47ebd2373915ccb9de5d2e0c443c75d2f</string>
+    <string>a7d0066da0cb1ffadf7c790a49f4a5ddfc8f74968fcfc85de2c7808fd361d114e8d4b3693776500bacdbc91bb82a8f946581ee095a23df838d0c3a55392b8ed5</string>
     <key>hintSetList</key>
     <array>
       <dict>

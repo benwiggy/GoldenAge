@@ -16,9 +16,9 @@
       <point x="38" y="288"/>
       <point x="38" y="396" type="curve" smooth="yes"/>
       <point x="38" y="608"/>
-      <point x="42" y="740"/>
+      <point x="41.847" y="740.012"/>
       <point x="46" y="794" type="curve" smooth="yes"/>
-      <point x="48" y="818"/>
+      <point x="47.8471" y="818.012"/>
       <point x="49" y="836"/>
       <point x="49" y="848" type="curve" smooth="yes"/>
       <point x="49" y="872"/>
@@ -55,6 +55,28 @@
       <string>Combining stem</string>
       <key>_name</key>
       <string>stem</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 1 -21</string>
+              <string>hstem 885 -20</string>
+              <string>vstem 0 49</string>
+              <string>vstem 0 38</string>
+              <string>vstem 0 46</string>
+              <string>vstem 2 39</string>
+              <string>vstem 2 36</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>07c0338c9678b6d1833b821abbbf7f6be4956ef1cd92d5c9bbd0847d8bc9344aa10d3b597380527efb6eca3196a3388f26aae089eeb43ee85987d07ff040a497</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -93,6 +93,24 @@ fingering3
       <string>fingering3</string>
       <key>note</key>
       <string>fingering3</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 28</string>
+              <string>hstem 0 250</string>
+              <string>vstem 127 32</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>7ca67646008956f3716f82e7e0cb96e4ff3680ff638b130f5cd79583614e5ca10b8bee77ff9e4786b8eb8200addf575019c14e98b51809c52e0e015b675472a2</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

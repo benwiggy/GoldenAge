@@ -59,17 +59,17 @@
       <point x="542" y="219" type="curve" smooth="yes"/>
       <point x="366" y="219" type="line" smooth="yes"/>
       <point x="308" y="219"/>
-      <point x="252" y="219"/>
+      <point x="251.998" y="219.5"/>
       <point x="197" y="219" type="curve" smooth="yes"/>
-      <point x="142" y="218"/>
+      <point x="141.993" y="218.5"/>
       <point x="93" y="218"/>
       <point x="48" y="217" type="curve"/>
       <point x="16" y="169" type="line"/>
       <point x="86" y="169" type="line" smooth="yes"/>
       <point x="118" y="169"/>
-      <point x="155" y="169"/>
+      <point x="154.991" y="169.494"/>
       <point x="197" y="170" type="curve" smooth="yes"/>
-      <point x="238" y="170"/>
+      <point x="237.997" y="170.494"/>
       <point x="283" y="170"/>
       <point x="332" y="170" type="curve" smooth="yes"/>
       <point x="483" y="170" type="line"/>
@@ -104,6 +104,24 @@
       <string>Right-pointing arrow for metric modulation</string>
       <key>_name</key>
       <string>metricModulationArrowRight</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 170 47</string>
+              <string>hstem 170 221</string>
+              <string>hstem 170 49</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>f7fc57a0b284fb0b5f48f139fd12be8578936e344bdfd6112a306c71cfd754064e8caef91170c10c248c8d42f57e672c7e52bb28b61678997f93c86715b83989</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

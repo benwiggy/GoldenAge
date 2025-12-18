@@ -18,9 +18,9 @@
       <point x="90" y="178"/>
       <point x="81" y="213" type="curve" smooth="yes"/>
       <point x="58" y="302"/>
-      <point x="49" y="394"/>
+      <point x="48.8754" y="393.993"/>
       <point x="44" y="485" type="curve" smooth="yes"/>
-      <point x="43" y="506"/>
+      <point x="42.8753" y="505.994"/>
       <point x="43" y="526"/>
       <point x="43" y="547" type="curve" smooth="yes"/>
       <point x="43" y="576"/>
@@ -48,9 +48,9 @@
       <point x="0" y="605"/>
       <point x="0" y="515" type="curve"/>
       <point x="2" y="478"/>
-      <point x="4" y="433"/>
+      <point x="4.43749" y="433.027"/>
       <point x="7" y="388" type="curve" smooth="yes"/>
-      <point x="11" y="310"/>
+      <point x="11.4377" y="310.024"/>
       <point x="23" y="233"/>
       <point x="40" y="157" type="curve" smooth="yes"/>
       <point x="51" y="109"/>
@@ -66,6 +66,24 @@
       <string>Triple-height left parenthesis</string>
       <key>_name</key>
       <string>csymParensLeftVeryTall</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>vstem 0 44</string>
+              <string>vstem 7 37</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>28d286f56c7e1a2ec8a4b146ef2913b0a317e0ff37cbb1ba7ab90d2cb8e5e02a800e7d067b24288dcce4bf8511d39f23ce6611f619b501173e8f649ec4e1b790</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -69,7 +69,7 @@ fingeringPLower
     </contour>
     <contour>
       <point x="142" y="43" type="curve" smooth="yes"/>
-      <point x="124" y="44"/>
+      <point x="123.994" y="43.8855"/>
       <point x="87" y="85"/>
       <point x="88" y="104" type="curve" smooth="yes"/>
       <point x="89" y="130"/>
@@ -79,7 +79,7 @@ fingeringPLower
       <point x="224" y="152"/>
       <point x="224" y="125" type="curve" smooth="yes"/>
       <point x="224" y="80"/>
-      <point x="185" y="41"/>
+      <point x="184.995" y="40.8855"/>
     </contour>
   </outline>
   <lib>
@@ -93,7 +93,26 @@ fingeringPLower
       <key>_name</key>
       <string>fingeringPLower</string>
       <key>note</key>
-      <real>0.0</real>
+      <string>fingeringPLower</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 43</string>
+              <string>hstem 168 45</string>
+              <string>hstem 233 -20</string>
+              <string>vstem 224 33</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>d8b4c2ef68ac98bdf79b979d7ffebd4dbfed2fc9367d9bfb9380c87db550f56ed067a88add1913f38c0c217b367a616e297f8c8673615771adf8e98cdbde7a14</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

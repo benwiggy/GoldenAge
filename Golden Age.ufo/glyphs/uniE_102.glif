@@ -2,6 +2,8 @@
 <glyph name="uniE102" format="2">
   <advance width="955"/>
   <unicode hex="E102"/>
+  <anchor x="0" y="-214" name="stemDownNW"/>
+  <anchor x="951" y="218" name="stemUpSE"/>
   <outline>
     <contour>
       <point x="457" y="-255" type="curve" smooth="yes"/>
@@ -71,6 +73,24 @@
       <string>White slash whole</string>
       <key>_name</key>
       <string>noteheadSlashWhiteWhole</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 204 40</string>
+              <string>hstem 218 35</string>
+              <string>hstem 256 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>0008f6f35dfb6026e344751c40cf68a809ba16fb0cb12b802aa6b33f9845746e0d8ff3d8cb6ce1c66c55b7f021bebef5eb4ac270429ed1078d3ed5adeda6bc92</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

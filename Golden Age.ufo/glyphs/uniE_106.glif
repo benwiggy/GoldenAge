@@ -107,6 +107,23 @@
       <string>Large X notehead</string>
       <key>_name</key>
       <string>noteheadSlashX</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -234 -21</string>
+              <string>hstem 255 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>8d7dde5323212ff77880be64c3b9b8873e76cdb10bdccbfd8903f910cf58f1a246486731a08293f0f52094d05843e794824e16022a6fcc61954e662ba6966aee</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

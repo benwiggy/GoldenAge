@@ -143,6 +143,23 @@
       <string>F clef quindicesima bassa</string>
       <key>_name</key>
       <string>fClef15mb</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 178 84</string>
+              <string>vstem 439 81</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>6d8f60dfe0d915fc13d0aa711ef17cc3645ed123eb38e678261ff01dbdf42f1f6401b09481eb1b263e204e156473ccb5a6f4d30bc0306de5501aa5719b097b36</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

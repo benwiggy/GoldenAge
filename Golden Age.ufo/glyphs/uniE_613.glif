@@ -42,6 +42,22 @@
       <string>Turned up bow</string>
       <key>_name</key>
       <string>stringsUpBowTurned</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>vstem 18 39</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>5e41b2a3e85957d7c0d8295f07f906bf63110cb993e01756ac112f93e796d1ff468280be7918bb1e15f43190b9fa059eb98b8e5e008bb60e91e2a13b5b6b0766</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

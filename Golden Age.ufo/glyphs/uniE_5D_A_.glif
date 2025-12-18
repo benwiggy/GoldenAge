@@ -32,6 +32,23 @@
       <string>Smooth fall, short</string>
       <key>_name</key>
       <string>brassFallSmoothShort</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 21 -21</string>
+              <string>hstem 406 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>b457fa544e0a3edac6960defa525062b533d47760497ca587e8b802c37ee49e438a3840d51923f1d41db55110cad800713de1fb02425ec4d4a9018b490bfefcc</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

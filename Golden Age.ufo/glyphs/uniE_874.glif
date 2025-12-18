@@ -15,9 +15,9 @@
       <point x="0" y="214"/>
       <point x="0" y="186" type="curve" smooth="yes"/>
       <point x="0" y="177"/>
-      <point x="1" y="170"/>
+      <point x="0.92218" y="169.861"/>
       <point x="8" y="166" type="curve" smooth="yes"/>
-      <point x="12" y="164"/>
+      <point x="11.9261" y="163.859"/>
       <point x="20" y="163"/>
       <point x="28" y="163" type="curve"/>
       <point x="44" y="162"/>
@@ -39,6 +39,24 @@
       <string>Minor</string>
       <key>_name</key>
       <string>csymMinor</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 162 69</string>
+              <string>hstem 166 65</string>
+              <string>hstem 251 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>537dd5fcc5b16a6094706684cdcc769e8bff193b2afa896ef335fa28e943bebb826a5c2ec3d6ef8cf00e397c62c08bf673598e2d30598358ea43a47b77d9e21a</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

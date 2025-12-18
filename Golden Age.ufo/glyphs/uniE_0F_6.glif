@@ -52,6 +52,23 @@
       <string>Closing parenthesis</string>
       <key>_name</key>
       <string>noteheadParenthesisRight</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -273 -21</string>
+              <string>vstem 53 39</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>84e018d6ab45147c5c3ffdc9329231bbd042954c647fcdf1622330068b49229df8d9036218640298cce128f3ea25f070b82400088a7cbbab42216bf29c9d2e01</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

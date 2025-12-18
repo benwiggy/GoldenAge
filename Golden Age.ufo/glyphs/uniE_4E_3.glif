@@ -25,6 +25,22 @@
       <string>Whole (semibreve) rest</string>
       <key>_name</key>
       <string>restWhole</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -134 136</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w345m363,2l-13,2l-22,-18l2,-18l6,-134l343,-134l340,-18l353,-18</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

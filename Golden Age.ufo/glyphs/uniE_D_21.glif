@@ -60,6 +60,22 @@ fingeringSubstitutionBelow
       <string>fingeringSubstitutionBelow</string>
       <key>note</key>
       <string>fingeringSubstitutionBelow</string>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -5 -20</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>cebcc8768f1f9bc69798b9ae6b6b5f903e0d1f895c4e910213f43bb523fb544f7b428f5c1d0d90de32607b61f46dfd12efddefa54f008f1885b0ecea5912544b</string>
+      </dict>
     </dict>
   </lib>
 </glyph>
