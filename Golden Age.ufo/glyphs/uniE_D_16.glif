@@ -78,25 +78,7 @@ fingeringTUpper
       <key>_name</key>
       <string>fingeringTUpper</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 248</string>
-              <string>hstem 208 40</string>
-              <string>vstem 132 48</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>dddfa50f533f7ca39afa3cbcbe074308efc9c58d4945a96157a2af0f5a297a3bc81404651c1c0d880f2a7fcb2caa279ca657bff8bc8df7b6eae67705e16abd84</string>
-      </dict>
+      <string>fingeringTUpper</string>
     </dict>
   </lib>
 </glyph>

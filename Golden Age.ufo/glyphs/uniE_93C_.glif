@@ -69,23 +69,6 @@
       <string>Minima notehead, white</string>
       <key>_name</key>
       <string>mensuralNoteheadMinimaWhite</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -132 -21</string>
-              <string>hstem 151 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>7b2e0a4b0c7afe98b06ff828230c81cedc3393c95b584760bd944e0fbe24afd697eff51a4933bf1473cd747fd4ba26f44743c152807d0e5e4799170b8832523d</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

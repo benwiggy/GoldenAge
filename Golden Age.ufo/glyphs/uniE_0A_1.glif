@@ -149,29 +149,6 @@ metNoteDoubleWholeSquare
       <string>noteheadDoubleWholeSquare</string>
       <key>note</key>
       <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -137 97</string>
-              <string>hstem -137 95</string>
-              <string>hstem 45 90</string>
-              <string>hstem 50 94</string>
-              <string>hstem 211 -20</string>
-              <string>vstem 3 35</string>
-              <string>vstem 438 32</string>
-              <string>vstem 441 33</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>385b115779058d4bf0dbd3fb62c9ffb43e6b33bf3c5809c9ef20d5d7d5aecfdc3faef6f2b1196a5f6729a721bce3e94418961d4c5108282c964a2e9e136b399a</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

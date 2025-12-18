@@ -166,25 +166,6 @@
       <string>ffff</string>
       <key>_name</key>
       <string>dynamicFFFF</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 143 36</string>
-              <string>hstem 146 36</string>
-              <string>hstem 153 36</string>
-              <string>hstem 156 36</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>7d8664a82fdf8faf221e35f0399554c5c364f0e1566197018a6b413dd1261471edbd659ff5c482e29877d4c0a5d1445906fffb951701041c41b134887ad15711</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

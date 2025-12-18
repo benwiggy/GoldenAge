@@ -45,22 +45,6 @@
       <string>Half note (minim) stem up</string>
       <key>_name</key>
       <string>metNoteHalfUp</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 215 29</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>1d3f79bc4111cbb96bf3ad31a4715e5f6a8b85f8b1580b1ec60e98615c3463db0ed1dc81379ba67795fb146f9239cba25d4215d7b15d48c76619c6f522567fd7</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

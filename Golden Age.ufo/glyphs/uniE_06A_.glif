@@ -45,26 +45,6 @@
       <string>Unpitched percussion clef 2</string>
       <key>_name</key>
       <string>unpitchedPercussionClef2</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -402 92</string>
-              <string>hstem 316 92</string>
-              <string>vstem 5 31</string>
-              <string>vstem 152 31</string>
-              <string>vstem 155 35</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>5a0d097e9afe33e5b560bf2e2e0b7bb235866ab34a2b57820527ec0f4538e7f3fdc9ff3cab096307817fbb68ea339f5bde41982adc0fe9d97942dff38856da50</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

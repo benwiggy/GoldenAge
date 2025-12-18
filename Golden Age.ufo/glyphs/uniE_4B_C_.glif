@@ -43,24 +43,6 @@
       <string>Marcato-tenuto above</string>
       <key>_name</key>
       <string>articMarcatoTenutoAbove</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 38</string>
-              <string>hstem 2 36</string>
-              <string>hstem 512 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>1e3460719b46d5d6816928075b436724fd064ab6ca89c1cbb6c869aba873010aceb69ecc7da521126a7c178df34498bc81ed4a6a79e8896b7df32e95d4cfc992</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

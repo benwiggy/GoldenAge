@@ -109,22 +109,6 @@ fingeringALower
       <string>fingeringALower</string>
       <key>note</key>
       <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 3 228</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>00b883b529158b3d714afe4dc8553b27b0d99ac47511d069857f6e4a297f92a7256a9774552730f040150dc2f911c948ca1ed6f5a823330a83b46ee139743586</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

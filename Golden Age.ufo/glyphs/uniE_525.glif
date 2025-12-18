@@ -51,23 +51,6 @@
       <string>Z</string>
       <key>_name</key>
       <string>dynamicZ</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 7 27</string>
-              <string>hstem 7 36</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>f93dcc4d03c2186b853a353a336f890cd35c57ca01972ce6f2ca28b198042f8b2f2181b969072dac9ab68d87a02b05778d4122654c63781e50eb283fe65325f7</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

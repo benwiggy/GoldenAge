@@ -43,23 +43,6 @@ dynamicCombinedSeparatorHyphen
       <string>dynamicCombinedSeparatorHyphen</string>
       <key>note</key>
       <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 104 62</string>
-              <string>hstem 110 59</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>d7806180941651414ceb12d8a2c8664665bf04ed9a902396bf1b913d303199fc35c25b577af675ceb66746791f0eec472979ef2d04169c72607e15e4ba460f74</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

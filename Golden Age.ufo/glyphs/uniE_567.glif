@@ -37,24 +37,6 @@
       <string>Turn</string>
       <key>_name</key>
       <string>ornamentTurn</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 2 57</string>
-              <string>hstem 187 59</string>
-              <string>hstem 211 45</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>de34a3b43efed538dceefff5885db107338bf550d61b0d388a26292e953f3c40c11168ebb8023e013ef612f7adbde010f0e5250ba58b1c7043713dd361d401a6</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

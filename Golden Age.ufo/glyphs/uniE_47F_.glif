@@ -66,24 +66,6 @@
       <string>Quarter-tone flat</string>
       <key>_name</key>
       <string>accidentalQuarterToneFlat4</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 19 27</string>
-              <string>vstem 139 32</string>
-              <string>vstem 253 41</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>64ab1f46ca5362ef3b6d9998a5ff3ad1480e5046f9eb88feae8e6b4bab843c9ffedb0e970a16be0b1dd8fb05f90fdfb45090a0e50dd210624988473b42c1b36b</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

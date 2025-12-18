@@ -173,27 +173,6 @@
       <string>Sforzato-piano</string>
       <key>_name</key>
       <string>dynamicSforzatoPiano</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 8 26</string>
-              <string>hstem 203 36</string>
-              <string>hstem 206 36</string>
-              <string>vstem 1 44</string>
-              <string>vstem 74 168</string>
-              <string>vstem 190 52</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>0f3a5f152547abcb4e5023781147c1b5b533929ba67092ea5eeded4b2ec0313f80054920d69c5def3857eed9cc5c29c1dab630fb73ac5bd4465e6d215a190ae9</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

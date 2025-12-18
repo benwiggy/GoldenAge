@@ -114,22 +114,6 @@
   <dict>
   <key>note</key>
   <real>0</real>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>a46adb07ac2284fc410ffe384fce9ec13df14a7361f19a5fec116fb892c5ce7ab5cf2358c01b758ccecc904b14a97f961d44b15844c10662f16a797af503cc0b</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
   </dict>
   </lib>
 </glyph>

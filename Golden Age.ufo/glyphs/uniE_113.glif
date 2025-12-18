@@ -36,23 +36,6 @@
       <string>Round black notehead</string>
       <key>_name</key>
       <string>noteheadRoundBlack</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -172 -21</string>
-              <string>hstem 193 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>4741f255471f2936d51a9012025141c23f8df605efba55fbbbdcdd1b7479f988dd88217cd5bd23ed8e91d75a0e8c722ad83fa61a815e39be713ba8450d59a434</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

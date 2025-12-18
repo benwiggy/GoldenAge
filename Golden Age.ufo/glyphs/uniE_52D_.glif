@@ -110,23 +110,6 @@
       <string>mf</string>
       <key>_name</key>
       <string>dynamicMF</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 203 36</string>
-              <string>hstem 206 36</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>3765a65eae4330739d14c2549fd441e56ac1eb0ba097f2251e1f9bbd74a5f91b45f6b9961af145f62b7624017b058e095a3d8ea985755214277955b9eb7e0f43</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

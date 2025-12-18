@@ -63,24 +63,7 @@ fingeringRightBracket
       <key>_name</key>
       <string>fingeringRightBracket</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 26 48</string>
-              <string>vstem 31 47</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>5ff203cc002aecede9a0cdfb0b85a954478c9efdc3517a214201fd21bdfb612e7850b1ffec619b74303452478fe7f76f6d84da0bdac8bbf55bad02e7c7a133e6</string>
-      </dict>
+      <string>fingeringRightBracket</string>
     </dict>
   </lib>
 </glyph>

@@ -61,24 +61,6 @@
       <string>Vibrato smallest, fastest</string>
       <key>_name</key>
       <string>wiggleVibratoSmallestFastest</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 92</string>
-              <string>hstem 21 -21</string>
-              <string>vstem -16 155</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>576e0d8ac7f6f58018168f2be0441e57b6aa8a6aead3f6a3d58239496d6270787814bcb706c2ad7fd3e291dea2988e75624ad8d9c5a5be9fcfe2db766a8c4fff</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

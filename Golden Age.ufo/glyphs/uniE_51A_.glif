@@ -36,22 +36,6 @@
       <string>Left parenthesis for octave signs</string>
       <key>_name</key>
       <string>octaveParensLeft</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem -1 35</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>6b0cac32c8a4eeb3fcd34ce2ac1d164cbeb8d741e2731ec48049b803e9112f84b73bbe1a8403f20730dc57b4c70bc0ccfbcae92de5e6d5174b178750f5db9816</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

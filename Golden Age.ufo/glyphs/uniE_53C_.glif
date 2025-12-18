@@ -88,23 +88,6 @@
       <string>Rinforzando 1</string>
       <key>_name</key>
       <string>dynamicRinforzando1</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 203 36</string>
-              <string>hstem 206 36</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>483fb445ccac1497aadc26d1c39e758ddb6e8b83ccdcd2d0f82e3ac81ebada9572b39e1be16071aeb59d30276872ff0370f54dcd6af0e490b6f5a4ae322fa9ad</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

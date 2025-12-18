@@ -58,24 +58,6 @@
       <string>Diamond whole notehead (old)</string>
       <key>_name</key>
       <string>noteheadDiamondWholeOld</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -249 507</string>
-              <string>vstem 0 59</string>
-              <string>vstem 0 295</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>020c750aeabf2be4c08f5dd29e4a1f1539983c33203bf7c9c0ebb596a42fbb9686bf9d0bec910b9a658b1aa55ebf902650e743926fdbc8b1e42142d9032dd93d</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

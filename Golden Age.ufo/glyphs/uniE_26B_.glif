@@ -36,23 +36,7 @@ accidentalParensRight
       <key>_name</key>
       <string>accidentalParensRight</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 86 24</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>w126m110,31c110,105 82,204 32,237l10,217c60,184 86,82 86,9c86,-101 40,-190 -13,-253l19,-231c72,-168 110,-79 110,31</string>
-      </dict>
+      <string>accidentalParensRight</string>
     </dict>
   </lib>
 </glyph>

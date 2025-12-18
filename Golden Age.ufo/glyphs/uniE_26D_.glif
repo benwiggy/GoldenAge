@@ -95,27 +95,7 @@ accidentalBracketRight
       <key>_name</key>
       <string>accidentalBracketRight</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -224 -21</string>
-              <string>vstem -3 94</string>
-              <string>vstem 57 23</string>
-              <string>vstem 65 23</string>
-              <string>vstem 65 26</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>9c41e557cb1e53bba190468ca105ce7bb98c6bddec9d360d5036c5c9759643bbff3d0bb6564779acc4111830c9bc59ca8e952e0a5ec9adb0449fbd33aecc6fb7</string>
-      </dict>
+      <string>accidentalBracketRight</string>
     </dict>
   </lib>
 </glyph>

@@ -70,22 +70,6 @@
       <string>Trill</string>
       <key>_name</key>
       <string>ornamentTrill</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 315 45</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>a73ecd39c483a877f0b4b7966b888499bb9c9c533cca886343c5af1710b0dc8802ce85dae0a0ca5019fd34269dcafc256ba20cacf2081dd6219fad1a76749fa8</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

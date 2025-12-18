@@ -57,26 +57,7 @@ restDoubleWhole
       <key>_name</key>
       <string>restDoubleWhole</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 21 -21</string>
-              <string>hstem 249 -20</string>
-              <string>vstem 1 119</string>
-              <string>vstem 3 119</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>5ee950c85e43e5931b56c8d2a7ae82ee8ac9ba998c1f6b9dd6d9e7f5f9a6e5026db5bac00dde4e898b5175c99c7bfd0c2e011b2f431d2962dc7049de728b2306</string>
-      </dict>
+      <string>restDoubleWhole</string>
     </dict>
   </lib>
 </glyph>

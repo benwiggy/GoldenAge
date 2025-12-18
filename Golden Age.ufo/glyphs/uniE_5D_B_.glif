@@ -38,23 +38,6 @@
       <string>Smooth fall, medium</string>
       <key>_name</key>
       <string>brassFallSmoothMedium</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 21 -21</string>
-              <string>hstem 897 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>101d6427afc7608e9ed07b644adf5c71a807a82f7012f5f180958ca7ab956057064f7d352236b44c52a6cb4713001795afaa0f1a52251c074b79eb87cf35d735</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

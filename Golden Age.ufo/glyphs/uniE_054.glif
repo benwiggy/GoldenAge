@@ -182,27 +182,6 @@ gClef
       <string>gClef15ma</string>
       <key>note</key>
       <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -665 -21</string>
-              <string>hstem -347 92</string>
-              <string>vstem 2 81</string>
-              <string>vstem 83 116</string>
-              <string>vstem 153 84</string>
-              <string>vstem 237 106</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>2aea9c4c0a3c036e27b846be1b39657c22f76107a64b26d558e73d9c842e80d316e733661cde368acd906e24db4664169ece6aa48ac544bfb79ea493aac61c70</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

@@ -40,23 +40,6 @@
       <string>Left-facing hook</string>
       <key>_name</key>
       <string>ornamentLeftFacingHook</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -5 20</string>
-              <string>hstem 382 -21</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>5488325ecd57ef84ac45077c0185f9c67d760ea339664e81ed60286d58c52ccc79713a31c279e07371dc14764e1424223fae3b78ac4aceecdfd3c890017516b3</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

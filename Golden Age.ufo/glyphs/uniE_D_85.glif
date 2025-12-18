@@ -125,28 +125,7 @@ fingering5Italic
       <key>_name</key>
       <string>fingering5Italic</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 30</string>
-              <string>hstem 30 125</string>
-              <string>hstem 155 32</string>
-              <string>hstem 187 22</string>
-              <string>hstem 260 -20</string>
-              <string>vstem 169 38</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>a86e965cd0326d9819fe5701e3b0f90717a24773dcc92da45ec1d83ba61b9dbc424d456694d4be638ea9a99277ca034b42f2d6024ea80f8051a0d4ee3484759f</string>
-      </dict>
+      <string>fingering5Italic</string>
     </dict>
   </lib>
 </glyph>

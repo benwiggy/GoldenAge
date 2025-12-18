@@ -88,27 +88,6 @@
       <string>Large square white notehead</string>
       <key>_name</key>
       <string>noteheadSquareBlackWhite</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -132 43</string>
-              <string>hstem -115 -21</string>
-              <string>hstem 78 44</string>
-              <string>hstem 81 45</string>
-              <string>vstem 0 44</string>
-              <string>vstem 221 42</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>b7d0a139ba3c3bdcee0a35ad9dbda6a1f14fa457b5bbef552e95aef5cabda62a70a370340acb0d7244cf2e78fd9d797231280d45ad95b495257d9b6cc43faae7</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

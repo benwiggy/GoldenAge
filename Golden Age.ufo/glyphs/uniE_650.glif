@@ -116,29 +116,6 @@
       <string>Pedal mark</string>
       <key>_name</key>
       <string>keyboardPedalPed</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 44</string>
-              <string>hstem 199 48</string>
-              <string>hstem 462 49</string>
-              <string>vstem 119 128</string>
-              <string>vstem 247 49</string>
-              <string>vstem 278 167</string>
-              <string>vstem 589 60</string>
-              <string>vstem 677 49</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>7a3dac9e30a42a3c12df7f88afa0c56abe216190963b20ce379bfba55b92092c05c7afe10cf8c17344f50dd2314648c90508683dc07eb996ac9a64990b264282</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

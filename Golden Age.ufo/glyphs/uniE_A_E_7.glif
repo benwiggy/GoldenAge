@@ -72,24 +72,6 @@
       <string>Vibrato large, slower</string>
       <key>_name</key>
       <string>wiggleVibratoLargeSlower</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -127 52</string>
-              <string>hstem 266 52</string>
-              <string>vstem -32 706</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>b9305a3161b5049642b9a37032d376241fc3f56d03942efe224e439b50c20188c24ef74f1fe4c3930363ba043842fe398a199ad8511bdcb2bc1b74a963f21305</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

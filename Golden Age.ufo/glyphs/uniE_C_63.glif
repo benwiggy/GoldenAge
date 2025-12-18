@@ -105,23 +105,6 @@
       <string>Left-pointing arrow for metric modulation</string>
       <key>_name</key>
       <string>metricModulationArrowLeft</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 169 48</string>
-              <string>hstem 169 227</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>a369e7a6a70bf350f1609813a3394d6a8b67cfc79a3638955086e1e4d5e7221ae875b7a6c6ce96e75994336568cdf5dabc024220b68848a6b7cba9ab1585a055</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

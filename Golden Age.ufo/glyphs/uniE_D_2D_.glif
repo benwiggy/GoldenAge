@@ -55,23 +55,6 @@ fingeringSeparatorMiddleDotWhite
       <string>fingeringSeparatorMiddleDotWhite</string>
       <key>note</key>
       <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 188 -20</string>
-              <string>vstem 25 136</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>b5358d9d215d6c42574b1fbf0abb81d5a92204d840dbefe37fbc2630c7573a750723dced86c848177c1fac70b3340d073fc867eb8f150bdca6c320572c13cade</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

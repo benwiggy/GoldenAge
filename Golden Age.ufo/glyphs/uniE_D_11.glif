@@ -65,24 +65,7 @@ fingering1
       <key>_name</key>
       <string>fingering1</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 21 -21</string>
-              <string>hstem 250 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>0ed21cbf324ac846437e81696f7a08081d7973b6d803de1974e42dd6744df84ec65ceeb3222ba627c068577bfb630dba52e95fdd74438c3ec69af5d1a13d94ca</string>
-      </dict>
+      <string>fingering1</string>
     </dict>
   </lib>
 </glyph>

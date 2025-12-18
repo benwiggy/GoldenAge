@@ -85,27 +85,6 @@ restMaxima
       <string>restMaxima</string>
       <key>note</key>
       <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -234 -21</string>
-              <string>hstem 255 -20</string>
-              <string>vstem 0 120</string>
-              <string>vstem 2 118</string>
-              <string>vstem 236 124</string>
-              <string>vstem 247 118</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>50c2a9673ee4dd9360d224eb4c09b81e70f33872a3dd979b98b5e873c4ce1f97009710367bbe8cc7a120f8f5b1764e4b9b5f6f0ccd92a88d343b4d57ab1652f2</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

@@ -50,22 +50,6 @@
       <string>Tuplet 9</string>
       <key>_name</key>
       <string>tuplet9</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 176 54</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>3b95e2d4b399439a58dca429549292a428aa8ccbb3bdfaba8c0c0edda708add9ceb251307318a71f896f5303553fbc6d836458327893eee38ca8e78f1571777e</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

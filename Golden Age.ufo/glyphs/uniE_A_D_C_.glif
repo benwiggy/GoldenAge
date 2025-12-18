@@ -56,23 +56,6 @@
       <string>Vibrato medium, faster still</string>
       <key>_name</key>
       <string>wiggleVibratoMediumFasterStill</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -41 241</string>
-              <string>vstem -27 260</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>d5f296f6dc32f3df302784e36c0a749e6892e32fbaf157b08da210eaa05c3e3c08b3c87e296e329e35c3e648277dbfac5e8a62903bc6340cd50b4a4dad5bacf0</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

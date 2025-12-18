@@ -161,29 +161,6 @@
       <string>G clef ottava alta</string>
       <key>_name</key>
       <string>gClef8va</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -665 -21</string>
-              <string>hstem -347 92</string>
-              <string>hstem 1370 -20</string>
-              <string>vstem 3 81</string>
-              <string>vstem 84 116</string>
-              <string>vstem 154 84</string>
-              <string>vstem 238 106</string>
-              <string>vstem 238 165</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>421759d6504df76529e4a62558ef5167f2c6d574df1fc1d8c770deb601d0b893015eb171048266e4cc59d68e50d0926343f694d39255e3763144dfddb30eb351</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

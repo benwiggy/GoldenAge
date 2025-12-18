@@ -49,23 +49,6 @@
       <string>Breath mark (tick-like)</string>
       <key>_name</key>
       <string>breathMarkTick</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -53 -21</string>
-              <string>hstem 541 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>6fc92b6fee0ccb999c00938cf0be9878af8163949e4c677b6d3d8d7b6b498485ebaf23bce2759f954ff6b3357539c705738b8cd629f5236ba95e7558d7d3097b</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

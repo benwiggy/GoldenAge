@@ -98,23 +98,6 @@
       <string>pf</string>
       <key>_name</key>
       <string>dynamicPF</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 223 56</string>
-              <string>hstem 226 56</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>09e9aef97d4811d947d3e9a775072f7e39f318285b4789b4db6bbcc5f6baf4b5edf25f736e155fae22d383621d0fdcf74bb1c424af7e48b3d0fa763fd039198a</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

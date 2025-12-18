@@ -105,23 +105,6 @@
       <string>Black arrow down-left (SW)</string>
       <key>_name</key>
       <string>arrowBlackDownLeft</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 19 48</string>
-              <string>vstem 25 42</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>a5614a9e3e1a4f09ce731ccbb9c0a5a00a3d2335138935a4fb8d15fbb5818f36f055668883770b8ee1a453381455f3e8ab80b3b0e6c96aa26f3afff259796df2</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

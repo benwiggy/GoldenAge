@@ -51,24 +51,6 @@
       <string>Black arrow right (E)</string>
       <key>_name</key>
       <string>arrowBlackRight</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 169 49</string>
-              <string>hstem 171 47</string>
-              <string>hstem 171 220</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>6260d25ad5308f5b30f7781904e08dcf25c44cbdaf435165906997e42b397dd47e79b164b03d4a53b589391bf9e07cc4a272519e8239d5d1b97b66e803823b71</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

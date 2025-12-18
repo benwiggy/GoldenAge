@@ -30,24 +30,6 @@
       <string>Staccatissimo below</string>
       <key>_name</key>
       <string>articStaccatissimoBelow</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -228 -21</string>
-              <string>hstem 0 -20</string>
-              <string>vstem 0 100</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>w100m44,0c33,0 0,-61 0,-157c0,-223 18,-249 46,-249c78,-249 100,-240 100,-176c100,-155 65,-13 44,0</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

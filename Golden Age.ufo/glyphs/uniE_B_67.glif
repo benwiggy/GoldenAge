@@ -97,22 +97,6 @@
       <string>Black arrow up-left (NW)</string>
       <key>_name</key>
       <string>arrowBlackUpLeft</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 693 41</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>ff8fb76dd92f0ddc9644c418dd8d87669f107cff00bd133ad094a3bb4cc3bc47031597806d11ba68108662f10b84ea17946d86cf37f10d407e05c0bf14cd59ef</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

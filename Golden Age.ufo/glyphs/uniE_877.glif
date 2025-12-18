@@ -89,24 +89,6 @@
       <string>Double-height left bracket</string>
       <key>_name</key>
       <string>csymBracketLeftTall</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 9 58</string>
-              <string>hstem 731 53</string>
-              <string>hstem 807 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>69c50fdf6a659cdf5ce0bf0a9218cdb5c7317f91a049e12ec0726304eb8b8afd7f541a40a4a36f95f3cff56441e264fc1882c6ee3265e290eabbd06171dbb40a</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

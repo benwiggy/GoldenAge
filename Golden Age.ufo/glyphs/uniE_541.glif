@@ -46,25 +46,7 @@ dynamicNienteForHairpin
       <key>_name</key>
       <string>dynamicNienteForHairpin</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -64 28</string>
-              <string>hstem 33 31</string>
-              <string>vstem 0 110</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>66abf4cd29edebcc3d1482a65fb433a403a4db2b5de713517625a55e2e87270b0632b45e72b70b43bb83dad3ebc5915199bfd4231e50e2f8461dcf4b0ef34b67</string>
-      </dict>
+      <string>dynamicNienteForHairpin</string>
     </dict>
   </lib>
 </glyph>

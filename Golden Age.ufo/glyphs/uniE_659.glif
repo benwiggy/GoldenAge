@@ -390,30 +390,6 @@ keyboardPedalSost
       <string>keyboardPedalSost</string>
       <key>note</key>
       <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 60</string>
-              <string>hstem 539 -20</string>
-              <string>vstem 0 50</string>
-              <string>vstem 251 55</string>
-              <string>vstem 330 248</string>
-              <string>vstem 532 46</string>
-              <string>vstem 858 55</string>
-              <string>vstem 863 50</string>
-              <string>vstem 863 53</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>a08b7df0a09dcabc63629f777566e4a53604049ccb2be3644efc99f327332d69815c240ed076daeba8b0b98781755ae2de843ca65a4cc8bc5256db0ef63ceea5</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

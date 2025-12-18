@@ -266,26 +266,6 @@
       <string>Loco</string>
       <key>_name</key>
       <string>octaveLoco</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 38</string>
-              <string>hstem 240 38</string>
-              <string>vstem 143 29</string>
-              <string>vstem 297 29</string>
-              <string>vstem 537 29</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>afc492172b0911b869ae677312a399df56276f53eef734582e60833016f619e2e8a88c34713d6210898adc7df1521aa44b99c83348402389a651a3a73fce2bc6</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

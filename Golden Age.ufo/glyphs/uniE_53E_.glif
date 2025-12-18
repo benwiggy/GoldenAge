@@ -84,24 +84,7 @@ dynamicCrescendoHairpin
       <key>_name</key>
       <string>dynamicCrescendoHairpin</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 121 -21</string>
-              <string>hstem 350 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>40ef5e284f8a0619d81e8955991a00128cac54a5edb6fbaf14a2e85371abfc6cd19407210eca7f4ffcf7307899a588a4168d63372417625b78d010e9c0f59fb8</string>
-      </dict>
+      <string>dynamicCrescendoHairpin</string>
     </dict>
   </lib>
 </glyph>

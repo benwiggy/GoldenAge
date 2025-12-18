@@ -81,23 +81,6 @@ fClef
       <string>fClef</string>
       <key>note</key>
       <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 178 84</string>
-              <string>vstem 439 81</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>a242935c288c7c07c0990c8edd590415f88437cf04ec3cf6014d72d68f5b15752361131bcffa94eedcf21b05dde9ea009567f1a9207a292967f55a0bb67187c3</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

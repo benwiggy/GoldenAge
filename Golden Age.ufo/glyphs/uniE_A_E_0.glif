@@ -67,24 +67,6 @@
       <string>Vibrato medium, slower</string>
       <key>_name</key>
       <string>wiggleVIbratoMediumSlower</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -41 52</string>
-              <string>hstem 148 52</string>
-              <string>vstem -31 477</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>adb975bbee7f6698cfa2acbc5762387f0d0aa6286a5bc5c8e289c94bac55ed59c553b1a6cd9606de8fa744fd23d548b2e1bad48cfc13b672e4cc99cbcced27bb</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

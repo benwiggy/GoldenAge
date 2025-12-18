@@ -85,23 +85,7 @@ wiggleArpeggiatoDownSwash
       <key>_name</key>
       <string>wiggleArpeggiatoDownSwash</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 187 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>be71668a1dc8134b33ef1d5619ffa587d9b49949621e248996445db97aed208ce181759962dae44c2b12f2cb58a936610f321d0e57fb6c49e3a2036945cc1611</string>
-      </dict>
+      <string>wiggleArpeggiatoDownSwash</string>
     </dict>
   </lib>
 </glyph>

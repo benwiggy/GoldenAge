@@ -152,26 +152,7 @@ fingeringMLower
       <key>_name</key>
       <string>fingeringMLower</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 3 -21</string>
-              <string>hstem 278 -20</string>
-              <string>vstem 161 176</string>
-              <string>vstem 277 37</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>48905b19a596896697e0a384fc3f114cd8fd1617a9e15fc58dd11abcbb290126153aae077ce52da3441ee30c6a2239de2e932d8759b5f83318c28973a4c20592</string>
-      </dict>
+      <string>fingeringMLower</string>
     </dict>
   </lib>
 </glyph>

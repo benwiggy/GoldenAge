@@ -269,32 +269,6 @@
       <string>White slash double whole</string>
       <key>_name</key>
       <string>noteheadSlashWhiteDoubleWhole</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 0 32</string>
-              <string>vstem 6 33</string>
-              <string>vstem 81 39</string>
-              <string>vstem 83 37</string>
-              <string>vstem 87 38</string>
-              <string>vstem 1053 117</string>
-              <string>vstem 1056 38</string>
-              <string>vstem 1066 38</string>
-              <string>vstem 1140 30</string>
-              <string>vstem 1146 44</string>
-              <string>vstem 1154 36</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>6633aa276abaee199ac6d0dbccca7a479f734d79f54c5a2f4a926e0b973d0741520d55192953c2ef59805a7c0fab24dc0c727f977c727e00bf29e9e2260a9fae</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

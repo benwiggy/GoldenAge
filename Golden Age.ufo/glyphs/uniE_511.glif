@@ -126,22 +126,6 @@
       <string>Ottava alta</string>
       <key>_name</key>
       <string>ottavaAlta</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 260 32</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>ec10bc82c86fa2db88a0ba5b9247a8a247c4682eba160bd6134a136fbb5992a00770c4685bcdc81375ba7572a2a527081d8053b7820b6623690eaf613a0c73c5</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

@@ -32,23 +32,6 @@
       <string>Lip fall, medium</string>
       <key>_name</key>
       <string>brassFallLipMedium</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -329 -21</string>
-              <string>hstem 36 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>499424aaacf02d0bbb5caf37b403869f837205fbfe41afe04599db515afb76ad791d0fd713f281955d4da6af687196952cf44a4f7aa396ba34b1bcf01c2408c4</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

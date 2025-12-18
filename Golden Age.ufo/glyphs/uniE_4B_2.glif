@@ -36,22 +36,6 @@
       <string>Louré (tenuto-staccato) above</string>
       <key>_name</key>
       <string>articTenutoStaccatoAbove</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 146 31</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>w393m401,177l41,177l11,146l368,146m229,9c250,23 247,50 229,64c211,78 184,81 166,66c148,52 148,30 163,16c178,-1 208,-6 229,9</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

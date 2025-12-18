@@ -88,24 +88,6 @@
       <string>X notehead black</string>
       <key>_name</key>
       <string>noteheadXBlack</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -152 299</string>
-              <string>hstem -39 70</string>
-              <string>vstem 0 278</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>308718401935a501495d3a1c536834cc13a506fa2f2287109456d4439f23210860b84fab9a22764ace537947aabc52569bc3020682cf7c3eeb4600cdb879e900</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

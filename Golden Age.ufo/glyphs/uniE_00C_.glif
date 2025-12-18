@@ -111,22 +111,6 @@
       <string>Staff divide arrow up</string>
       <key>_name</key>
       <string>staffDivideArrowUp</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 480 37</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>6817d12f73e05340ab89e9f9bc8e179514c7bac9aabd718f5bdfa9cd6145324e7d4088fe72af9c765d29bfcb943cb9054fa97d5cfd3baf3d090c2fd7d251abed</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

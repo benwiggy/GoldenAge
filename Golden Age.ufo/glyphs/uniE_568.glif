@@ -37,24 +37,6 @@
       <string>Inverted turn</string>
       <key>_name</key>
       <string>ornamentTurnInverted</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 2 57</string>
-              <string>hstem 187 59</string>
-              <string>hstem 211 45</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>ff1bafc546bbe830edb4a567b56d2b7039b1bb24cceb83b95ce20d898039cccd6239e1d69ab9841a02b451b7a5990ea3a6e1dee781cb50b37f4710e2ad6abbdc</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

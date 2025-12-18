@@ -89,24 +89,7 @@ fingeringCLower
       <key>_name</key>
       <string>fingeringCLower</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 31</string>
-              <string>hstem 271 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>61ee93ce9f8c1b8f0a0b2951bf96a573e783e3d0d30f4338ad991bdf37014231b75140064eb6c22dd07fedb6e7569ad94073c604aecb7ab1321d4b3578c1877a</string>
-      </dict>
+      <string>fingeringCLower</string>
     </dict>
   </lib>
 </glyph>

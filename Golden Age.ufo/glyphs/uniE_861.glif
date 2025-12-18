@@ -163,23 +163,6 @@
       <string>Nebenstimme</string>
       <key>_name</key>
       <string>analyticsNebenstimme</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 717 84</string>
-              <string>hstem 717 86</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>27071df88c05d9aee77693cc1a3d8fe297fd359260f0b02476a33cf835ac18c492ee929babb89508c371be3ae3256416abebbe6a58fe560269c9b3dfcc39d84c</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

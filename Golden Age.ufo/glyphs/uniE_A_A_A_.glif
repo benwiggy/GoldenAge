@@ -5,7 +5,6 @@
   <note>
 wiggleTrillFast
 </note>
-  <anchor x="295" y="97" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="192" y="0" type="curve"/>

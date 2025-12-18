@@ -66,24 +66,6 @@
       <string>Triple-height left parenthesis</string>
       <key>_name</key>
       <string>csymParensLeftVeryTall</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 21 -21</string>
-              <string>vstem 0 44</string>
-              <string>vstem 7 37</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>cd1a6dc3daad206673748a0cd1375cfabe03df0cd565642794c00cc1276d46cbaae35912dc8e3ed575416eb876a79b689e4799e8342395dadca95c65372cb4f7</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

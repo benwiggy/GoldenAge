@@ -35,23 +35,6 @@
       <string>Lip fall, short</string>
       <key>_name</key>
       <string>brassFallLipShort</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -324 -21</string>
-              <string>hstem 42 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>83bc4f7796081ac64761b5df6649077310d46091cc462b2d2e7d2803ede94e1d51053079e4be2ea704bd3777ecc472922f22250d66dcf746de2eb0d14e6ca62e</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

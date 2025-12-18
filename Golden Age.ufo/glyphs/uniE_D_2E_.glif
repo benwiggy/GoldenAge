@@ -41,23 +41,7 @@ fingeringSeparatorSlash
       <key>_name</key>
       <string>fingeringSeparatorSlash</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 308 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>4f2211c79fd9064e4b90a2f1956bf8a20fb438305bb777e8abb9f50c2ccb40d6f9d7423401c059912a643ced954187d11620826bcdcf29ae75702030c185228b</string>
-      </dict>
+      <string>fingeringSeparatorSlash</string>
     </dict>
   </lib>
 </glyph>

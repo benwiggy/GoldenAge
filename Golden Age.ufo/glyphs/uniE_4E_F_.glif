@@ -87,26 +87,6 @@
       <string>H-bar, left half</string>
       <key>_name</key>
       <string>restHBarLeft</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -277 -21</string>
-              <string>hstem 267 -20</string>
-              <string>vstem 0 64</string>
-              <string>vstem 2 54</string>
-              <string>vstem 2 62</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>198c81249baf6f0c66e3bfcc301ff5a3479af7410f99c3add807fa2c033d70e0189b39e08d80719a63708279958f3d27e738f5d9049e134e892f622d311dceb5</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

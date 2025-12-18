@@ -64,28 +64,7 @@ fingeringMultipleNotes
       <key>_name</key>
       <string>fingeringMultipleNotes</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 1 35</string>
-              <string>hstem 4 34</string>
-              <string>hstem 243 32</string>
-              <string>hstem 243 39</string>
-              <string>vstem 0 35</string>
-              <string>vstem 5 34</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>e91e601854d00acf6d44288bf02102eaafe8d3e849adf906ff5b102f4fef2985e6b9ff202c01a958dbff51d773f4ce6e399cda77eb8404e96bc476195f067768</string>
-      </dict>
+      <string>fingeringMultipleNotes</string>
     </dict>
   </lib>
 </glyph>

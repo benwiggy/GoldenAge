@@ -84,25 +84,6 @@
       <string>Lift, long</string>
       <key>_name</key>
       <string>brassLiftLong</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 21 -21</string>
-              <string>hstem 138 100</string>
-              <string>hstem 225 109</string>
-              <string>hstem 944 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>5ad953451d228e1d5cc58c56fca85458505a020d67224b849ba87c69b4c4c6de13e04394498f75cf5a2814deee6f9ec625558b6c98faf1af60ffd238c61d36c1</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

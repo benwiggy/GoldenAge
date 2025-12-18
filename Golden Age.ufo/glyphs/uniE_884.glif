@@ -52,22 +52,6 @@
       <string>Tuplet 4</string>
       <key>_name</key>
       <string>tuplet4</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -38 58</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>57ad09df8ad92f13e83af26d22dbf0adcfbac4342bc9a74d087378b24a272c17e031cf37345d7077b7d3dcc3d0e067909ef4b99168346c7eba6da36241c96d66</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

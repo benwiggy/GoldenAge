@@ -44,23 +44,6 @@
       <string>Flat</string>
       <key>_name</key>
       <string>accidentalFlat</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 0 39</string>
-              <string>vstem 153 56</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>4bd591d7d8c3fd0fc2deb762c1566f37932586abd3a9749786c0d20c019567edd9544e4d486a6255988dda48507f57cc51f22a3227bf57a1df0e3be09838e002</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

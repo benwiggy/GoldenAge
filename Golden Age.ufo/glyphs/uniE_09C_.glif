@@ -97,23 +97,6 @@
       <string>Open time signature</string>
       <key>_name</key>
       <string>timeSigX</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -574 -21</string>
-              <string>hstem 595 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>310037553f94ea50cde9aaf1b2b5f53782059518d432ce57e52664a7dbab2c802d05965e02ff7b06d9c5ceaf76df6857326034a88626d573295f5bf078b89bb0</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

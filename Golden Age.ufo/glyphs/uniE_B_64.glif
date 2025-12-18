@@ -104,23 +104,6 @@
       <string>Black arrow down (S)</string>
       <key>_name</key>
       <string>arrowBlackDown</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 181 38</string>
-              <string>vstem 183 36</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>d502d44273bdf9b0e4da18e9f5c8dd8cc7047f05ca5e705b04d746f400b15dcb4bfcfc667d0e55ef71a0ab3a04f97a7a0b2cbeb2614a8b1bea9c9fa3161464c3</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

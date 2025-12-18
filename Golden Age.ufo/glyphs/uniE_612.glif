@@ -42,22 +42,6 @@
       <string>Up bow</string>
       <key>_name</key>
       <string>stringsUpBow</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 18 39</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>3b310b5db1b893ef4dc6b1e094001b438da6bacee2dff9f658b09cbcaa55cb7135e17053c0afceb3e0a6128c2d1f94abdbe4cb7530b6a9757dca54b723cbb3da</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

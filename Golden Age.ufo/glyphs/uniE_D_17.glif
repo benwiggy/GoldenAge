@@ -94,25 +94,6 @@ fingeringPLower
       <string>fingeringPLower</string>
       <key>note</key>
       <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 43</string>
-              <string>hstem 168 45</string>
-              <string>hstem 233 -20</string>
-              <string>vstem 224 33</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>30744a0beaa029fef9482d17287c1cea0ceb5f7723b6943990f7ce90dfeaef4152a957351caeec87e16a226a1ddc6eaf17155e7b51b5ea7437e1478c58f35c6f</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

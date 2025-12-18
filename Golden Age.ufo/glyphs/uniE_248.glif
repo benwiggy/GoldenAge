@@ -152,23 +152,6 @@
       <string>Combining flag 5 (128th) above</string>
       <key>_name</key>
       <string>flag128thUp</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 760 -20</string>
-              <string>vstem 269 38</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>5543348873f394f24873e594d48f44500f709be24be750052baf9caff9010a1aaccafd9a812d99fdc03787c6d0b6a9d1851f5df9817691c3a8d41d4b0b51c510</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

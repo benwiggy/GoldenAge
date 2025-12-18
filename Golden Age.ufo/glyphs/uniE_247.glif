@@ -128,24 +128,6 @@
       <string>Combining flag 4 (64th) below</string>
       <key>_name</key>
       <string>flag64thDown</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 268 38</string>
-              <string>vstem 271 33</string>
-              <string>vstem 271 35</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>93ac5825dbe428cf4d30d6ff75c8eaf94bb836244cdc7f5dfbf6201bfb004fb0a21ece1da633b7259e110ebc0d37902abcf13ea69d4191936cf53ff9d16aa988</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

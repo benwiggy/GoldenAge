@@ -122,25 +122,6 @@
       <string>Black arrow up (N)</string>
       <key>_name</key>
       <string>arrowBlackUp</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 14 224</string>
-              <string>vstem 196 42</string>
-              <string>vstem 196 237</string>
-              <string>vstem 198 40</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>3864f612c6d6f2979f308d00072cfc38a9ef513ae8dc3e85e357929373dd5f18c732c419bc3a8cd6a105c3647f68017e49b417f3d5d65340834ec894d2b0f3a8</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

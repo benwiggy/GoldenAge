@@ -86,23 +86,6 @@
       <string>Buzz roll</string>
       <key>_name</key>
       <string>buzzRoll</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -122 234</string>
-              <string>hstem 54 58</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>787613a9afbd8191f84bdaa18fdd3812c36fce61144b688d3104138f5cdbcc0b90252a2cea5c405df50bebc47b5cbdf02d2ac381efd409ff3bf60cfb8709272e</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

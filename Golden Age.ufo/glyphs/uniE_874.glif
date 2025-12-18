@@ -39,24 +39,6 @@
       <string>Minor</string>
       <key>_name</key>
       <string>csymMinor</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 162 69</string>
-              <string>hstem 166 65</string>
-              <string>hstem 251 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>1279bedccf15a37e969791121f906689cb2254de7d794a166991ae8d57012e5fbb53f6e750e9ecd7e8b6315f9c10ba851829562b35e7ee089516930e4d32b616</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

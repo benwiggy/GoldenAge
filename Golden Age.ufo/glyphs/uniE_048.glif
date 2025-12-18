@@ -108,35 +108,6 @@
       <string>Coda</string>
       <key>_name</key>
       <string>coda</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 226 58</string>
-              <string>hstem 226 61</string>
-              <string>hstem 231 66</string>
-              <string>hstem 231 61</string>
-              <string>hstem 235 61</string>
-              <string>hstem 238 61</string>
-              <string>hstem 355 86</string>
-              <string>vstem 132 54</string>
-              <string>vstem 342 39</string>
-              <string>vstem 343 36</string>
-              <string>vstem 346 39</string>
-              <string>vstem 346 35</string>
-              <string>vstem 533 61</string>
-              <string>vstem 537 52</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>1519e6c9c57131ed94c63f2d4cf4dc60a35fa17eec2280a01a14aff23fb5f65c6d56702ee45257a074033e145c8d0b1ec8bd31bfaaa273995028165339ac3cf9</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

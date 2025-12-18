@@ -94,23 +94,7 @@ fingeringXLower
       <key>_name</key>
       <string>fingeringXLower</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 252 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>2510ab42ff2c6e4efb92fc5b9c298fec03ca04445aa4ffbc2e896326e4ba827808ddcde405262d46c49db4df338c8c5fc8f0e81ee57df04bbcd13a46ad04a622</string>
-      </dict>
+      <string>fingeringXLower</string>
     </dict>
   </lib>
 </glyph>

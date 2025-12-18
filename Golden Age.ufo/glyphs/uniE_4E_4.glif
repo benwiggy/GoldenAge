@@ -25,22 +25,6 @@
       <string>Half (minim) rest</string>
       <key>_name</key>
       <string>restHalf</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -14 132</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>w356m370,-14l363,11l349,11l356,118l9,118l2,10l-17,10l-27,-14</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

@@ -42,23 +42,6 @@
       <string>Stress above</string>
       <key>_name</key>
       <string>articStressAbove</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 319</string>
-              <string>vstem 0 305</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>fc81adc24f19d16300d1a6c881b61489493dc18f8cc4f279348979c52ad23d27dd9ad15cc504ed7d3de9d418b2b3ef6b4f6b60ce67aee5873d312d4aec594ba8</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

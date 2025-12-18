@@ -100,27 +100,6 @@ keyboardPedalHalf
       <string>keyboardPedalHalf</string>
       <key>note</key>
       <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 3 36</string>
-              <string>hstem 7 37</string>
-              <string>hstem 9 38</string>
-              <string>hstem 14 33</string>
-              <string>hstem 21 -21</string>
-              <string>hstem 521 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>a75e27ee4fa3b14a24c61c489435425e3f0ae979b6e711b544be04d1b75b709b7f0a1dada02cdd1c9be45762fea8ce06bfa2f8c9475d82f93d813f7a1c211ba9</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

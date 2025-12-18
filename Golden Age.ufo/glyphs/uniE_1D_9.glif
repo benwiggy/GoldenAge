@@ -49,23 +49,6 @@
       <string>16th note (semiquaver) stem up</string>
       <key>_name</key>
       <string>note16thUp</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 323 45</string>
-              <string>vstem 368 204</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>5a2433120a24809b59e0d6b3d58d4f2cc6453288c605e9ee99ad6085e18b64d20d208706bb7e63bdf2299f0ba3e3a10e707299f58060b02d0cca97b289e806d9</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

@@ -49,24 +49,7 @@ fingeringLeftParenthesisItalic
       <key>_name</key>
       <string>fingeringLeftParenthesisItalic</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 275 -20</string>
-              <string>vstem 0 44</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>2a4b61a0615c17b7564e30e48ae1bff6b36ec1685c1ef3413c988fb65b15cf0af3e858e9c5455757698ef7508d7065fba8950b3c945059fd1d553b1c4d5c499c</string>
-      </dict>
+      <string>fingeringLeftParenthesisItalic</string>
     </dict>
   </lib>
 </glyph>

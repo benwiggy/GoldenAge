@@ -79,24 +79,6 @@
       <string>Rough fall, short</string>
       <key>_name</key>
       <string>brassFallRoughShort</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 21 -21</string>
-              <string>hstem 53 131</string>
-              <string>hstem 208 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>3817c26e79c7a824fd4414de6cdb21b98b6a6780c13002663f9f29794c5e4b83abbcb8bbb3e0f12add861766f06d020a919010a83d2e0d66ff2a2dbde38d090a</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

@@ -89,25 +89,6 @@
       <string>Forzando</string>
       <key>_name</key>
       <string>dynamicForzando</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 7 27</string>
-              <string>hstem 7 36</string>
-              <string>hstem 203 36</string>
-              <string>hstem 206 36</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>97d42eeaa575c9f48ee58d470b3caa1dbf981142a5f03aab13bc3487a784096f005f2ed3b720b77f0594d6a83de9066524b09da64eece74ed03b1569937a4e14</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

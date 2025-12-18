@@ -127,22 +127,6 @@
       <string>Ottava bassa (8vb)</string>
       <key>_name</key>
       <string>ottavaBassaVb</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 260 32</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>1e85bbe0fceffa2cc862cc60029e0f888293c824a9de674599f80cec489d4040cce81d19d0081dbf5478ae8ef2bdb8c5ddabb89e18223b7181fc9b151e28062c</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

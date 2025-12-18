@@ -5,7 +5,6 @@
   <note>
 wiggleTrillSlowest
 </note>
-  <anchor x="597" y="96" name="repeatOffset"/>
   <outline>
     <contour>
       <point x="404" y="0" type="curve"/>
@@ -79,24 +78,7 @@ wiggleTrillSlowest
       <key>_name</key>
       <string>wiggleTrillSlowest</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 66</string>
-              <string>hstem 176 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>8967832db91dde10939b0b6c7983884d05618311af0db9693f5704d3cad88187faa1ee4a8a43ceb29fe3649e6bfceece12a63dd880e7eda4f4f3e7c09befcefc</string>
-      </dict>
+      <string>wiggleTrillSlowest</string>
     </dict>
   </lib>
 </glyph>

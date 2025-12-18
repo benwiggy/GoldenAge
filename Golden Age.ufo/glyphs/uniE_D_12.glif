@@ -95,25 +95,7 @@ fingering2
       <key>_name</key>
       <string>fingering2</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 1 32</string>
-              <string>hstem 215 35</string>
-              <string>vstem 14 123</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>4a2ef5d5c5e03eee353550293172c6982157fcb888c69004be94c4542243bffc7f96c7598f56a97293fde49cd9e09b94b24d3f4a430e6bb22001d78566783452</string>
-      </dict>
+      <string>fingering2</string>
     </dict>
   </lib>
 </glyph>

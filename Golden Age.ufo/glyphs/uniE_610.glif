@@ -37,26 +37,6 @@
       <string>Down bow</string>
       <key>_name</key>
       <string>stringsDownBow</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 240 93</string>
-              <string>vstem 3 23</string>
-              <string>vstem 326 34</string>
-              <string>vstem 335 25</string>
-              <string>vstem 335 27</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>594463ec1353104e03b54d7f622b20c389d7e6d6d0ee8b4b4af3bce8952221cac3400f460611a1b31881f475039ecf306887538dc074a066ffa7b17d57814791</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

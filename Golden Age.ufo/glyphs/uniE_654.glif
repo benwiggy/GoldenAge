@@ -44,23 +44,7 @@ keyboardPedalDot
       <key>_name</key>
       <string>keyboardPedalDot</string>
       <key>note</key>
-      <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 21 -21</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>9503b04cc1ef798e3520935cdf4d28904f5a372674fa1b0a9f8ec81741d306bbbf05af20949f0370444c4b66c44dd6cbd513f73b5261ac5ea2eb561b57159279</string>
-      </dict>
+      <string>keyboardPedalDot</string>
     </dict>
   </lib>
 </glyph>

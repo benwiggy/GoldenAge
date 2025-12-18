@@ -68,22 +68,6 @@
       <string>Ottava</string>
       <key>_name</key>
       <string>ottava</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 260 32</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>c430503b73e3fec6cffc089625c586537604720de96cd5dfe47a298211599c30a59cc4c14e782226c6e6c0fca9481afc0ce8b3f94542986393da0cb66b3286d8</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

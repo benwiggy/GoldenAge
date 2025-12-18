@@ -81,25 +81,6 @@
       <string>Sharp</string>
       <key>_name</key>
       <string>accidentalSharp</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 59 31</string>
-              <string>vstem 62 28</string>
-              <string>vstem 155 29</string>
-              <string>vstem 158 29</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>60aafa87c60d2d2515b9f6adcc1453f7ba5fff23abb9c328f7214b39a17f59b1ca60d8dc2e5fb751634954f14db75868359614c884b6429ede55e8cb11698747</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

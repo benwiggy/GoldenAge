@@ -81,25 +81,6 @@
           </dict>
         </array>
       </dict>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 24 -21</string>
-              <string>hstem 118 32</string>
-              <string>hstem 265 -20</string>
-              <string>vstem 96 32</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>9e5b4675e56ec37d0b2d3fac16ab1b6508ee21eec17ccb40fadf160fce269112cf2f19b29340a4eb23bf6eaeaebff960f2e73b4648a27741aae446cc491bfd7c</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

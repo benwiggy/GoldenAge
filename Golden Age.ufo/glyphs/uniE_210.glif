@@ -55,28 +55,6 @@
       <string>Combining stem</string>
       <key>_name</key>
       <string>stem</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 1 -21</string>
-              <string>hstem 885 -20</string>
-              <string>vstem 0 49</string>
-              <string>vstem 0 38</string>
-              <string>vstem 0 46</string>
-              <string>vstem 2 39</string>
-              <string>vstem 2 36</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>a71661947918f720e24fb627b8a7040a75911c6a9048b43c0486b3a2e59c975487514344a670307832e29f5729631a395734d574ddc427174ffcc7e93633f1a1</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

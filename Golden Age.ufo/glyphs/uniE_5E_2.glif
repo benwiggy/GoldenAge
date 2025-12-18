@@ -31,23 +31,6 @@
       <string>Smear</string>
       <key>_name</key>
       <string>brassSmear</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -105 85</string>
-              <string>hstem 8 78</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>5d0df195286fb9bf0348e4761702e77a3ba4a1fe1821a2f9c6d61fa2043fd85c0df7178ddfc6aaa8a125156ab911407e115af3caaefad56fd6e535ab460ce3e2</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

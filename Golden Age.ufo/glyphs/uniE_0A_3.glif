@@ -2,8 +2,6 @@
 <glyph name="uniE0A3" format="2">
   <advance width="334"/>
   <unicode hex="E0A3"/>
-  <anchor x="333" y="53" name="stemUpSE"/>
-  <anchor x="0" y="-53" name="stemDownNW"/>
   <outline>
     <contour>
       <point x="323" y="85" type="curve" smooth="yes"/>
@@ -52,23 +50,6 @@
       <string>Half (minim) notehead</string>
       <key>_name</key>
       <string>noteheadHalf</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -150 50</string>
-              <string>hstem -100 183</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>c6390759fc5a2019477c1c8038990caaaa1beb4f58e07fe23bea9fc82ebd0a7e6a8e10df991070ed2b63b7a0b25efe335209d9eebba163f4d0ebf64a6c1c840a</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

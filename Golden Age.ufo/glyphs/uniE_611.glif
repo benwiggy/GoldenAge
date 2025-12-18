@@ -37,26 +37,6 @@
       <string>Turned down bow</string>
       <key>_name</key>
       <string>stringsDownBowTurned</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -330 93</string>
-              <string>vstem 3 23</string>
-              <string>vstem 326 34</string>
-              <string>vstem 335 25</string>
-              <string>vstem 335 27</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>1298ccf7a8b5cef9303c06ea5fd405c8f0e6df06bcbb6be9e43f5405080732783398db9e68119e832607637b9ec1231938fba0e24410e54cd9a5061548cea1c8</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

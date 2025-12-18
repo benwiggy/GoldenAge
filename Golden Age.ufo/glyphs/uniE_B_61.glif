@@ -111,22 +111,6 @@
       <string>Black arrow up-right (NE)</string>
       <key>_name</key>
       <string>arrowBlackUpRight</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 699 54</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>f0a96632ea2d1a584f5f5f19becd4179c34bd0aa9c05b25aea0dd6bf5e91f551d712ec797f775da1d11d6550d89c67310e710ad8ae1524cd4874b46bf8941d4d</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

@@ -158,26 +158,6 @@
       <string>Muted white slash</string>
       <key>_name</key>
       <string>noteheadSlashWhiteMuted</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -320 -21</string>
-              <string>hstem -232 41</string>
-              <string>hstem 238 38</string>
-              <string>hstem 238 33</string>
-              <string>hstem 341 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>6aa6c04e2f619617d44e83af8e9cdedb79e09a5e28a29a6620057b7ab788e700f989656e36c3ab0330abfa5a807436b1aa4ace502589950846aa4ac3db9c082e</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

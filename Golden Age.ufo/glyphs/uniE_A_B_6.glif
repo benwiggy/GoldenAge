@@ -60,24 +60,6 @@
       <string>Wide wavy line segment</string>
       <key>_name</key>
       <string>wiggleWavyWide</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -266 32</string>
-              <string>hstem 234 32</string>
-              <string>vstem -16 1032</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>aff58a418f153121bc06b9b27944013792429d146a5f3a8ca2e77cb6ad39ad362e665be511e81847d7de259713c3cc2bc067a614be2cc65be682dad047a59da8</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

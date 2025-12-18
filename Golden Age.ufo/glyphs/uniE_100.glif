@@ -41,23 +41,6 @@
       <string>Slash with vertical ends</string>
       <key>_name</key>
       <string>noteheadSlashVerticalEnds</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -166 -21</string>
-              <string>hstem 135 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>e8b468262c042b3e1db4a9c3d6746763a58f33cc5f8216e3926047d635d93c1205ca0d3d36616951e6664d3812c498920138c36a3b5aaffc76105d4b3c1ce874</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

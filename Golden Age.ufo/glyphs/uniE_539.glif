@@ -124,25 +124,6 @@
       <string>Sforzato</string>
       <key>_name</key>
       <string>dynamicSforzato</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 1 38</string>
-              <string>hstem 7 27</string>
-              <string>hstem 203 36</string>
-              <string>hstem 206 36</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>016f05832bd02450acf35133e88fd4f1a30dccde3fe260ef9700b998d1d5442e40a8d1d0c9526e94365c99cab23b15bf53afe8115492429d87649ddd035d86a7</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

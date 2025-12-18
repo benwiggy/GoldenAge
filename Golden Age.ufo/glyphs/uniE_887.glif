@@ -31,22 +31,6 @@
       <string>Tuplet 7</string>
       <key>_name</key>
       <string>tuplet7</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 230 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>46dde1e9115bb0be3a64650388b95c5f79ac96d32e6b185ff7c286d1f771debf39e8ae5cf9ced8829e36191bc3a5f8a613079d96f8310eddd8619bdc991909ad</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

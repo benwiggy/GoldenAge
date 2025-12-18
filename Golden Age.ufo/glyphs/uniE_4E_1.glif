@@ -60,24 +60,6 @@ restLonga
       <string>restLonga</string>
       <key>note</key>
       <real>0.0</real>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 0 129</string>
-              <string>vstem 4 125</string>
-              <string>vstem 9 130</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>bc4bb82d1239411dfa19deda279d2be51933a90c0b20282a9b5b4d682c8b55419ee8f337f02673ed389b5d0a1fbac871cc41ab7358dd47044af1b0d1fb05c0b7</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

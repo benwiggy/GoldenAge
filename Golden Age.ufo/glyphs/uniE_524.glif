@@ -52,24 +52,6 @@
       <string>Sforzando</string>
       <key>_name</key>
       <string>dynamicSforzando</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 2 46</string>
-              <string>vstem 84 58</string>
-              <string>vstem 84 166</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>f214296be0bd5a72f322e1381ad7c816331de5f6c605072a173711c2d34a77f930384eee43df6138a18f45d549dc4c7c01e5d01d700b5550eac9ef6a7b9195fe</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

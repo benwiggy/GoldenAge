@@ -32,23 +32,6 @@
       <string>Smooth lift, long</string>
       <key>_name</key>
       <string>brassLiftSmoothLong</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 21 -21</string>
-              <string>hstem 1362 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>8db2049863176d756f1f820d83c268b2d2d4e3db67f2366df16f6eabffba37afc40bb4232f378051e8fc8bdd73bd38220eb878726ac7ba9899a0d577188f2bbf</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

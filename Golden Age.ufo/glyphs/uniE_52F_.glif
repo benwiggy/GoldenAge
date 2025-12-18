@@ -90,25 +90,6 @@
       <string>ff</string>
       <key>_name</key>
       <string>dynamicFF</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 143 36</string>
-              <string>hstem 146 36</string>
-              <string>hstem 153 36</string>
-              <string>hstem 156 36</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>56701fc6d0ae89c2afc07916683ec004cd011797906c21ec414a9f4109d23fe8e6aeb0fc9004ed22accce782d7c5ed7f8a9e7eb42fc8d55a77e2ce588807e9cc</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

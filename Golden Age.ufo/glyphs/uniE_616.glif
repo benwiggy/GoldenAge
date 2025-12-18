@@ -39,26 +39,6 @@
       <string>Mute on</string>
       <key>_name</key>
       <string>stringsMuteOn</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 338 61</string>
-              <string>hstem 343 56</string>
-              <string>vstem 4 47</string>
-              <string>vstem 318 50</string>
-              <string>vstem 640 53</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>2798cfdc6401759d9e9e8410f7dc41ea76908b4e182baa6eee2b4363e1eab8ca3af07fb50361eb1873893f2fee8759a5f185be1197bd8f916460cda7b2820096</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

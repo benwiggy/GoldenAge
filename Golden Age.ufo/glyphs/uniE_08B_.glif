@@ -52,23 +52,6 @@
       <string>Cut time</string>
       <key>_name</key>
       <string>timeSigCutCommon</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem -4 87</string>
-              <string>vstem 285 47</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>4ec1f29923d7b6d41a534123ab198e67aa7dc04ceecf8a76be925118a7bacc37dc390123a1d6f6b152fdd783b74837e16da7b6c443ec830a445eec4c8c25b190</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

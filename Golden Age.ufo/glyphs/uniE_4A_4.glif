@@ -26,22 +26,6 @@
       <string>Tenuto above</string>
       <key>_name</key>
       <string>articTenutoAbove</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 2 37</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>w348m347,37l260,38l122,39l33,37l3,0l95,2l231,2l320,0</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

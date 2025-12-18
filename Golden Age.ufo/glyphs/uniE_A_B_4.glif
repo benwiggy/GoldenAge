@@ -60,24 +60,6 @@
       <string>Narrow wavy line segment</string>
       <key>_name</key>
       <string>wiggleWavyNarrow</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -266 32</string>
-              <string>hstem 234 32</string>
-              <string>vstem -16 532</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>34ba898ec5c773c9bb36d87cffb6e65f410353dce5dfab04087106121d33011b75a3ec4c0baa41ab32027041e2c41b8aadb35d41d2d25e6df7c044be12c9ff21</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

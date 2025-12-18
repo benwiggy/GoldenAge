@@ -63,22 +63,6 @@
       <string>Combining flag 2 (16th) above</string>
       <key>_name</key>
       <string>flag16thUp</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 -20</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>b975658c756fcb7c2b6d9c34cbdbc1b7f202f0a9220ae1b803419c946406eb97eec2de7ab44263019dab3fbe52f40411061aeca1c6acdd4b48190613170f3c35</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

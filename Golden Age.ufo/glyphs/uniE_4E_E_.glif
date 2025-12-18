@@ -117,29 +117,6 @@
       <string>Multiple measure rest</string>
       <key>_name</key>
       <string>restHBar</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -280 -21</string>
-              <string>hstem -113 239</string>
-              <string>hstem -113 235</string>
-              <string>hstem 267 -20</string>
-              <string>vstem 2 62</string>
-              <string>vstem 2 55</string>
-              <string>vstem 739 65</string>
-              <string>vstem 749 55</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>488efb47e7b64b0dc0220ae4ecae7b1c1a49a02173ff31f1bc6ab6579692494e666845b4d232ff7ea09a71e141c71cb614ddf5631aed0266556ed20d3cae1cf9</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

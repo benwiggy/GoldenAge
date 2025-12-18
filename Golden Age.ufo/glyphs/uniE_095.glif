@@ -26,22 +26,6 @@
       <string>Right parenthesis for whole time signature</string>
       <key>_name</key>
       <string>timeSigParensRight</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 109 36</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>w158m145,299c145,403 106,547 35,595l0,563c72,515 109,371 109,266c109,111 64,-23 -13,-113l23,-81c98,8 145,142 145,299</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

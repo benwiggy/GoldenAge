@@ -4,57 +4,44 @@
   <unicode hex="F50A"/>
   <outline>
     <contour>
-      <point x="277" y="23" type="curve"/>
+      <point x="277" y="23" type="line"/>
       <point x="198" y="19" type="line"/>
-      <point x="203" y="56"/>
-      <point x="221" y="238"/>
-      <point x="219" y="267" type="curve" smooth="yes"/>
-      <point x="214" y="327"/>
-      <point x="171" y="296"/>
+      <point x="209" y="98"/>
+      <point x="219" y="182"/>
+      <point x="219" y="261" type="curve" smooth="yes"/>
+      <point x="219" y="277"/>
+      <point x="215" y="304"/>
+      <point x="194" y="304" type="curve" smooth="yes"/>
+      <point x="186" y="304"/>
+      <point x="177" y="301"/>
       <point x="171" y="296" type="curve"/>
-      <point x="-6" y="-31" type="line"/>
-      <point x="-18" y="-68"/>
-      <point x="10" y="-70"/>
-      <point x="10" y="-70" type="curve"/>
+      <point x="-6" y="-31" type="line" smooth="yes"/>
+      <point x="-8" y="-34"/>
+      <point x="-9" y="-43"/>
+      <point x="-9" y="-47" type="curve" smooth="yes"/>
+      <point x="-9" y="-57"/>
+      <point x="-2" y="-71"/>
+      <point x="10" y="-70" type="curve" smooth="yes"/>
       <point x="144" y="-61" type="line"/>
       <point x="129" y="-232" type="line"/>
-      <point x="141" y="-265"/>
-      <point x="167" y="-237"/>
+      <point x="132" y="-240"/>
+      <point x="137" y="-248"/>
+      <point x="146" y="-248" type="curve" smooth="yes"/>
+      <point x="154" y="-248"/>
+      <point x="162" y="-243"/>
       <point x="167" y="-237" type="curve"/>
       <point x="183" y="-59" type="line"/>
       <point x="243" y="-54" type="line"/>
-      <point x="282" y="-30"/>
-      <point x="277" y="16"/>
+      <point x="267" y="-39"/>
+      <point x="277" y="-13"/>
+      <point x="277" y="14" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="182" y="238" type="line"/>
       <point x="158" y="27" type="line"/>
-      <point x="158" y="27"/>
-      <point x="151" y="16"/>
-      <point x="140" y="13" type="curve"/>
-      <point x="130" y="9"/>
-      <point x="80" y="7"/>
+      <point x="143" y="4"/>
+      <point x="84" y="7"/>
       <point x="59" y="6" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>f7568d99611f7b84eb5dbfb911390b4b547e8432e067ef9220be6a0d52304f4c396f9001f70766d3e8410b43eed26cd629c7bb9fbe63116add9c2d75cb43d03d</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -61 78</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

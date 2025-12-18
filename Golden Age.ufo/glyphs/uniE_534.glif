@@ -98,23 +98,6 @@
       <string>Forte-piano</string>
       <key>_name</key>
       <string>dynamicFortePiano</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 223 56</string>
-              <string>hstem 226 56</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>5dad62b296da9ec044a1ccacf8cdb734b49d4e2f980aa2dc653adc3ad7efea93a1ec67eceae84f4be87486ac3c9e895cf5bd521c7a7271b37e34379c727b113b</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

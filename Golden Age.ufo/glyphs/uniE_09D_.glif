@@ -123,26 +123,6 @@
       <string>Open time signature (Penderecki)</string>
       <key>_name</key>
       <string>timeSigOpenPenderecki</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -377 150</string>
-              <string>hstem 233 144</string>
-              <string>vstem 1 62</string>
-              <string>vstem 1163 43</string>
-              <string>vstem 1163 48</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>baede4b01864131bbdf50287538b849cdb408d37a4f5ff490da31186422c8e42ab31dd9328634d1bda868da570592164eb3b3b7c1fa7beb7e2155ab501a5a32c</string>
-      </dict>
     </dict>
   </lib>
 </glyph>

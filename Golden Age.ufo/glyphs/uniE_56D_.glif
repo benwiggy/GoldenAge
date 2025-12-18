@@ -57,22 +57,6 @@
       <string>Mordent</string>
       <key>_name</key>
       <string>ornamentMordent</string>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 377 21</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>e31fb8c64aceca627da92c7d6fe4d97df3a91284f9a707fb0ce093d277062899b2495255ca4c37d0f887bce76c25495defd004f554633bfbe2b633ba90645381</string>
-      </dict>
     </dict>
   </lib>
 </glyph>
