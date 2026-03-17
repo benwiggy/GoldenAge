@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniECA1" format="2">
   <advance width="326"/>
   <unicode hex="ECA1"/>
-  <note>
-metNoteDoubleWholeSquare
-</note>
+  <note>metNoteDoubleWholeSquare</note>
   <outline>
     <contour>
       <point x="305" y="-49" type="curve"/>
@@ -136,38 +134,30 @@ metNoteDoubleWholeSquare
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>tf_metronomeMarks</string>
-      </array>
-      <key>_description</key>
-      <string>Double whole note (square)</string>
-      <key>_name</key>
-      <string>metNoteDoubleWholeSquare</string>
-      <key>note</key>
-      <string>metNoteDoubleWholeSquare</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>note</key>
+  <string>metNoteDoubleWholeSquare</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>79c4e890ec0ce077a2489df9a7268088e053ea3aed43487ac867ebbf471836c2916f4692777d0ec09b5a5ae84a07ef8c4f0ba39a765de966b132d112978eccb2</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -3 61</string>
-              <string>hstem 113 58</string>
-              <string>hstem 117 60</string>
-              <string>hstem 220 -20</string>
-              <string>vstem 19 23</string>
-              <string>vstem 298 20</string>
-            </array>
-          </dict>
+          <string>hstem -3 61</string>
+          <string>hstem 113 58</string>
+          <string>hstem 117 60</string>
+          <string>hstem 220 -20</string>
+          <string>vstem 19 23</string>
+          <string>vstem 298 20</string>
         </array>
-        <key>id</key>
-        <string>79c4e890ec0ce077a2489df9a7268088e053ea3aed43487ac867ebbf471836c2916f4692777d0ec09b5a5ae84a07ef8c4f0ba39a765de966b132d112978eccb2</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

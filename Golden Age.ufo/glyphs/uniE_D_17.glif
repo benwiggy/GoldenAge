@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniED17" format="2">
   <advance width="257"/>
   <unicode hex="ED17"/>
-  <note>
-fingeringPLower
-</note>
+  <note>fingeringPLower</note>
   <outline>
     <contour>
       <point x="19" y="-159" type="curve"/>
@@ -83,36 +81,28 @@ fingeringPLower
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>tf_figuredBass</string>
-      </array>
-      <key>_description</key>
-      <string>Fingering p (pulgar; right-hand thumb for guitar)</string>
-      <key>_name</key>
-      <string>fingeringPLower</string>
-      <key>note</key>
-      <string>fingeringPLower</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>note</key>
+  <string>fingeringPLower</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d8b4c2ef68ac98bdf79b979d7ffebd4dbfed2fc9367d9bfb9380c87db550f56ed067a88add1913f38c0c217b367a616e297f8c8673615771adf8e98cdbde7a14</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 43</string>
-              <string>hstem 168 45</string>
-              <string>hstem 233 -20</string>
-              <string>vstem 224 33</string>
-            </array>
-          </dict>
+          <string>hstem 0 43</string>
+          <string>hstem 168 45</string>
+          <string>hstem 233 -20</string>
+          <string>vstem 224 33</string>
         </array>
-        <key>id</key>
-        <string>d8b4c2ef68ac98bdf79b979d7ffebd4dbfed2fc9367d9bfb9380c87db550f56ed067a88add1913f38c0c217b367a616e297f8c8673615771adf8e98cdbde7a14</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

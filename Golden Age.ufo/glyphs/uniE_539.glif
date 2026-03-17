@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE539" format="2">
   <advance width="911"/>
   <unicode hex="E539"/>
@@ -115,34 +115,26 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>dynamics</string>
-      </array>
-      <key>_description</key>
-      <string>Sforzato</string>
-      <key>_name</key>
-      <string>dynamicSforzato</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>056985c178cb367a8cf7bf10d6675b6b26710e4fc649b9672436b9bbca2ce8b2dfb8ad3518f504907044a58a48d297e0f04d2818548423a14b38f27e398acb51</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 1 38</string>
-              <string>hstem 7 27</string>
-              <string>hstem 203 36</string>
-              <string>hstem 206 36</string>
-            </array>
-          </dict>
+          <string>hstem 1 38</string>
+          <string>hstem 7 27</string>
+          <string>hstem 203 36</string>
+          <string>hstem 206 36</string>
         </array>
-        <key>id</key>
-        <string>056985c178cb367a8cf7bf10d6675b6b26710e4fc649b9672436b9bbca2ce8b2dfb8ad3518f504907044a58a48d297e0f04d2818548423a14b38f27e398acb51</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

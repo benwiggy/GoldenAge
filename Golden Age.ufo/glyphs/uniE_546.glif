@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE546" format="2">
   <advance width="168"/>
   <unicode hex="E546"/>
-  <note>
-dynamicCombinedSeparatorColon
-</note>
+  <note>dynamicCombinedSeparatorColon</note>
   <outline>
     <contour>
       <point x="94" y="147" type="curve"/>
@@ -60,17 +58,9 @@ dynamicCombinedSeparatorColon
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>dynamics</string>
-      </array>
-      <key>_description</key>
-      <string>Colon separator for combined dynamics</string>
-      <key>_name</key>
-      <string>dynamicCombinedSeparatorColon</string>
-      <key>note</key>
-      <string>dynamicCombinedSeparatorColon</string>
-    </dict>
+  <dict>
+  <key>note</key>
+  <string>dynamicCombinedSeparatorColon</string>
+  </dict>
   </lib>
 </glyph>

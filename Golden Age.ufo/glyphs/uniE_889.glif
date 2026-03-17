@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE889" format="2">
   <advance width="253"/>
   <unicode hex="E889"/>
@@ -45,27 +45,23 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_description</key>
-      <string>Tuplet 9</string>
-      <key>_name</key>
-      <string>tuplet9</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>a4ae95acc31f3b96ca249991f82e3703751d2eb24baaa6beb3a0dc62c17b3cb8058d4f70a1dd17b7f9a680c1dc4dbec24022ace8d5c896b13f89a610d8d06f50</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 176 54</string>
-            </array>
-          </dict>
+          <string>hstem 176 54</string>
         </array>
-        <key>id</key>
-        <string>a4ae95acc31f3b96ca249991f82e3703751d2eb24baaa6beb3a0dc62c17b3cb8058d4f70a1dd17b7f9a680c1dc4dbec24022ace8d5c896b13f89a610d8d06f50</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

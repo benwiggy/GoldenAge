@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE4E1" format="2">
   <advance width="139"/>
   <unicode hex="E4E1"/>
-  <note>
-restLonga
-</note>
+  <note>restLonga</note>
   <outline>
     <contour>
       <point x="40" y="-249" type="curve" smooth="yes"/>
@@ -48,36 +46,27 @@ restLonga
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>combiningStaffPositions</string>
-        <string>rests</string>
-      </array>
-      <key>_description</key>
-      <string>Longa rest</string>
-      <key>_name</key>
-      <string>restLonga</string>
-      <key>note</key>
-      <string>restLonga</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>note</key>
+  <string>restLonga</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>dfc61c63bea5834ac6bf2e34cf5de9756cb336f16e99a9c7aee2616756009f345ba880761076fef81d2e7eff8bb574a0fc4b8d516ae6eaf11ae259f54ba12cc5</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 0 129</string>
-              <string>vstem 4 125</string>
-              <string>vstem 9 130</string>
-            </array>
-          </dict>
+          <string>vstem 0 129</string>
+          <string>vstem 4 125</string>
+          <string>vstem 9 130</string>
         </array>
-        <key>id</key>
-        <string>dfc61c63bea5834ac6bf2e34cf5de9756cb336f16e99a9c7aee2616756009f345ba880761076fef81d2e7eff8bb574a0fc4b8d516ae6eaf11ae259f54ba12cc5</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

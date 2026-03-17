@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE260" format="2">
   <advance width="208"/>
   <unicode hex="E260"/>
@@ -32,35 +32,24 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>accidentals</string>
-        <string>accidentalsSagittalMixed</string>
-        <string>accidentalsStandard</string>
-        <string>combiningStaffPositions</string>
-      </array>
-      <key>_description</key>
-      <string>Flat</string>
-      <key>_name</key>
-      <string>accidentalFlat</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>cbf73342673dbe93bde33ff7b7b720bcc56855e81c6d4853fb41f288eb7480d67073d117a0c637fd9152486b2193d9729d3f605195399aadb98f0d3ab9b1080a</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 0 39</string>
-              <string>vstem 153 56</string>
-            </array>
-          </dict>
+          <string>vstem 0 39</string>
+          <string>vstem 153 56</string>
         </array>
-        <key>id</key>
-        <string>cbf73342673dbe93bde33ff7b7b720bcc56855e81c6d4853fb41f288eb7480d67073d117a0c637fd9152486b2193d9729d3f605195399aadb98f0d3ab9b1080a</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

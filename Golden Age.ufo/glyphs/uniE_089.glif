@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE089" format="2">
   <advance width="335"/>
   <unicode hex="E089"/>
@@ -54,34 +54,26 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>tf_zeroWidth</string>
-      </array>
-      <key>_description</key>
-      <string>Time signature 9</string>
-      <key>_name</key>
-      <string>timeSig9</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>cce0a2cfdbc7f827e113d454b40b67229db6e8313eb9934d46d9030fd36f05c743723cfa9598a8dfc03afad9327b7c9f13c2cd8488a5d04784eaa8a761719b07</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -250 64</string>
-              <string>hstem -37 59</string>
-              <string>hstem 192 58</string>
-              <string>vstem 266 49</string>
-            </array>
-          </dict>
+          <string>hstem -250 64</string>
+          <string>hstem -37 59</string>
+          <string>hstem 192 58</string>
+          <string>vstem 266 49</string>
         </array>
-        <key>id</key>
-        <string>cce0a2cfdbc7f827e113d454b40b67229db6e8313eb9934d46d9030fd36f05c743723cfa9598a8dfc03afad9327b7c9f13c2cd8488a5d04784eaa8a761719b07</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

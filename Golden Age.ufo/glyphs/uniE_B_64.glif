@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniEB64" format="2">
   <advance width="413"/>
   <unicode hex="EB64"/>
@@ -99,28 +99,24 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_description</key>
-      <string>Black arrow down (S)</string>
-      <key>_name</key>
-      <string>arrowBlackDown</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8d7df4d6202d5d75eb27884d3c8fb706c38021f5c2ccdb82c9f6f911706dd860ceaf3dd4a33fb02a32c8a3938546888bf03950021b9f74cb8d994473e4d5b276</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 181 38</string>
-              <string>vstem 183 36</string>
-            </array>
-          </dict>
+          <string>vstem 181 38</string>
+          <string>vstem 183 36</string>
         </array>
-        <key>id</key>
-        <string>8d7df4d6202d5d75eb27884d3c8fb706c38021f5c2ccdb82c9f6f911706dd860ceaf3dd4a33fb02a32c8a3938546888bf03950021b9f74cb8d994473e4d5b276</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

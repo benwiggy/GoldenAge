@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniEC63" format="2">
   <advance width="1098"/>
   <unicode hex="EC63"/>
@@ -96,32 +96,24 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>forTextBasedApplications</string>
-      </array>
-      <key>_description</key>
-      <string>Left-pointing arrow for metric modulation</string>
-      <key>_name</key>
-      <string>metricModulationArrowLeft</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>cf8d8c88c3a307eaadb695d54106badc7bdce64c784a565b3b667c9b18bf54bd65eafbfa9143482f2b852e09a2902aa72334feef53c27f8c2a8b2cde547d0718</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 169 48</string>
-              <string>hstem 169 227</string>
-            </array>
-          </dict>
+          <string>hstem 169 48</string>
+          <string>hstem 169 227</string>
         </array>
-        <key>id</key>
-        <string>cf8d8c88c3a307eaadb695d54106badc7bdce64c784a565b3b667c9b18bf54bd65eafbfa9143482f2b852e09a2902aa72334feef53c27f8c2a8b2cde547d0718</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

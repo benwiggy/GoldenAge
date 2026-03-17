@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE611" format="2">
   <advance width="366"/>
   <unicode hex="E611"/>
@@ -32,31 +32,27 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_description</key>
-      <string>Turned down bow</string>
-      <key>_name</key>
-      <string>stringsDownBowTurned</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>c4f231a0adf7f1c23d28b8dcd6c05854893481bd28f8ff9ca67f9952446c1a078046d21b1fde9bd5f4bdc099dc50233400990ae2d8897327e3ab0a64fc817a39</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -330 93</string>
-              <string>vstem 3 23</string>
-              <string>vstem 326 34</string>
-              <string>vstem 335 25</string>
-              <string>vstem 335 27</string>
-            </array>
-          </dict>
+          <string>hstem -330 93</string>
+          <string>vstem 3 23</string>
+          <string>vstem 326 34</string>
+          <string>vstem 335 25</string>
+          <string>vstem 335 27</string>
         </array>
-        <key>id</key>
-        <string>c4f231a0adf7f1c23d28b8dcd6c05854893481bd28f8ff9ca67f9952446c1a078046d21b1fde9bd5f4bdc099dc50233400990ae2d8897327e3ab0a64fc817a39</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

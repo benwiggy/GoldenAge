@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE5D9" format="2">
   <advance width="1150"/>
   <unicode hex="E5D9"/>
@@ -48,30 +48,26 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_description</key>
-      <string>Lip fall, long</string>
-      <key>_name</key>
-      <string>brassFallLipLong</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>78df9a8ffec2d67ec50264fd226d545cb7d80b781ff232b23042af09d9e61fa823b24c228b7dc280dbda3e72e2b4502f515c73c14889ab38ed392cef2070409a</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -329 -21</string>
-              <string>hstem -44 80</string>
-              <string>hstem -42 78</string>
-              <string>hstem -39 77</string>
-            </array>
-          </dict>
+          <string>hstem -329 -21</string>
+          <string>hstem -44 80</string>
+          <string>hstem -42 78</string>
+          <string>hstem -39 77</string>
         </array>
-        <key>id</key>
-        <string>78df9a8ffec2d67ec50264fd226d545cb7d80b781ff232b23042af09d9e61fa823b24c228b7dc280dbda3e72e2b4502f515c73c14889ab38ed392cef2070409a</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

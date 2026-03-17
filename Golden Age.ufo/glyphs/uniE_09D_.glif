@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE09D" format="2">
   <advance width="1211"/>
   <unicode hex="E09D"/>
@@ -118,31 +118,27 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_description</key>
-      <string>Open time signature (Penderecki)</string>
-      <key>_name</key>
-      <string>timeSigOpenPenderecki</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>46d7f4b3e4ae057aad1e8bc67793e2c735a6c61b9ac65eb9e101c9614f6ba6512d5d0d802cf6fb9a72015407c7b4c5ac2397ad17a6a6bb27c344a03ba62ab713</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -377 150</string>
-              <string>hstem 233 144</string>
-              <string>vstem 1 62</string>
-              <string>vstem 1163 43</string>
-              <string>vstem 1163 48</string>
-            </array>
-          </dict>
+          <string>hstem -377 150</string>
+          <string>hstem 233 144</string>
+          <string>vstem 1 62</string>
+          <string>vstem 1163 43</string>
+          <string>vstem 1163 48</string>
         </array>
-        <key>id</key>
-        <string>46d7f4b3e4ae057aad1e8bc67793e2c735a6c61b9ac65eb9e101c9614f6ba6512d5d0d802cf6fb9a72015407c7b4c5ac2397ad17a6a6bb27c344a03ba62ab713</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

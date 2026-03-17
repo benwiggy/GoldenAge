@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE08B" format="2">
   <advance width="581"/>
   <unicode hex="E08B"/>
@@ -47,28 +47,24 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_description</key>
-      <string>Cut time</string>
-      <key>_name</key>
-      <string>timeSigCutCommon</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ff0b3058549d9d6fdd54d61610902df6bf0d8282230a0bcfb4eb6b79331967e4b5dc52850e20f75f23b7babf23f2d30daacff7c4fd267140f2996c37d6a03277</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem -4 87</string>
-              <string>vstem 285 47</string>
-            </array>
-          </dict>
+          <string>vstem -4 87</string>
+          <string>vstem 285 47</string>
         </array>
-        <key>id</key>
-        <string>ff0b3058549d9d6fdd54d61610902df6bf0d8282230a0bcfb4eb6b79331967e4b5dc52850e20f75f23b7babf23f2d30daacff7c4fd267140f2996c37d6a03277</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

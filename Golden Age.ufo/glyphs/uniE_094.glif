@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE094" format="2">
   <advance width="158"/>
   <unicode hex="E094"/>
@@ -27,27 +27,23 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_description</key>
-      <string>Left parenthesis for whole time signature</string>
-      <key>_name</key>
-      <string>timeSigParensLeft</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>180058682e8b9d08bac4f99cf305936aa53ef3c87cac7c1992f6edbffbe5beba89a2bb1b6c3afe03054d544ccd3ad5d8b7607f51a7d1b29ff8b9ff245923a68b</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem -1 35</string>
-            </array>
-          </dict>
+          <string>vstem -1 35</string>
         </array>
-        <key>id</key>
-        <string>180058682e8b9d08bac4f99cf305936aa53ef3c87cac7c1992f6edbffbe5beba89a2bb1b6c3afe03054d544ccd3ad5d8b7607f51a7d1b29ff8b9ff245923a68b</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

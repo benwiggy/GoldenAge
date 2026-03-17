@@ -1,74 +1,66 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE522" format="2">
   <advance width="524"/>
   <unicode hex="E522"/>
   <outline>
     <contour>
-      <point x="474" y="373" type="curve" smooth="yes"/>
-      <point x="444" y="415"/>
-      <point x="338" y="427"/>
-      <point x="284" y="388" type="curve" smooth="yes"/>
-      <point x="222" y="343"/>
-      <point x="199" y="263"/>
-      <point x="180" y="192" type="curve"/>
-      <point x="95" y="192" type="line"/>
-      <point x="62" y="156" type="line"/>
-      <point x="174" y="156" type="line"/>
-      <point x="147" y="43"/>
-      <point x="165" y="-94"/>
-      <point x="15" y="-139" type="curve" smooth="yes"/>
-      <point x="-95" y="-172"/>
-      <point x="-59" y="-92"/>
-      <point x="-100" y="-158" type="curve"/>
-      <point x="-117" y="-202"/>
-      <point x="-1" y="-235"/>
-      <point x="95" y="-155" type="curve" smooth="yes"/>
-      <point x="172" y="-91"/>
-      <point x="218" y="51"/>
-      <point x="238" y="153" type="curve"/>
-      <point x="317" y="153" type="line"/>
-      <point x="350" y="189" type="line"/>
-      <point x="243" y="189" type="line"/>
-      <point x="254" y="242"/>
-      <point x="268" y="299"/>
-      <point x="302" y="340" type="curve"/>
-      <point x="331" y="351"/>
-      <point x="397" y="390"/>
-      <point x="427" y="332" type="curve"/>
-      <point x="445" y="273"/>
-      <point x="431" y="286"/>
-      <point x="469" y="302" type="curve" smooth="yes"/>
-      <point x="507" y="318"/>
-      <point x="497" y="341"/>
+      <point x="474" y="413" type="curve" smooth="yes"/>
+      <point x="444" y="455"/>
+      <point x="338" y="467"/>
+      <point x="284" y="428" type="curve" smooth="yes"/>
+      <point x="222" y="383"/>
+      <point x="199" y="303"/>
+      <point x="180" y="232" type="curve"/>
+      <point x="95" y="232" type="line"/>
+      <point x="62" y="196" type="line"/>
+      <point x="174" y="196" type="line"/>
+      <point x="147" y="83"/>
+      <point x="165" y="-54"/>
+      <point x="15" y="-99" type="curve" smooth="yes"/>
+      <point x="-95" y="-132"/>
+      <point x="-59" y="-52"/>
+      <point x="-100" y="-118" type="curve"/>
+      <point x="-117" y="-162"/>
+      <point x="-1" y="-195"/>
+      <point x="95" y="-115" type="curve" smooth="yes"/>
+      <point x="172" y="-51"/>
+      <point x="218" y="91"/>
+      <point x="238" y="193" type="curve"/>
+      <point x="317" y="193" type="line"/>
+      <point x="350" y="229" type="line"/>
+      <point x="243" y="229" type="line"/>
+      <point x="254" y="282"/>
+      <point x="268" y="339"/>
+      <point x="302" y="380" type="curve"/>
+      <point x="331" y="391"/>
+      <point x="397" y="430"/>
+      <point x="427" y="372" type="curve"/>
+      <point x="445" y="313"/>
+      <point x="431" y="326"/>
+      <point x="469" y="342" type="curve" smooth="yes"/>
+      <point x="507" y="358"/>
+      <point x="497" y="381"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>dynamics</string>
-      </array>
-      <key>_description</key>
-      <string>Forte</string>
-      <key>_name</key>
-      <string>dynamicForte</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e2a68e3fb60fa66148ab35aea5fd490f193841eee68b64674a677f06764b9495ae1843dba2a1724d04ef5b3e5f18c28ada2d27e6b7ac3134b4ac91a9b6ff5f8f</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 153 36</string>
-              <string>hstem 156 36</string>
-            </array>
-          </dict>
+          <string>hstem 193 36</string>
+          <string>hstem 196 36</string>
         </array>
-        <key>id</key>
-        <string>b453ac4a58c1a2ebdfd6cff8705be700798ff4f7755b848fb0df7587a0e68e9f908c1b4d28dc85d351280f5c76c026622745fb4f76378b463996c8ef5d83032d</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

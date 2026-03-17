@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE861" format="2">
   <advance width="789"/>
   <unicode hex="E861"/>
@@ -158,28 +158,24 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_description</key>
-      <string>Nebenstimme</string>
-      <key>_name</key>
-      <string>analyticsNebenstimme</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0425034b1260bdae80d767d27b0011daf56706720db68d654b866a9fa913f286ad2905a02d62d8a2ae318704b38c8a0c11a21b778eecc1c56bdb4e7798647083</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 717 84</string>
-              <string>hstem 717 86</string>
-            </array>
-          </dict>
+          <string>hstem 717 84</string>
+          <string>hstem 717 86</string>
         </array>
-        <key>id</key>
-        <string>0425034b1260bdae80d767d27b0011daf56706720db68d654b866a9fa913f286ad2905a02d62d8a2ae318704b38c8a0c11a21b778eecc1c56bdb4e7798647083</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

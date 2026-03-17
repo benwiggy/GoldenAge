@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE4E0" format="2">
   <advance width="366"/>
   <unicode hex="E4E0"/>
-  <note>
-restMaxima
-</note>
+  <note>restMaxima</note>
   <outline>
     <contour>
       <point x="276" y="-255" type="curve" smooth="yes"/>
@@ -74,38 +72,30 @@ restMaxima
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>rests</string>
-      </array>
-      <key>_description</key>
-      <string>Maxima rest</string>
-      <key>_name</key>
-      <string>restMaxima</string>
-      <key>note</key>
-      <string>restMaxima</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>note</key>
+  <string>restMaxima</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f1b3e60bc8f5afe53c513b3efde72a4afad16be1e730d93cbe1d8b16d45ef46598e449a6fcfb0c210e9841fbd47c50587c9f663b5b389a9870b2cea621947aaf</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -234 -21</string>
-              <string>hstem 255 -20</string>
-              <string>vstem 0 120</string>
-              <string>vstem 2 118</string>
-              <string>vstem 236 124</string>
-              <string>vstem 247 118</string>
-            </array>
-          </dict>
+          <string>hstem -234 -21</string>
+          <string>hstem 255 -20</string>
+          <string>vstem 0 120</string>
+          <string>vstem 2 118</string>
+          <string>vstem 236 124</string>
+          <string>vstem 247 118</string>
         </array>
-        <key>id</key>
-        <string>f1b3e60bc8f5afe53c513b3efde72a4afad16be1e730d93cbe1d8b16d45ef46598e449a6fcfb0c210e9841fbd47c50587c9f663b5b389a9870b2cea621947aaf</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

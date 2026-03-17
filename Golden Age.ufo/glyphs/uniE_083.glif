@@ -1,9 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE083" format="2">
   <advance width="358"/>
   <unicode hex="E083"/>
-  <guideline x="0" y="250" angle="0"/>
-  <guideline x="0" y="-250" angle="0"/>
   <outline>
     <contour>
       <point x="338" y="149" type="curve" smooth="yes"/>
@@ -56,16 +54,6 @@
       <point x="338" y="93"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>tf_zeroWidth</string>
-      </array>
-      <key>_description</key>
-      <string>Time signature 3</string>
-      <key>_name</key>
-      <string>timeSig3</string>
-    </dict>
-  </lib>
+  <guideline angle="0" x="0" y="250"/>
+  <guideline angle="0" x="0" y="-250"/>
 </glyph>

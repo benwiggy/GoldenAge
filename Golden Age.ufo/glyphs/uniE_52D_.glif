@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE52D" format="2">
   <advance width="995"/>
   <unicode hex="E52D"/>
@@ -101,32 +101,24 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>dynamics</string>
-      </array>
-      <key>_description</key>
-      <string>mf</string>
-      <key>_name</key>
-      <string>dynamicMF</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>3765a65eae4330739d14c2549fd441e56ac1eb0ba097f2251e1f9bbd74a5f91b45f6b9961af145f62b7624017b058e095a3d8ea985755214277955b9eb7e0f43</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 203 36</string>
-              <string>hstem 206 36</string>
-            </array>
-          </dict>
+          <string>hstem 203 36</string>
+          <string>hstem 206 36</string>
         </array>
-        <key>id</key>
-        <string>3765a65eae4330739d14c2549fd441e56ac1eb0ba097f2251e1f9bbd74a5f91b45f6b9961af145f62b7624017b058e095a3d8ea985755214277955b9eb7e0f43</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

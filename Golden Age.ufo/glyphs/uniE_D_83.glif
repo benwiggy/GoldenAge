@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniED83" format="2">
   <advance width="222"/>
   <unicode hex="ED83"/>
-  <note>
-fingering3Italic
-</note>
+  <note>fingering3Italic</note>
   <outline>
     <contour>
       <point x="111" y="1" type="curve" smooth="yes"/>
@@ -110,31 +108,27 @@ fingering3Italic
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_description</key>
-      <string>Fingering 3 italic (middle finger)</string>
-      <key>_name</key>
-      <string>fingering3Italic</string>
-      <key>note</key>
-      <string>fingering3Italic</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>note</key>
+  <string>fingering3Italic</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>15163dc79bfadb632e13b02a1023a3d5366522b478d1330184503447b5576b48b064a91d83d9e2cca844ff30571222f5c0c38594661833adda045355d7de7e72</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 21 -21</string>
-              <string>hstem 213 33</string>
-              <string>vstem 136 38</string>
-            </array>
-          </dict>
+          <string>hstem 21 -21</string>
+          <string>hstem 213 33</string>
+          <string>vstem 136 38</string>
         </array>
-        <key>id</key>
-        <string>15163dc79bfadb632e13b02a1023a3d5366522b478d1330184503447b5576b48b064a91d83d9e2cca844ff30571222f5c0c38594661833adda045355d7de7e72</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

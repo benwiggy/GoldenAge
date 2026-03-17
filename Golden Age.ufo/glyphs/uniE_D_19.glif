@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniED19" format="2">
   <advance width="139"/>
   <unicode hex="ED19"/>
-  <note>
-fingeringILower
-</note>
+  <note>fingeringILower</note>
   <outline>
     <contour>
       <point x="74" y="314" type="curve" smooth="yes"/>
@@ -85,35 +83,27 @@ fingeringILower
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>tf_figuredBass</string>
-      </array>
-      <key>_description</key>
-      <string>Fingering i (indicio; right-hand index finger for guitar)</string>
-      <key>_name</key>
-      <string>fingeringILower</string>
-      <key>note</key>
-      <string>fingeringILower</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>note</key>
+  <string>fingeringILower</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>bab92e6c17612998776ffbd81a6adb2bdf8fa77fa5927d843e2075695a3294360e16938d161c4ba7c0eb6a6f5661c34239f4e4740baa7370f6982ceed234bf65</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 21 -21</string>
-              <string>hstem 366 -20</string>
-              <string>vstem 36 42</string>
-            </array>
-          </dict>
+          <string>hstem 21 -21</string>
+          <string>hstem 366 -20</string>
+          <string>vstem 36 42</string>
         </array>
-        <key>id</key>
-        <string>bab92e6c17612998776ffbd81a6adb2bdf8fa77fa5927d843e2075695a3294360e16938d161c4ba7c0eb6a6f5661c34239f4e4740baa7370f6982ceed234bf65</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

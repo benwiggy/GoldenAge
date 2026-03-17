@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniED23" format="2">
   <advance width="177"/>
   <unicode hex="ED23"/>
-  <note>
-fingeringMultipleNotes
-</note>
+  <note>fingeringMultipleNotes</note>
   <outline>
     <contour>
       <point x="169" y="0" type="curve" smooth="yes"/>
@@ -54,38 +52,30 @@ fingeringMultipleNotes
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>tf_figuredBass</string>
-      </array>
-      <key>_description</key>
-      <string>Multiple notes played by thumb or single finger</string>
-      <key>_name</key>
-      <string>fingeringMultipleNotes</string>
-      <key>note</key>
-      <string>fingeringMultipleNotes</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>note</key>
+  <string>fingeringMultipleNotes</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e91e601854d00acf6d44288bf02102eaafe8d3e849adf906ff5b102f4fef2985e6b9ff202c01a958dbff51d773f4ce6e399cda77eb8404e96bc476195f067768</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 1 35</string>
-              <string>hstem 4 34</string>
-              <string>hstem 243 32</string>
-              <string>hstem 243 39</string>
-              <string>vstem 0 35</string>
-              <string>vstem 5 34</string>
-            </array>
-          </dict>
+          <string>hstem 1 35</string>
+          <string>hstem 4 34</string>
+          <string>hstem 243 32</string>
+          <string>hstem 243 39</string>
+          <string>vstem 0 35</string>
+          <string>vstem 5 34</string>
         </array>
-        <key>id</key>
-        <string>e91e601854d00acf6d44288bf02102eaafe8d3e849adf906ff5b102f4fef2985e6b9ff202c01a958dbff51d773f4ce6e399cda77eb8404e96bc476195f067768</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

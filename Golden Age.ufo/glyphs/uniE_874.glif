@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE874" format="2">
   <advance width="327"/>
   <unicode hex="E874"/>
@@ -34,29 +34,25 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_description</key>
-      <string>Minor</string>
-      <key>_name</key>
-      <string>csymMinor</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>537dd5fcc5b16a6094706684cdcc769e8bff193b2afa896ef335fa28e943bebb826a5c2ec3d6ef8cf00e397c62c08bf673598e2d30598358ea43a47b77d9e21a</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 162 69</string>
-              <string>hstem 166 65</string>
-              <string>hstem 251 -20</string>
-            </array>
-          </dict>
+          <string>hstem 162 69</string>
+          <string>hstem 166 65</string>
+          <string>hstem 251 -20</string>
         </array>
-        <key>id</key>
-        <string>537dd5fcc5b16a6094706684cdcc769e8bff193b2afa896ef335fa28e943bebb826a5c2ec3d6ef8cf00e397c62c08bf673598e2d30598358ea43a47b77d9e21a</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

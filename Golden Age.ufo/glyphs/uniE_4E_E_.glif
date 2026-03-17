@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE4EE" format="2">
   <advance width="805"/>
   <unicode hex="E4EE"/>
@@ -107,39 +107,30 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>combiningStaffPositions</string>
-        <string>rests</string>
-      </array>
-      <key>_description</key>
-      <string>Multiple measure rest</string>
-      <key>_name</key>
-      <string>restHBar</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>25fab3a8df4c91bddc68d89df2fe35311546422a73f653790db0b5613aa541adc86e31d591ec386356c1e3f655c2760ac20a34e89d888ec012b06903c4bdb9e8</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -280 -21</string>
-              <string>hstem -113 239</string>
-              <string>hstem -113 235</string>
-              <string>hstem 267 -20</string>
-              <string>vstem 2 62</string>
-              <string>vstem 2 55</string>
-              <string>vstem 739 65</string>
-              <string>vstem 749 55</string>
-            </array>
-          </dict>
+          <string>hstem -280 -21</string>
+          <string>hstem -113 239</string>
+          <string>hstem -113 235</string>
+          <string>hstem 267 -20</string>
+          <string>vstem 2 62</string>
+          <string>vstem 2 55</string>
+          <string>vstem 739 65</string>
+          <string>vstem 749 55</string>
         </array>
-        <key>id</key>
-        <string>25fab3a8df4c91bddc68d89df2fe35311546422a73f653790db0b5613aa541adc86e31d591ec386356c1e3f655c2760ac20a34e89d888ec012b06903c4bdb9e8</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

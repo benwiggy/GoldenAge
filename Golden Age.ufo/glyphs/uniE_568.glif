@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE568" format="2">
   <advance width="558"/>
   <unicode hex="E568"/>
@@ -27,34 +27,25 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>ornaments</string>
-        <string>tf_ornaments</string>
-      </array>
-      <key>_description</key>
-      <string>Inverted turn</string>
-      <key>_name</key>
-      <string>ornamentTurnInverted</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8166d25b54a24e168a86a37e86cedf0ef5f67bfb390260c8e1624527a2c8b55fd7eea944967327111c34a5fd21a596d30230a6f7683cd937080f50d84e417c11</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 2 57</string>
-              <string>hstem 187 59</string>
-              <string>hstem 211 45</string>
-            </array>
-          </dict>
+          <string>hstem 2 57</string>
+          <string>hstem 187 59</string>
+          <string>hstem 211 45</string>
         </array>
-        <key>id</key>
-        <string>8166d25b54a24e168a86a37e86cedf0ef5f67bfb390260c8e1624527a2c8b55fd7eea944967327111c34a5fd21a596d30230a6f7683cd937080f50d84e417c11</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

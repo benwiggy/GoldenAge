@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE4E2" format="2">
   <advance width="122"/>
   <unicode hex="E4E2"/>
-  <note>
-restDoubleWhole
-</note>
+  <note>restDoubleWhole</note>
   <outline>
     <contour>
       <point x="30" y="0" type="curve" smooth="yes"/>
@@ -46,37 +44,28 @@ restDoubleWhole
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>combiningStaffPositions</string>
-        <string>rests</string>
-      </array>
-      <key>_description</key>
-      <string>Double whole (breve) rest</string>
-      <key>_name</key>
-      <string>restDoubleWhole</string>
-      <key>note</key>
-      <string>restDoubleWhole</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>note</key>
+  <string>restDoubleWhole</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>5ee950c85e43e5931b56c8d2a7ae82ee8ac9ba998c1f6b9dd6d9e7f5f9a6e5026db5bac00dde4e898b5175c99c7bfd0c2e011b2f431d2962dc7049de728b2306</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 21 -21</string>
-              <string>hstem 249 -20</string>
-              <string>vstem 1 119</string>
-              <string>vstem 3 119</string>
-            </array>
-          </dict>
+          <string>hstem 21 -21</string>
+          <string>hstem 249 -20</string>
+          <string>vstem 1 119</string>
+          <string>vstem 3 119</string>
         </array>
-        <key>id</key>
-        <string>5ee950c85e43e5931b56c8d2a7ae82ee8ac9ba998c1f6b9dd6d9e7f5f9a6e5026db5bac00dde4e898b5175c99c7bfd0c2e011b2f431d2962dc7049de728b2306</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

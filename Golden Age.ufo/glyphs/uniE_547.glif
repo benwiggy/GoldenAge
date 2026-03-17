@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE547" format="2">
   <advance width="281"/>
   <unicode hex="E547"/>
-  <note>
-dynamicCombinedSeparatorHyphen
-</note>
+  <note>dynamicCombinedSeparatorHyphen</note>
   <outline>
     <contour>
       <point x="205" y="104" type="curve" smooth="yes"/>
@@ -32,34 +30,26 @@ dynamicCombinedSeparatorHyphen
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>dynamics</string>
-      </array>
-      <key>_description</key>
-      <string>Hyphen separator for combined dynamics</string>
-      <key>_name</key>
-      <string>dynamicCombinedSeparatorHyphen</string>
-      <key>note</key>
-      <string>dynamicCombinedSeparatorHyphen</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>note</key>
+  <string>dynamicCombinedSeparatorHyphen</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>c9cfd8693e942bd4eb0591e9eadf120f5eae1c8411d73ca313ec1539557e291f0c3435800d456d025a8a8a65f41568c7be7e4f6eef4cc8ee85f77e12b8398b6b</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 104 62</string>
-              <string>hstem 110 59</string>
-            </array>
-          </dict>
+          <string>hstem 104 62</string>
+          <string>hstem 110 59</string>
         </array>
-        <key>id</key>
-        <string>c9cfd8693e942bd4eb0591e9eadf120f5eae1c8411d73ca313ec1539557e291f0c3435800d456d025a8a8a65f41568c7be7e4f6eef4cc8ee85f77e12b8398b6b</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE526" format="2">
   <advance width="352"/>
   <unicode hex="E526"/>
-  <note>
-dynamicNiente
-</note>
+  <note>dynamicNiente</note>
   <outline>
     <contour>
       <point x="310" y="310" type="curve" smooth="yes"/>
@@ -59,37 +57,29 @@ dynamicNiente
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>dynamics</string>
-      </array>
-      <key>_description</key>
-      <string>Niente</string>
-      <key>_name</key>
-      <string>dynamicNiente</string>
-      <key>note</key>
-      <string>dynamicNiente</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>note</key>
+  <string>dynamicNiente</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>45922fb4a7fed8db8ff75530043ad6237219a61d3199aebe63c6807de527bb5e5008b1234c2f88f9a4be41ea6b9b4a8a2ea852d5330a469df04caa0e25daf1fd</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 0 39</string>
-              <string>hstem 250 60</string>
-              <string>hstem 253 55</string>
-              <string>vstem 147 205</string>
-              <string>vstem 294 58</string>
-            </array>
-          </dict>
+          <string>hstem 0 39</string>
+          <string>hstem 250 60</string>
+          <string>hstem 253 55</string>
+          <string>vstem 147 205</string>
+          <string>vstem 294 58</string>
         </array>
-        <key>id</key>
-        <string>45922fb4a7fed8db8ff75530043ad6237219a61d3199aebe63c6807de527bb5e5008b1234c2f88f9a4be41ea6b9b4a8a2ea852d5330a469df04caa0e25daf1fd</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

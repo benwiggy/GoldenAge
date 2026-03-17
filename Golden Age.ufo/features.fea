@@ -76,3 +76,47 @@ sub uniE080 from [uniF506];
 #> feature
 #< feature
 } ss03;
+feature kern {
+
+  lookup KERN_LTR  {
+  lookupflag IgnoreMarks;
+    pos seven eight -25;
+    pos seven A -92;
+    pos seven a -93;
+    pos F i -50;
+    pos F l -72;
+    pos F r -59;
+    pos L T -65;
+    pos M o 29;
+    pos S a -57;
+    pos S e -34;
+    pos S o -18;
+    pos T a -152;
+    pos T b -156;
+    pos T e -168;
+    pos T h -95;
+    pos T i -101;
+    pos T l -87;
+    pos T o -121;
+    pos T p -125;
+    pos T r -131;
+    pos T u -97;
+    pos V a -107;
+    pos V c -72;
+    pos V i -33;
+    pos V l -43;
+    pos V u -22;
+    pos l i 14;
+    pos n d -43;
+    pos p a -56;
+    pos v a -55;
+    pos v i 19;
+    pos uniE520 uniE520 -55;
+    pos uniE524 uniE522 -73;
+    pos uniE522 uniE520 -177;
+    pos uniE522 uniE522 -202;
+    pos uniE522 uniE525 -119;
+    pos uniE523 uniE522 -55;
+  } KERN_LTR;
+
+} kern;

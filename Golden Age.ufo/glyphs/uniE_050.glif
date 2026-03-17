@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE050" format="2">
   <advance width="621"/>
   <unicode hex="E050"/>
-  <note>
-gClef
-</note>
+  <note>gClef</note>
   <outline>
     <contour>
       <point x="617" y="80" type="curve" smooth="yes"/>
@@ -103,39 +101,30 @@ gClef
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>clefs</string>
-        <string>clefsG</string>
-      </array>
-      <key>_description</key>
-      <string>G clef</string>
-      <key>_name</key>
-      <string>gClef</string>
-      <key>note</key>
-      <string>gClef</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>note</key>
+  <string>gClef</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8d52f2ee7e0ea7585e7ed9eff54b396effadc48d2d56dab122c8c3c1afd613ce03202e073945176e9e34a76ed96f1fcce0194d5b3f935030c52b47ca1c7eed19</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -665 -21</string>
-              <string>hstem -347 92</string>
-              <string>vstem 2 81</string>
-              <string>vstem 83 116</string>
-              <string>vstem 153 84</string>
-              <string>vstem 237 106</string>
-            </array>
-          </dict>
+          <string>hstem -665 -21</string>
+          <string>hstem -347 92</string>
+          <string>vstem 2 81</string>
+          <string>vstem 83 116</string>
+          <string>vstem 153 84</string>
+          <string>vstem 237 106</string>
         </array>
-        <key>id</key>
-        <string>8d52f2ee7e0ea7585e7ed9eff54b396effadc48d2d56dab122c8c3c1afd613ce03202e073945176e9e34a76ed96f1fcce0194d5b3f935030c52b47ca1c7eed19</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

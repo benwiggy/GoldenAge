@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniE1D9" format="2">
   <advance width="601"/>
   <unicode hex="E1D9"/>
@@ -39,33 +39,24 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>_classes</key>
-      <array>
-        <string>combiningStaffPositions</string>
-        <string>forTextBasedApplications</string>
-      </array>
-      <key>_description</key>
-      <string>16th note (semiquaver) stem up</string>
-      <key>_name</key>
-      <string>note16thUp</string>
-      <key>public.postscript.hints</key>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2b43a9ea351af2fc3815c4946bf01c74a4fca045b28fa09e4dadae3cc1e0166c678af4d7581b48d7017a13052e9e3b5e0802dcc3feaa0882d60f2448eddc1558</string>
+    <key>hintSetList</key>
+    <array>
       <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
+        <key>stems</key>
         <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>vstem 323 45</string>
-              <string>vstem 368 204</string>
-            </array>
-          </dict>
+          <string>vstem 323 45</string>
+          <string>vstem 368 204</string>
         </array>
-        <key>id</key>
-        <string>2b43a9ea351af2fc3815c4946bf01c74a4fca045b28fa09e4dadae3cc1e0166c678af4d7581b48d7017a13052e9e3b5e0802dcc3feaa0882d60f2448eddc1558</string>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

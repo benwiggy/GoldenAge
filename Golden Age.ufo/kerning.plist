@@ -90,6 +90,30 @@
     <key>eight</key>
     <integer>-25</integer>
   </dict>
+  <key>uniE520</key>
+  <dict>
+    <key>uniE520</key>
+    <integer>-55</integer>
+  </dict>
+  <key>uniE522</key>
+  <dict>
+    <key>uniE520</key>
+    <integer>-177</integer>
+    <key>uniE522</key>
+    <integer>-202</integer>
+    <key>uniE525</key>
+    <integer>-119</integer>
+  </dict>
+  <key>uniE523</key>
+  <dict>
+    <key>uniE522</key>
+    <integer>-55</integer>
+  </dict>
+  <key>uniE524</key>
+  <dict>
+    <key>uniE522</key>
+    <integer>-73</integer>
+  </dict>
   <key>v</key>
   <dict>
     <key>a</key>
